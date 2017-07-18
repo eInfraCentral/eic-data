@@ -1,0 +1,28 @@
+<service>
+    <id>"03.08"</id>
+    <brandName>"eduroam"</brandName>
+    <tagline>"Seamless Wi-Fi access for research and education around the world​."</tagline>
+    <fullName>"-"</fullName>
+    <description>"e​​duroam​ (education roaming) is the secure, world-wide roaming access service developed for the
+        international research and education community. eduroam allows students, researchers and staff​ to seamlessly
+        access internet connectivity when within range of a hotspot, whether they're moving across campus
+        or visiting other participating institutions​."
+    </description>
+    <targetUsers>"NRENs "</targetUsers>
+    <userValue>"With benefits for users and for their campus IT departments, eduroam saves time and facilitates active
+        and enduring collaboration between countries and institutions. eduroam supports research and education by
+        providing: roaming broadband in more than 80 territories worldwide; access at thousands of locations, with one
+        ​password; secure and privacy-preserving technology; reciprocal service that is free-of-charge to users."
+    </userValue>
+    <provider>"GÉANT and Global eduroam governance committee"</provider>
+    <webpage>"www.eduroam.org"</webpage>
+    <phase>"Production"</phase>
+    <category>"Connectivity"</category>
+    <request>"www.eduroam.org"</request>
+    <helpdesk>"www.eduroam.org"</helpdesk>
+    <documentation>"www.eduroam.org"</documentation>
+    <trainingInformation>"www.eduroam.org"</trainingInformation>
+    <feedback>"www.eduroam.org"</feedback>
+    <pricing>"paid for by Ass subscription"</pricing>
+    <termsOfUse>"www.eduroam.org"</termsOfUse>
+</service>

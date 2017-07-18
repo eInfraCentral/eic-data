@@ -1,0 +1,35 @@
+<service>
+    <id>"03.03"</id>
+    <brandName>"GÉANT Lambda"</brandName>
+    <tagline>"High-performance interconnectivity for the most demanding networking requirements."</tagline>
+    <fullName>"-"</fullName>
+    <description>"GÉANT Lambda provides full wavelengths at up to 100Gbps to support NREN users with particularly
+        demanding network requirements. The service provides transparent 10Gbps, or 100Gbps wavelengths between GÉANT
+        PoPs. "
+    </description>
+    <targetUsers>"NRENs"</targetUsers>
+    <userValue>"Ideally suited to major international projects, Point-to-Point services offer a high performance
+        networking solution."
+    </userValue>
+    <provider>"GÉANT"</provider>
+    <fundingSources>"co-funded NREN and H2020 funding"</fundingSources>
+    <webpage>"https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_Point-to-Point.aspx"</webpage>
+    <phase>"Production"</phase>
+    <category>"Connectivity"</category>
+    <relatedServices>"GÉANT Plus"</relatedServices>
+    <request>"https://partner.geant.net/Public/home.aspx"</request>
+    <helpdesk>"https://partner.geant.net/Public/home.aspx"</helpdesk>
+    <documentation>"https://partner.geant.net/Public/home.aspx"</documentation>
+    <trainingInformation>"https://partner.geant.net/Public/home.aspx"</trainingInformation>
+    <feedback>"https://partner.geant.net/Public/home.aspx"</feedback>
+    <pricing>"paid for by Ass subscription"</pricing>
+    <serviceLevelAgreement>
+        "https://www.geant.org/Services/Connectivity_and_network/PublishingImages/Pages/GEANT_Point-to-Point/GEANT%20Lambda%20Service%20Description%20Jan%202016.pdf"
+    </serviceLevelAgreement>
+    <options>"GÉANT Lambda services can be provided unprotected or restored using GMPLS (Generalised Multiprotocol Label
+        Switching) signalling. "
+    </options>
+    <termsOfUse>
+        "https://www.geant.org/Services/Connectivity_and_network/PublishingImages/Pages/GEANT_Point-to-Point/GEANT%20Lambda%20Service%20Description%20Jan%202016.pdf"
+    </termsOfUse>
+</service>

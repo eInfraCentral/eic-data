@@ -1,0 +1,35 @@
+<service>
+    <id>"01.16"</id>
+    <brandName>"Validated Software and Repository"</brandName>
+    <tagline>"Benefit from a repository of high-quality software validated for the EGI infrastructure"</tagline>
+    <fullName>"-"</fullName>
+    <description>"This service provides a collection of IT tools that Council participants and/or user communities may
+        require to manage their work. This service provide a repository of software provided by the EGI Technology
+        Providers
+        and validated by the EGI Software Provisioning process. The software distributed through the repository follows
+        the
+        quality criteria and the staged-rollout rules defined in the EGI Software Provisioning process.
+        Software Provisioning allows for:
+        - Great visibility of the software published and integrated with EGI
+        - Automatic updates of software packages
+        - Reduced overall time needed in package management
+        - Improved reliability of the software passing through the verification chain"
+    </description>
+    <targetUsers>"Customer: EGI service providers
+        User: Site administrators; software developers."
+    </targetUsers>
+    <userValue>"- Great visibility of the software published and integrated with EGI
+        - Reduced overall time needed in package management"
+    </userValue>
+    <userBase>"EGI resource providers: https://www.egi.eu/federation/data-centres/"</userBase>
+    <provider>"EGI Foundation (via EGI resource providers)"</provider>
+    <fundingSources>"Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+        EGI participant fees + in-kind contribution from service providers"
+    </fundingSources>
+    <webpage>"https://www.egi.eu/internal-services/validated-software-and-repository/"</webpage>
+    <phase>"Production"</phase>
+    <technologyReadinessLevel>"8"</technologyReadinessLevel>
+    <category>"Repository"</category>
+    <subcategory>"Software repository"</subcategory>
+    <request>"https://www.egi.eu/request-service/"</request>
+</service>

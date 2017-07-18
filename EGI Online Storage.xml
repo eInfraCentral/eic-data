@@ -1,0 +1,67 @@
+<service>
+    <id>"01.05"</id>
+    <brandName>"Online Storage"</brandName>
+    <tagline>"Store, share and access your files and their metadata on a global scale"</tagline>
+    <fullName>"-"</fullName>
+    <description>"Store data in a reliable and high quality environment and share it across distributed teams. Your data
+        can be accessed through different standard protocols and can be replicated across different providers to
+        increase
+        fault-tolerance. Online Storage gives you complete control over the data you share and with whom.
+        Main characteristics:
+        - Assign global identifiers to files
+        - Access highly-scalable storage from anywhere
+        - Control the data you share
+        - Organise your data using a flexible hierarchical structure"
+    </description>
+    <targetUsers>"Customers: research organisations, SME/Industry
+        Users: researchers, innovators"
+    </targetUsers>
+    <userValue>"- Easily share and organise your data
+        - Control the data you share"
+    </userValue>
+    <userBase>"Virtual organisations: acc-comp.egi.eu, aegis, afigrid.cl, alice, ams02.cern.ch, apesci, argo,
+        astro.vo.eu-egee.org, astron, atlas, auger, auvergrid, bbmri.nl, beapps, belle, bing.vo.ibergrid.eu,
+        bioinfo.twgrid.org, bioisi, biomed, calet.org, calice, camont, cdf, cernatschool.org, cesga,
+        chem.vo.ibergrid.eu,
+        chipster.csc.fi, cms, comet.j-parc.jp, compchem, dech, demo.fedcloud.egi.eu, desy, dream.hipcat.net, drihm.eu,
+        dteam, dune, dzero, earth.vo.ibergrid.eu, eiscat.se, eli-beams.eu, eli-np.eu, enea, eng.vo.ibergrid.eu, enmr.eu,
+        esr, euasia.euasiagrid.org, euchina, euindia, eumed, fedcloud.egi.eu, fermilab, gaussian, geant4,
+        geohazards.terradue.com, gerda.mpg.de, ghep, gilda, glast.org, gridifin.ro, gridit, gridpp, harpo.cea.fr,
+        hermes,
+        highthroughputseq.egi.eu, hone, hydrology.terradue.com, hyperk.org, iber.vo.ibergrid.eu, icarus-exp.org,
+        icecube,
+        ict.vo.ibergrid.eu, ific, ilc, ildg, imath.cesga.es, inaf, infngrid, ipv6.hepix.org, juno, km3net.org,
+        lagoproject.org, lhcb, life.vo.ibergrid.eu, lofar, lsgrid, lsst, lz, magic, mice, na62.vo.gridpp.ac.uk,
+        neiss.org.uk, net.egi.eu, nordugrid.org, nw_ru, ops, ops.ndgf.org, ops.vo.ibergrid.eu, pacs.infn.it, pamela,
+        peachnote.com, pheno, phys.vo.ibergrid.eu, planck, proactive, prod.vo.eu-eela.eu, projects.nl, pvier, rdfa,
+        ronbio.ro, sagrid.ac.za, see, seismo.see-grid-sci.eu, skatelescope.eu, snoplus.snolab.ca, social.vo.ibergrid.eu,
+        solidexperiment.org, superbvo.org, supernemo.vo.eu-egee.org, t2k.org, theophys, training.egi.eu, trgrida,
+        trgridb,
+        trgridd, trgride, tut.vo.ibergrid.eu, twgrid, ukqcd, verce.eu, virgo, vlemed, vo.access.egi.eu,
+        vo.africa-grid.org,
+        vo.agata.org, vo.aginfra.eu, vo.apc.univ-paris7.fr, vo.astro.pic.es, vo.chain-project.eu, vo.compass.cern.ch,
+        vo.cta.in2p3.fr, vo.dariah.eu, vo.dch-rp.eu, vo.dirac.ac.uk, vo.earthserver.eu, vo.elixir-europe.org,
+        vo.eu-decide.eu, vo.formation.idgrilles.fr, vo.france-asia.org, vo.france-grilles.fr, vo.grand-est.fr,
+        vo.gridcl.fr,
+        vo.grif.fr, vo.helio-vo.eu, vo.hess-experiment.eu, vo.indicate-project.eu, vo.indigo-datacloud.eu, vo.ingv.it,
+        vo.ipnl.in2p3.fr, vo.ipno.in2p3.fr, vo.irfu.cea.fr, vo.lal.in2p3.fr, vo.landslides.mossaic.org,
+        vo.lapp.in2p3.fr,
+        vo.lifewatch.eu, vo.llr.in2p3.fr, vo.londongrid.ac.uk, vo.lpnhe.in2p3.fr, vo.lpsc.in2p3.fr, vo.magrid.ma,
+        vo.mcia.fr, vo.moedal.org, vo.msfg.fr, vo.mure.in2p3.fr, vo.nbis.se, vo.neugrid.eu, vo.northgrid.ac.uk,
+        vo.padme.org, vo.panda.gsi.de, vo.paus.pic.es, vo.pic.es, vo.plgrid.pl, vo.renabi.fr,
+        vo.rhone-alpes.idgrilles.fr,
+        vo.sbg.in2p3.fr, vo.scotgrid.ac.uk, vo.sim-e-child.org, vo.southgrid.ac.uk, vo.up.pt, vo.u-psud.fr, voce,
+        xenon.biggrid.nl, zeus "
+    </userBase>
+    <provider>"EGI Foundation (via EGI resource providers)"</provider>
+    <fundingSources>"Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+        capacity supported by national funding, federation and support co-funded between national funding and EC H2020
+        projects"
+    </fundingSources>
+    <webpage>"https://www.egi.eu/services/online-storage/"</webpage>
+    <phase>"Production"</phase>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
+    <category>"Storage and Data "</category>
+    <subcategory>"object storage"</subcategory>
+    <request>"https://www.egi.eu/request-service/"</request>
+</service>

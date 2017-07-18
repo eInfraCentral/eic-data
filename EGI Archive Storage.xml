@@ -1,0 +1,34 @@
+<service>
+    <id>"01.06"</id>
+    <brandName>"Archive Storage"</brandName>
+    <tagline>"Back-up your data for the long term and future use in a secure environment"</tagline>
+    <fullName>"-"</fullName>
+    <description>"Archive Storage allows you to store large amounts of data in a secure environment freeing up your
+        usual online storage resources. The data on the Archive Storage can be replicated across several storage sites,
+        thanks to the adoption of interoperable open standards. The service is optimised for infrequent access.
+        Main characteristics:
+        -Store data for long-term retention
+        -Store large amount of data
+        -Free up your online storage"
+    </description>
+    <targetUsers>"Customers: research organisations, SME/Industry
+        Users: researchers, innovators"
+    </targetUsers>
+    <userValue>"-Make disaster recovery possible
+        -Free up your online storage"
+    </userValue>
+    <userBase>"Virtual organisations: cms, lhcb, atlas, ams02.cern.ch, vo.cta.in2p3.fr, argo, vo.agata.org, magic,
+        virgo, pamela, theophys, icarus-exp.org, vo.padme.org"
+    </userBase>
+    <provider>"EGI Foundation (via EGI resource providers)"</provider>
+    <fundingSources>"Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+        capacity supported by national funding, federation and support co-funded between national funding and EC H2020
+        projects"
+    </fundingSources>
+    <webpage>"https://www.egi.eu/services/archive-storage/"</webpage>
+    <phase>"Production"</phase>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
+    <category>"Storage and Data"</category>
+    <subcategory>"Cold storage"</subcategory>
+    <request>"https://www.egi.eu/request-service/"</request>
+</service>

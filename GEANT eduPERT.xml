@@ -1,0 +1,29 @@
+<service>
+    <id>"03.10"</id>
+    <brandName>"eduPERT"</brandName>
+    <tagline>"Supporting PERTs across ​the community to achieve best network p​​erformance.​"</tagline>
+    <fullName>"-"</fullName>
+    <description>"Performance Enhancement Response Teams (PERTs) provide an investigation and consulting service to
+        academic and research users on their network performance issues. As networks and networked applications develop,
+        increasing demands are made on performance and reliability, with a need for skilled experts to be able to
+        respond rapidly to issues to help solve users’ problems quickly and efficiently.​ It is essential that teams
+        have access to the latest information, tools and experience from other experts, ensuring they pool their
+        knowledge in the face of the ever-changing technologies involved."
+    </description>
+    <targetUsers>"NRENs, Campuses, Major networking projects"</targetUsers>
+    <userValue>"eduPERT provides a centre of excellence for investigation and consulting services to academic and
+        research users on their network performance issues. By linking individual PERTs, eduPERT helps knowledge sharing
+        across the community to benefit everyone.​ Universities, other organisations and international projects are
+        encouraged to join, by setting up 'local' or 'project' PERTs and becoming part of the eduPERT Knowledge Base."
+    </userValue>
+    <provider>"GÉANT"</provider>
+    <fundingSources>"co-funded NREN and H2020 funding (where applicable)"</fundingSources>
+    <webpage>"https://services.geant.net/sites/edupert/Pages/Home.aspx"</webpage>
+    <phase>"Production"</phase>
+    <category>"Network Performance"</category>
+    <request>"https://services.geant.net/sites/edupert/Pages/Home.aspx"</request>
+    <helpdesk>"https://services.geant.net/sites/edupert/Pages/Home.aspx"</helpdesk>
+    <documentation>"https://services.geant.net/sites/edupert/Pages/Home.aspx"</documentation>
+    <trainingInformation>"https://services.geant.net/sites/edupert/Pages/Home.aspx"</trainingInformation>
+    <feedback>"https://services.geant.net/sites/edupert/Pages/Home.aspx"</feedback>
+</service>

@@ -1,0 +1,22 @@
+<service>
+    <id>"05.10"</id>
+    <brandName>"PTC"</brandName>
+    <tagline>"-"</tagline>
+    <fullName>"PRACE Training Centres"</fullName>
+    <description>"The PRACE Training Centres (PTCs) provide top-class education and training opportunities for
+        computational scientists in Europe and are the primary source for PRACE training portal materials."
+    </description>
+    <targetUsers>"Scientists and researchers"</targetUsers>
+    <provider>"Four PRACE members sites: IT4I – IT4Innovations National Supercomputing Center (Czech Republic), GRNET –
+        Greek Research and Technology Network (Greece), ICHEC – Irish Centre for High-End Computing (Ireland), SURFsara
+        (The Netherlands)"
+    </provider>
+    <fundingSources>"EC and PRACE members"</fundingSources>
+    <webpage>"http://www.prace-ri.eu/IMG/pdf/2017-05-10-PTC-Selection-press-release-FINAL.pdf"</webpage>
+    <phase>"Production"</phase>
+    <TLR>"9"</TLR>
+    <category>"Training"</category>
+    <relatedServices>"Preparatory Access"</relatedServices>
+    <pricing>"Free of charge"</pricing>
+    <termsOfUse>"Acceptable use Policies of the hosting sites"</termsOfUse>
+</service>

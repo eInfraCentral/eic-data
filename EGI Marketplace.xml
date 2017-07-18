@@ -1,0 +1,34 @@
+<service>
+    <id>"01.18"</id>
+    <brandName>"Marketplace"</brandName>
+    <tagline>"Discover and access the best IT services, data, instrumentation and research resources to perform
+        multi-disciplinary research in EGI federated environment"
+    </tagline>
+    <fullName>"-"</fullName>
+    <description>"The Marketplace provides functionality necessary for bringing together offering and demand for making
+        research. These functions include basic services for registering business entities, publishing and retrieving
+        offerings and demands, search and discover offerings according to specific research communities requirements as
+        well
+        as lateral functions like review, rating and recommendation. "
+    </description>
+    <targetUsers>"Customer: EGI service providers, Research and Technology Organisations (RTOs) and universities,
+        Research communities, SME/Industry
+        User: Researchers, especially those doing computer-aided studies."
+    </targetUsers>
+    <userValue>"- Easily discover expertise that can be tapped into based on usage of resources available
+        - Increase competitiveness by providing a low cost of entry to expensive technologies for small academic
+        institutions and businesses
+        - Facilitate inter-disciplinary research by providing access to technologies typically considered outside of a
+        particular field"
+    </userValue>
+    <userBase>"Closed set of researchers and service providers for testing "</userBase>
+    <provider>"EGI Foundation (via EGI resource providers)"</provider>
+    <fundingSources>"Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+        EGI participant fees + in-kind contribution from service providers"
+    </fundingSources>
+    <webpage>"https://www.egi.eu/internal-services"</webpage>
+    <phase>"Alpha"</phase>
+    <technologyReadinessLevel>"7"</technologyReadinessLevel>
+    <category>"Operations"</category>
+    <request>"https://www.egi.eu/request-service/"</request>
+</service>

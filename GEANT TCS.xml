@@ -1,0 +1,33 @@
+<service>
+    <id>"03.11"</id>
+    <brandName>"Trusted Certificate Service"</brandName>
+    <tagline>"Increasing online security by facilitating the deployment of digital certificates."</tagline>
+    <fullName>"-"</fullName>
+    <description>"GÉANT's Trusted Certificate Service is provided by DigiCert, is one of the largest worldwide
+        Certification Authorities (CA). TCS takes advantage of a bulk purchasing arrangement whereby participating
+        national research and education networking organisations (NRENs) may issue close to unlimited numbers of
+        certificates provided by a commercial organisation at a significantly reduced price."
+    </description>
+    <targetUsers>"NRENs"</targetUsers>
+    <userValue>"The five main types of certificates available are: ​SSL certificates – for authenticating servers and
+        establishing secure sessions with end clients. Grid certificates – for authenticating Grid hosts and services
+        (IGTF compliant). Client certificates – for identifying individual users and securing email communications. Code
+        signing certificates – for authenticating software distributed over the internet. Document signing certificates
+        – for authenticating d​ocuments from Adobe PDF, Microsoft Office, OpenOffice, and LibreOffice."
+    </userValue>
+    <provider>"GÉANT"</provider>
+    <webpage>"https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx"</webpage>
+    <phase>"Production"</phase>
+    <category>"Security"</category>
+    <subcategory>"Security, Trust and Identity"</subcategory>
+    <request>"https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx"</request>
+    <helpdesk>"https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx"</helpdesk>
+    <documentation>"https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx"</documentation>
+    <trainingInformation>"https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx"
+    </trainingInformation>
+    <feedback>"https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx"</feedback>
+    <pricing>"POA"</pricing>
+    <serviceLevelAgreement>"https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx"
+    </serviceLevelAgreement>
+    <termsOfUse>"https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx"</termsOfUse>
+</service>

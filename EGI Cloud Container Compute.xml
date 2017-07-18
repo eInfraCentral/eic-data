@@ -1,0 +1,51 @@
+<service>
+    <id>"01.01"</id>
+    <brandName>"Cloud Container Compute"</brandName>
+    <tagline>"Run Docker containers in a lightweight virtualised environment"</tagline>
+    <fullName>"-"</fullName>
+    <description>"Cloud Container Compute gives you the ability to deploy and scale Docker containers on-demand. It
+        offers guaranteed computational resources in a secure and isolated environment with a standard API access,
+        without
+        the overhead of managing the operating system. The result is improved performance, ideal for development work.
+        Main characteristics:
+        - On-demand provisioning
+        - Lightweight environment for maximised performance
+        - Standard interface to deploy on multiple service providers
+        - Interoperable and transparent
+        - Removes friction between development and operations environments."
+    </description>
+    <targetUsers>"Customers: research organisations, SME/Industry
+        Users: researchers, innovators"
+    </targetUsers>
+    <userValue>"- Improved performance
+        - ideal for development work"
+    </userValue>
+    <userBase>"Virtual organisations: ATLAS, CMS, biomed, chipster.csc.fi, d4science.org, enmr.eu, extras, peachnote,
+        DARIAH, EMSODEV, NBIS"
+    </userBase>
+    <provider>"EGI Foundation (via EGI resource providers)"</provider>
+    <fundingSources>"Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+        capacity supported by national funding, federation and support co-funded between national funding and EC H2020
+        projects"
+    </fundingSources>
+    <webpage>"https://www.egi.eu/services/cloud-container/"</webpage>
+    <phase>"Production"</phase>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
+    <category>"Compute"</category>
+    <subcategory>"Container management"</subcategory>
+    <relatedServices>"Cloud Compute, High-Throughput Compute, Online Storage, Archive Storage, Data Transfer"
+    </relatedServices>
+    <request>"https://www.egi.eu/request-service/"</request>
+    <helpdesk>"https://ggus.eu/"</helpdesk>
+    <documentation>"https://wiki.egi.eu/wiki/Federated_Cloud_user_support"</documentation>
+    <trainingInformation>"https://documents.egi.eu/public/ShowDocument?docid=2622"</trainingInformation>
+    <feedback>"support@egi.eu"</feedback>
+    <pricing>"Free: Researchers meeting policies of the service providers; Pay-for-use: Special technical requirements;
+        commercial entity support (beyond initial testing/piloting)"
+    </pricing>
+    <serviceLevelAgreement>"SLA templates available for both end users and providers"</serviceLevelAgreement>
+    <options>"Type of instance to host virtual machine (e.g. no. of cores, RAM, local disk)"</options>
+    <termsOfUse>"For Users: https://wiki.egi.eu/wiki/Federated_Cloud_user_support
+        For Providers: https://wiki.egi.eu/wiki/Federated_Cloud_resource_providers_support"
+    </termsOfUse>
+</service>

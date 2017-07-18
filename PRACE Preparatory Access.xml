@@ -1,0 +1,46 @@
+<service>
+    <id>"05.02"</id>
+    <brandName>"PRACE Preparatory Access"</brandName>
+    <tagline>"-"</tagline>
+    <fullName>"-"</fullName>
+    <description>"The objective of PRACE Preparatory Access is to allow PRACE users to optimise, scale and test codes on
+        PRACE Tier-0 systems before applying to PRACE calls for Project Access. Production runs are not allowed as part
+        of
+        PRACE Preparatory Access. Currently, PRACE offers the following schemes for Preparatory Access:
+        Type A: this scheme is intended to produce scalability plots of the performance of the codes on PRACE HPC
+        systems,
+        as well as other parameters that may be relevant to apply for PRACE calls for Project Access. The maximum
+        duration
+        of Type A projects is 2 months. To apply, go here
+        Type B:the objective of this scheme is to undertake code development and optimisation. Applicants will need to
+        describe the proposed work plan in detail, including the human resources and expertise available to implement
+        the
+        project. The maximum duration of Type B projects is 6 months. To apply, go here
+        Type C:in this scheme, PRACE experts are requested to provide the necessary support to undertake adaptations
+        (development and optimisation) to the codes of PRACE users. The maximum support that can be requested is the
+        equivalent to 6 person-months of effort. The maximum duration of Type C projects is 6 months. To apply, go here
+        Type D: this scheme allows PRACE users to start a code adaption and optimisation process on a PRACE Tier-1
+        system.
+        PRACE experts help in the system selection process. In addition to Tier-1 computing time, the PRACE user will
+        also
+        receive Tier-0 computing time towards the end of the project (in form of the Type A scheme) to test the
+        scalability
+        improvements. The work is supported by PRACE experts. The maximum support that can be requested is the
+        equivalent to
+        6 person-months of effort. The maximum duration of Type D projects is 12 months."
+    </description>
+    <targetUsers>"Scientists and researchers"</targetUsers>
+    <userValue>"Access to Tier-0 resources"</userValue>
+    <provider>"PRACE aisbl"</provider>
+    <fundingSources>"Hosting Members "</fundingSources>
+    <webpage>"http://www.prace-ri.eu/prace-preparatory-access"</webpage>
+    <phase>"Production"</phase>
+    <TLR>"9"</TLR>
+    <category>"Compute"</category>
+    <relatedServices>"Project Access"</relatedServices>
+    <request>"http://www.prace-ri.eu/application-guide"</request>
+    <helpdesk>"prace-support@hostingsite.hostingcountry"</helpdesk>
+    <documentation>"http://www.prace-ri.eu/IMG/pdf/Preparatory-Access-ToR_01_02_2017.pdf"</documentation>
+    <pricing>"Free of charge"</pricing>
+    <termsOfUse>"Acceptable use Policies of the hosting sites"</termsOfUse>
+</service>

@@ -1,0 +1,23 @@
+<service>
+    <id>"03.14"</id>
+    <brandName>"InAcademia"</brandName>
+    <tagline>"Online Student Validation"</tagline>
+    <fullName>"-"</fullName>
+    <description>"From cloud services to tickets to pizza, commercial providers want to offer great deals. InAcademia
+        offers a simple, cost-effective, lightweight validation system to replace the time-consuming scanning and
+        checking of ID cards."
+    </description>
+    <targetUsers>"Identity Providers, Campus CIO/Identity provider managers, Commercial Service Providers"</targetUsers>
+    <userValue>"InAcademia leverages the power of eduGAIN and the Identity services of the students’ institution to
+        securely authenticate a student’s affiliation credentials. InAcademia provides the merchant only with a simple
+        “Yes/No” response and no personal information is shared."
+    </userValue>
+    <provider>"GÉANT"</provider>
+    <webpage>"https://inacademia.org/"</webpage>
+    <phase>"Beta"</phase>
+    <category>"Security"</category>
+    <subcategory>"Security, Trust and Identity"</subcategory>
+    <relatedServices>"eduGAIN"</relatedServices>
+    <pricing>"POA"</pricing>
+    <termsOfUse>"www.inacademia.org"</termsOfUse>
+</service>

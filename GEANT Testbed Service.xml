@@ -1,0 +1,28 @@
+<service>
+    <id>"03.07"</id>
+    <brandName>"GÉANT Testbeds Service"</brandName>
+    <tagline>"​Integrated virtual network environments to support advanced research."</tagline>
+    <fullName>"-"</fullName>
+    <description>"The GÉANT Testbeds Service (GTS) delivers integrated ​​virtual environments as 'testbeds' for the
+        network research community. GTS is designed for researchers of advanced networking technologies to help support
+        testing and development over a large-scale, dispersed environment."
+    </description>
+    <targetUsers>"Advance research projects for both networking and application development"</targetUsers>
+    <userValue>"GTS can support multiple projects simult​​​aneously and isolates them from each other and from the
+        production GÉANT network to provide security and safety.​"
+    </userValue>
+    <provider>"GÉANT"</provider>
+    <fundingSources>"co-funded NREN and H2020 funding (where applicable)"</fundingSources>
+    <webpage>"https://www.geant.org/Services/Connectivity_and_network/GTS/"</webpage>
+    <phase>"Production"</phase>
+    <category>"Research Projects"</category>
+    <request>"https://partner.geant.net/Public/home.aspx"</request>
+    <helpdesk>"https://partner.geant.net/Public/home.aspx"</helpdesk>
+    <documentation>"https://partner.geant.net/Public/home.aspx"</documentation>
+    <trainingInformation>"https://partner.geant.net/Public/home.aspx"</trainingInformation>
+    <feedback>"https://partner.geant.net/Public/home.aspx"</feedback>
+    <pricing>"paid for by Ass subscription"</pricing>
+    <serviceLevelAgreement>"https://www.geant.org/Services/Connectivity_and_network/GTS/"</serviceLevelAgreement>
+    <options>"https://www.geant.org/Services/Connectivity_and_network/GTS/"</options>
+    <termsOfUse>"https://www.geant.org/Services/Connectivity_and_network/GTS/"</termsOfUse>
+</service>

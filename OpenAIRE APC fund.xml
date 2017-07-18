@@ -1,0 +1,33 @@
+<service>
+    <id>"04.17"</id>
+    <brandName>"FP7 Post-Grant Gold Open Access Pilot"</brandName>
+    <tagline>"-"</tagline>
+    <fullName>"FP7 Post-Grant Gold Open Access Pilot"</fullName>
+    <description>"This service manages the APC fund - reimbursing APC and BPC up to a limited amount, running a pilot
+        for the EC. Applications for the fund can be done on individual basis, project basis or it can be done via an
+        intermediary (institution or publisher). The pilot agreed on block grants and prepayment agreements with
+        instiutions and publishers. The Pilot also encompassed an Alternative Funding Mechanism workline. The service
+        can be configured and delpoyed locally at any research library to manage APCs from different funders."
+    </description>
+    <targetUsers>"Researchers, Project Coordinators, Publishers, Research Libraries, Research Administration"
+    </targetUsers>
+    <userValue>"Enable and accelerate Open Access. "</userValue>
+    <userBase>"The system has processed 1,372 requests for funding in past two years:
+        - 773 publications from 592 projects have been approved for funding
+        - A total of 1,283,080 EUR has been paid for APCs "
+    </userBase>
+    <provider>"OpenAIRE consortium"</provider>
+    <fundingSources>"EC funding"</fundingSources>
+    <webpage>"https://postgrantoapilot.openaire.eu"</webpage>
+    <version>"v1.0"</version>
+    <phase>"Production"</phase>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
+    <category>"Publishing"</category>
+    <subcategory>"Publishing"</subcategory>
+    <relatedServices>"-"</relatedServices>
+    <request>"https://postgrantoapilot.openaire.eu"</request>
+    <helpdesk>"https://www.openaire.eu/support/helpdesk"</helpdesk>
+    <documentation>"https://www.openaire.eu/postgrantoapilot-faq"</documentation>
+    <feedback>"https://www.openaire.eu/support/helpdesk"</feedback>
+    <pricing>"free"</pricing>
+</service>

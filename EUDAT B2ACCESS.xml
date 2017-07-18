@@ -1,0 +1,31 @@
+<service>
+    <id>"02.07"</id>
+    <brandName>"B2ACCESS"</brandName>
+    <tagline>"Identity &amp; authorisation"</tagline>
+    <fullName>"-"</fullName>
+    <description>"B2ACCESS is the EUDAT federated cross-infrastructure authorisation and authentication framework for
+        user identification and community-defined access control enforcement. B2ACCESS allows EUDAT users to
+        authenticate themselves using a variety of credentials."
+    </description>
+    <targetUsers>"Service provider; community data manager"</targetUsers>
+    <userValue>"For EUDAT service users and EUDAT service providers who need a single login for EUDAT. B2ACCESS service
+        is a customer facing services provides a federates access to the B2 services in a trusted way."
+    </userValue>
+    <provider>"JSC"</provider>
+    <fundingSources>"EU"</fundingSources>
+    <webpage>"https://www.eudat.eu/services/b2access"</webpage>
+    <version>"1.0"</version>
+    <phase>"Production"</phase>
+    <category>"Authentication and Authorization Infrastructure"</category>
+    <relatedServices>"B2SAFE; B2SHARE; B2STAGE"</relatedServices>
+    <request>"http://eudat.eu/support-request?Service=B2ACCESS"</request>
+    <helpdesk>"http://eudat.eu/support-request?Service=B2ACCESS"</helpdesk>
+    <documentation>"https://eudat.eu/services/userdoc/b2access"</documentation>
+    <trainingInformation>"https://eudat.eu/b2access-training-suite"</trainingInformation>
+    <feedback>"http://eudat.eu/support-request?Service=B2ACCESS"</feedback>
+    <pricing>"Free"</pricing>
+    <options>"Standard"</options>
+    <termsOfUse>"https://b2access.eudat.eu/unitygw/VAADIN/files/terms-of-use.html
+        https://b2access.eudat.eu/unitygw/VAADIN/files/data-privacy-statement.html"
+    </termsOfUse>
+</service>

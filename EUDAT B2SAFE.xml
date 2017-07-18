@@ -1,0 +1,33 @@
+<service>
+    <id>"02.01"</id>
+    <brandName>"B2SAFE"</brandName>
+    <tagline>"Replicate research data safely"</tagline>
+    <fullName>"-"</fullName>
+    <description>"B2SAFE is a robust, safe and highly available service which allows community and departmental
+        repositories to implement data management policies on their research data across multiple administrative domains
+        in
+        a trustworthy manner.
+        - abstraction layer of large scale, heterogeneous data storages
+        - guards against data loss in long-term archiving
+        - allows to optimize access for users (e.g. from different regions)
+        - brings data closer to facilities for compute-intensive analysis"
+    </description>
+    <targetUsers>"Community data manager; service provider"</targetUsers>
+    <userValue>"For the communities who need to guard against data loss, B2SAFE is a customer facing service that allow
+        data replication and safe storage between geographically distributed centres in the EUDAT CDI."
+    </userValue>
+    <provider>"EUDAT CDI consortium"</provider>
+    <fundingSources>"EU"</fundingSources>
+    <webpage>"https://www.eudat.eu/services/b2safe"</webpage>
+    <version>"3.1.2"</version>
+    <phase>"Production"</phase>
+    <category>"Data storage"</category>
+    <relatedServices>"B2ACCESS; B2HANDLE"</relatedServices>
+    <request>"http://eudat.eu/support-request?Service=B2SAFE"</request>
+    <helpdesk>"http://eudat.eu/support-request?Service=B2SAFE"</helpdesk>
+    <documentation>"https://eudat.eu/services/userdoc/b2safe"</documentation>
+    <trainingInformation>"https://eudat.eu/b2safe-training-suite"</trainingInformation>
+    <feedback>"http://eudat.eu/support-request?Service=B2SAFE"</feedback>
+    <pricing>"Indirect funding"</pricing>
+    <options>"Standard; with-DPM"</options>
+</service>
