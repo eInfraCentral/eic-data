@@ -12,7 +12,7 @@
     <fundingSources>"PRACE aisbl and EC"</fundingSources>
     <webpage>"http://www.prace-ri.eu/IMG/pdf/enkovaara_application_enabling.pdf"</webpage>
     <phase>"Production"</phase>
-    <TLR>"9"</TLR>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
     <category>"Consulting"</category>
     <relatedServices>"Preparatory Access"</relatedServices>
     <pricing>"Free of charge"</pricing>

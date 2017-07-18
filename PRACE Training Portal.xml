@@ -9,7 +9,7 @@
     <fundingSources>"EC and PRACE members"</fundingSources>
     <webpage>"http://www.training.prace-ri.eu/nc/training_courses/index.html"</webpage>
     <phase>"Production"</phase>
-    <TLR>"9"</TLR>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
     <category>"Training"</category>
     <relatedServices>"Preparatory Access"</relatedServices>
     <pricing>"Free of charge"</pricing>

@@ -14,7 +14,7 @@
     <fundingSources>"EC and PRACE members"</fundingSources>
     <webpage>"https://events.prace-ri.eu/category/2/"</webpage>
     <phase>"Production"</phase>
-    <TLR>"9"</TLR>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
     <category>"Training"</category>
     <relatedServices>"Preparatory Access"</relatedServices>
     <pricing>"Free of charge"</pricing>

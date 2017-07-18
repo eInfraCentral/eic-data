@@ -35,7 +35,7 @@
     <fundingSources>"Hosting Members "</fundingSources>
     <webpage>"http://www.prace-ri.eu/prace-preparatory-access"</webpage>
     <phase>"Production"</phase>
-    <TLR>"9"</TLR>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
     <category>"Compute"</category>
     <relatedServices>"Project Access"</relatedServices>
     <request>"http://www.prace-ri.eu/application-guide"</request>

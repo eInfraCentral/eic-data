@@ -14,7 +14,7 @@
         https://www.futurelearn.com/courses/big-data-r-hadoop"
     </webpage>
     <phase>"Production"</phase>
-    <TLR>"9"</TLR>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
     <category>"Training"</category>
     <relatedServices>"Preparatory Access"</relatedServices>
     <pricing>"Free of charge"</pricing>

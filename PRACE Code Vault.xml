@@ -16,7 +16,7 @@
     <fundingSources>"EC and PRACE members"</fundingSources>
     <webpage>"http://gitlab.com/PRACE-4IP/CodeVault  "</webpage>
     <phase>"Production"</phase>
-    <TLR>"9"</TLR>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
     <category>"Repository"</category>
     <relatedServices>"Preparatory Access"</relatedServices>
     <trainingInformation>"http://www.training.prace-ri.eu/codevault/"</trainingInformation>

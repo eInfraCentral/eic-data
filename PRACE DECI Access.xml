@@ -16,7 +16,7 @@
     <fundingSources>"Member of the Optional Programme"</fundingSources>
     <webpage>"http://www.prace-ri.eu/deci-projects/"</webpage>
     <phase>"Production"</phase>
-    <TLR>"9"</TLR>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
     <category>"Compute"</category>
     <relatedServices>"Project Access"</relatedServices>
     <pricing>"Free of charge"</pricing>

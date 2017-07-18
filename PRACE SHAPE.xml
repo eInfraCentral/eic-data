@@ -20,7 +20,7 @@
     <fundingSources>"EC and PRACE members"</fundingSources>
     <webpage>"http://www.prace-ri.eu/hpc-access/shape-programme"</webpage>
     <phase>"Production"</phase>
-    <TLR>"9"</TLR>
+    <technologyReadinessLevel>"9"</technologyReadinessLevel>
     <category>"Consulting"</category>
     <relatedServices>"Preparatory Access"</relatedServices>
     <pricing>"Free of charge"</pricing>
