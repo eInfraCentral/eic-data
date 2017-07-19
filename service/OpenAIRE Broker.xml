@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <id>04.05</id>
+    <brandName>OpenAIRE Broker</brandName>
+    <tagline>-</tagline>
+    <fullName>OpenAIRE Literature Notification Broker Service</fullName>
+    <description>The Broker service supports (i) the exchange of metadata and content amongst repositories, publishers
+        or aggregators, and (ii) the enrichement of repository local metadata. It is a subscription-notification service
+        operating on top of the OpenAIRE ScholGraph, a de-duplicated, enriched, linked, open scholarly communication
+        graph. Repository managers subscribe to notifications (events) of interest via a Web application (provided in
+        the OpenAIRE Data Provider Dashboard).
+    </description>
+    <targetUsers>Repository managers, libraries, Data providers, Publishers, national aggregators</targetUsers>
+    <userValue>Enriched repositories for better access. Improved institution memory. Better institution research
+        assessment. OA publisher compliance to funder rules.
+    </userValue>
+    <provider>OpenAIRE consortium</provider>
+    <fundingSources>EC funding</fundingSources>
+    <webpage>Not public yet. It will be accessed via the OpenAIRE Data Provider Dashboard
+        (http://beta.repomanager.openaire.eu)
+    </webpage>
+    <version>v1.0</version>
+    <phase>Beta</phase>
+    <technologyReadinessLevel>8</technologyReadinessLevel>
+    <category>Connectivity</category>
+    <relatedServices>OpenAIRE Graph, OpenAIRE Data Provider Dashboard</relatedServices>
+    <request>www.openaire.eu</request>
+    <helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
+    <feedback>https://www.openaire.eu/support/helpdesk</feedback>
+    <pricing>free</pricing>
+</service>

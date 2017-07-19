@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <id>04.01</id>
+    <brandName>OpenAIRE Discovery Portal</brandName>
+    <tagline>Find open linked research</tagline>
+    <fullName>-</fullName>
+    <description>The OpenAIRE Discovery portal provides access to Open Access research content. It is based on
+        OpenAIRE's open scholarly communication graph that includes all research and scholarly activitiies, spanning all
+        phases of the research life cycle. The OpenAIRE scholarly communication graph is created bi-monthly by
+        aggregating, cleaning, transforming and inferring content retrieved from OpenAIRE's European and global network
+        of validated OA data providers. In addition to the usual search and browse mechanisms, the OpenAIRE Discovery
+        portal provides end user functionalities which allow users to: - find the most fitting repository to deposit
+        their publication or data, - authoritavely enrich the underlying content (e.g., linking research results to
+        funding, linking research resultsto external sources), - view, download reports or graphs of aggregated research
+        outcomes (e.g., per funder, project, institution) and their stats.
+    </description>
+    <targetUsers>Academic community, Research Community, policy makers, funders, research libraries, educators,
+        industry, citizen scientists/public.
+    </targetUsers>
+    <userValue>Enable intelligent and contextualized research discovery. Connect public to open access research in
+        Europe and beyond.
+    </userValue>
+    <userBase>9,200 registered users. 50,000 users use the service on the average every month.</userBase>
+    <provider>OpenAIRE consortium</provider>
+    <fundingSources>EC funding</fundingSources>
+    <webpage>www.openaire.eu</webpage>
+    <version>v3</version>
+    <phase>Production</phase>
+    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <category>Content delivery</category>
+    <subcategory>data linking</subcategory>
+    <relatedServices>OpenAIRE Discovery portal is based on a set of OpenAIRE services: - OpenAIRE Aggregation Service -
+        OpenAIRE Inference service - OpenAIRE Research Analytics service - OpenAIRE usage statistics service
+    </relatedServices>
+    <request>www.openaire.eu</request>
+    <helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
+    <feedback>https://www.openaire.eu/support/helpdesk</feedback>
+    <pricing>free</pricing>
+</service>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <id>04.16</id>
+    <brandName>Open Science Training</brandName>
+    <tagline>-</tagline>
+    <fullName>Open Science Training</fullName>
+    <description>This service offers EC OA policy training and support providing the body of resources to facilitate the
+        easy uptake and comprehension of the OA mandate to publications and data, as well as a broader open science
+        agenda among a wide range of stakeholders. For example it helps project coordinators to comply with OA funder's
+        requirements; assists repository managers and journal editors and publishers with making their repositories and
+        journals compatible with the OpenAIRE Guidelines; works with national research funders to align their policies
+        with EC OA policies; organizes conferences, workshops and other knowledge sharing and community-building events
+        and activities to promote availability of OA publications and research data and open science.
+    </description>
+    <targetUsers>Project Coordinators, Funders, Research Administrators, Managers and Officers, Researchers, Repository
+        managers, Open Access Publishers, CRIS, National Aggregators, Research infrastructures, e-Infrastructures,
+        Citizen scientists
+    </targetUsers>
+    <userValue>Open Science enabler. Open science training provides user groups and customers with the latest
+        information about developments in open access, open data and open science. It communicates basic principles,
+        recent developments and innovations, provides how to guides to different stakeholders and helps them to develop
+        the necessary skills. And supports open science implementation across European research Institutions and
+        individuals.
+    </userValue>
+    <userBase>Large attendance in webinars and training workshops</userBase>
+    <provider>OpenAIRE consortium, National Open Access Desks (NOADs)</provider>
+    <fundingSources>EC and national funding</fundingSources>
+    <webpage>https://www.openaire.eu/workshops/; https://www.openaire.eu/webinars/, https://www.openaire.eu/support/
+    </webpage>
+    <phase>Production</phase>
+    <category>Training</category>
+    <relatedServices>All OpenAIRE services</relatedServices>
+    <request>https://www.openaire.eu/contact-us</request>
+    <helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
+    <feedback>https://www.openaire.eu/support/helpdesk</feedback>
+    <pricing>free</pricing>
+</service>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <id>02.05</id>
+    <brandName>B2STAGE</brandName>
+    <tagline>Get data to computation</tagline>
+    <fullName>-</fullName>
+    <description>B2STAGE is a reliable, efficient, light-weight and easy-to-use service to transfer research data sets
+        between EUDAT storage resources and high-performance computing (HPC) workspaces.
+    </description>
+    <targetUsers>Individual researchers; community data manager</targetUsers>
+    <userValue>For Communities who need to transfer large data collection from EUDAT CDI to HPC. B2STAGE Service is a
+        customer-facing service that allow high performance transfers in a reliable, fast, easy to use environment.
+    </userValue>
+    <provider>EUDAT CDI consortium</provider>
+    <fundingSources>EU</fundingSources>
+    <webpage>https://www.eudat.eu/services/b2stage</webpage>
+    <version>1.81</version>
+    <phase>Production</phase>
+    <category>Data movement</category>
+    <relatedServices>B2SAFE; B2HANDLE</relatedServices>
+    <request>http://eudat.eu/support-request?Service=B2STAGE</request>
+    <helpdesk>http://eudat.eu/support-request?Service=B2STAGE</helpdesk>
+    <documentation>https://eudat.eu/services/userdoc/b2stage</documentation>
+    <trainingInformation>https://eudat.eu/b2stage-training-suite</trainingInformation>
+    <feedback>http://eudat.eu/support-request?Service=B2STAGE</feedback>
+    <pricing>Free</pricing>
+    <options>Standard</options>
+</service>

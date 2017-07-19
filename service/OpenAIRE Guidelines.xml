@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <id>04.14</id>
+    <brandName>OpenAIRE Guidelines</brandName>
+    <fullName>OpenAIRE Guidelines for Data Provider Managers</fullName>
+    <description>The OpenAIRE Guidelines are a suite of application profiles designed to allow data providers to make
+        their scholarly outputs visible through the OpenAIRE infrastructure. The profiles are based on established
+        metadata and transfer protocol standards. While the focus of each profile is different, they allow for
+        interlinking and the contextualization of research artefacts.
+    </description>
+    <targetUsers>institutional and thematic repositories, data repositories, data archives, CRIS, journal platforms
+    </targetUsers>
+    <userValue>Enhanced interoperability. Provide content (metadata and fulltext) in a consistent, complete and
+        interoperable way
+    </userValue>
+    <userBase>Followed in Europe by 900+ data providers (different compatibility levels). Adoption in Latin America
+        (LaReferencia), Mexico, Japan for regional/national infrastructures.
+    </userBase>
+    <provider>OpenAIRE consortium</provider>
+    <fundingSources>EC funding</fundingSources>
+    <webpage>https://guidelines.openaire.eu/</webpage>
+    <version>v3.0</version>
+    <phase>Production</phase>
+    <category>Interoperability</category>
+    <relatedServices>OpenAIRE Validator, OpenAIRE Data Provider Dashboard</relatedServices>
+    <request>https://guidelines.openaire.eu/</request>
+    <helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
+    <documentation>https://guidelines.openaire.eu/</documentation>
+    <feedback>https://www.openaire.eu/support/helpdesk</feedback>
+    <pricing>free</pricing>
+</service>

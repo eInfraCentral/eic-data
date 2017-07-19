@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema2.xsd">
+    <id>01.13</id>
+    <brandName>Accounting</brandName>
+    <tagline>Track and report the usage of your services</tagline>
+    <fullName>EGI Accounting</fullName>
+    <description>EGI Accounting stores user accounting records from various services offered by EGI, such as Cloud, HTC
+        and storage usage. It works thanks to a network of message brokers that transfer usage data from the host to a
+        central repository of information. The data is handled securely and can be consulted online through the EGI
+        Accounting Portal. EGI council members can use EGI accounting services to account for the resource usage of
+        their own services. EGI Accounting gives: - Increased control over resource consumption - Reduced overhead of
+        defining data models, architecture and setup of an accounting system - Reduced cost of maintaining an accounting
+        infrastructure - Access to a reliable, high available, high performance service - User friendly web interface
+    </description>
+    <targetUsers>Customer: User communities and EGI service providers. User: VO Managers, Resource providers
+        management
+    </targetUsers>
+    <userValue>- Reduced overhead of defining data models, architecture and setup of an accounting system - Reduced cost
+        of maintaining an accounting infrastructure
+    </userValue>
+    <userBase>EGI resource providers: https://www.egi.eu/federation/data-centres/</userBase>
+    <provider>EGI Foundation (via EGI resource providers)</provider>
+    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+        EGI participant fees + in-kind contribution from service providers
+    </fundingSources>
+    <webpage>https://www.egi.eu/internal-services/accounting/</webpage>
+    <phase>Production</phase>
+    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <category>Operations</category>
+    <subcategory>Αccounting</subcategory>
+    <request>https://www.egi.eu/request-service/</request>
+</tns:service>

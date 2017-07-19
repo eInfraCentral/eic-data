@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <id>05.06</id>
+    <brandName>PRACE Code Vault</brandName>
+    <tagline>-</tagline>
+    <fullName>-</fullName>
+    <description>The PRACE CodeVault is an open repository containing various high performance computing code samples
+        for the HPC community. The CodeVault is an open platform that supports self-education of learning HPC
+        programming skills where HPC users can share example code snippets, proof-of-concept codes and more. The PRACE
+        CodeVault contains training material from PRACE partners, as well as example codes for common HPC kernels, such
+        as dense and sparse linear algebra, spectral and N-body methods, structured and unstructured grids, Monte Carlo
+        methods and parallel I/O. The code samples are published as open source and can be used both for educational
+        purposes and as parts of real application suites (as permitted by particular licenses).
+    </description>
+    <targetUsers>Scientists and researchers</targetUsers>
+    <provider>PRACE-IP projects and PRACE aisbl</provider>
+    <fundingSources>EC and PRACE members</fundingSources>
+    <webpage>http://gitlab.com/PRACE-4IP/CodeVault </webpage>
+    <phase>Production</phase>
+    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <category>Repository</category>
+    <relatedServices>Preparatory Access</relatedServices>
+    <trainingInformation>http://www.training.prace-ri.eu/codevault/</trainingInformation>
+    <pricing>Free of charge</pricing>
+    <termsOfUse>Acceptable use Policies of the hosting sites</termsOfUse>
+</service>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <id>03.13</id>
+    <brandName>eduGAIN Federation as a Service</brandName>
+    <tagline>Helping NRENs to build identity federations and deliver AAI services.</tagline>
+    <fullName>-</fullName>
+    <description>Authentication and authorisation infrastructure (AAI) is one of the key differentiators between
+        national research and education networking organisations (NRENs) and other network providers. Its provision
+         aids the development  and delivery of enhanced services to all users.
+    </description>
+    <targetUsers>NRENs, Identity Federations</targetUsers>
+    <userValue>The development and operation of a national identity federation is not a trivial activity and GÉANT's
+        Federation as a Service (FaaS) offering was created specially to help. FaaS supports NRENs in building their
+        identity federations by providing hosted set of tools  for operating their identity federation. FaaS offering 
+        was designed with special care on security, as a key enabler of trust in identity federations. In that way,
+        NRENs can establish their federation following best current practices and focus on the development of service
+        and identity provider systems to help rapidly build AAI in their region.
+    </userValue>
+    <provider>GÉANT</provider>
+    <webpage>https://www.geant.org/Services/Trust_identity_and_security/Pages/FaaS.aspx</webpage>
+    <phase>Production</phase>
+    <category>Security</category>
+    <subcategory>Security, Trust and Identity</subcategory>
+    <relatedServices>eduGAIN</relatedServices>
+    <request>https://www.geant.org/Services/Trust_identity_and_security/Pages/FaaS.aspx</request>
+    <helpdesk>https://www.geant.org/Services/Trust_identity_and_security/Pages/FaaS.aspx</helpdesk>
+    <documentation>https://www.geant.org/Services/Trust_identity_and_security/Pages/FaaS.aspx</documentation>
+    <trainingInformation>https://www.geant.org/Services/Trust_identity_and_security/Pages/FaaS.aspx
+    </trainingInformation>
+    <feedback>https://www.geant.org/Services/Trust_identity_and_security/Pages/FaaS.aspx</feedback>
+    <termsOfUse>https://wiki.edugain.org/FaaS</termsOfUse>
+</service>

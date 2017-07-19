@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <id>05.08</id>
+    <brandName>PRACE MOOC</brandName>
+    <tagline>-</tagline>
+    <fullName>PRACE Massive Open Online Courses</fullName>
+    <description>PRACE Massive Open Online Courses. The agreement between PRACE and the Massive Open Online Course
+        (MOOC) platform FutureLearn has been signed. PRACE will be moving forward in the development of the PRACE MOOCs
+        with the assistance of FutureLearn’s representatives.
+    </description>
+    <targetUsers>Scientists and researchers</targetUsers>
+    <provider>PRACE-IP projects and PRACE aisbl</provider>
+    <fundingSources>EC and PRACE members</fundingSources>
+    <webpage>https://www.futurelearn.com/courses/supercomputing, https://www.futurelearn.com/courses/big-data-r-hadoop
+    </webpage>
+    <phase>Production</phase>
+    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <category>Training</category>
+    <relatedServices>Preparatory Access</relatedServices>
+    <pricing>Free of charge</pricing>
+    <termsOfUse>Acceptable use Policies of the hosting sites</termsOfUse>
+</service>

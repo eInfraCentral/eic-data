@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <id>02.04</id>
+    <brandName>B2FIND</brandName>
+    <tagline>Find research data</tagline>
+    <fullName>-</fullName>
+    <description>B2FIND is the EUDAT metadata service and provides a discovery portal which allows users to find data
+        collections within an international and inter-disciplinary scope. It is based on a comprehensive metadata
+        catalogue of research data collections stored in EUDAT data centres and other repositories. Harmonization of the
+        metadata descriptions collected from heterogeneous sources enables not only the presentation in a consistent
+        form but as well the faceted search across scientific domain boundaries.
+    </description>
+    <targetUsers>Individual researchers; community data manager</targetUsers>
+    <userValue>For Communities and other providers of research data who need to publish and give visibility to their
+        metadata and individual researchers who need to search data from everywhere, and see data in the context with an
+        across community approach.
+    </userValue>
+    <provider>DKRZ</provider>
+    <fundingSources>EU</fundingSources>
+    <webpage>https://www.eudat.eu/services/b2find</webpage>
+    <version>2.2</version>
+    <phase>Production</phase>
+    <category>Data discovery</category>
+    <request>http://eudat.eu/support-request?Service=B2FIND</request>
+    <helpdesk>http://eudat.eu/support-request?Service=B2FIND</helpdesk>
+    <documentation>https://eudat.eu/services/userdoc/b2find</documentation>
+    <trainingInformation>https://eudat.eu/b2find-training-suite</trainingInformation>
+    <feedback>http://eudat.eu/support-request?Service=B2FIND</feedback>
+    <pricing>Free</pricing>
+    <options>Standard</options>
+    <termsOfUse>http://b2find.eudat.eu/legal</termsOfUse>
+</service>
