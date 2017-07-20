@@ -9,7 +9,7 @@ function json {
 
 function post_resourceType {
 	data=`cat $1`
-	response=$(curl -X POST --write-out %{http_code} --silent --output /dev/null --data "$data" --header "Content-Type:application/json" http://$2:8080/omtd-registry/resourceType/)
+	response=$(curl -X POST --write-out %{http_code} --silent --output /dev/null --data "$data" --header "Content-Type:application/json" http://$2:8080/eic/resourceType/)
 	if ((${response} >= 200 && ${response} < 300 )); then
 		colors="\e[32m"
 	else
@@ -20,9 +20,12 @@ function post_resourceType {
 
 function load_resource {
 	for file in $1/*.xml; do
+		echo $1/$file
+		# data=`json $file`
+		# echo "/request/$(basename $1)"
+		# cat $file
 		# response=$(curl -X POST --write-out %{http_code} --silent --output POST/$(basename $file) --data  "{\"resourceType\":\"$(basename $1)\", \"payloadFormat\":\"xml\", \"payload\":$data}" --header "Content-Type:application/json" http://$2:8080/omtd-registry/resources/)
-		cat "$file"
-		response=$(curl -X POST --write-out %{http_code} --silent --data @"$file"  --header "Content-Type:application/xml" http://$2:8080/eic/service)
+		response=$(curl -X POST --write-out %{http_code} --silent --output POST/$(basename $file) --data @$1/$file  --header "Content-Type:application/xml" http://$2:8080/eic/$(basename $1))
 		if ((${response} >= 200 && ${response} < 300 )); then
 			colors="\e[32m"
 			rm POST/$(basename $file)
