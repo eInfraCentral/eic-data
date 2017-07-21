@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>05.02</id>
     <brandName>PRACE Preparatory Access</brandName>
     <tagline>-</tagline>
@@ -36,4 +36,4 @@
     <documentation>http://www.prace-ri.eu/IMG/pdf/Preparatory-Access-ToR_01_02_2017.pdf</documentation>
     <pricing>Free of charge</pricing>
     <termsOfUse>Acceptable use Policies of the hosting sites</termsOfUse>
-</service>
+</tns:service>

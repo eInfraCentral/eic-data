@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>04.01</id>
     <brandName>OpenAIRE Discovery Portal</brandName>
     <tagline>Find open linked research</tagline>
@@ -36,4 +36,4 @@
     <helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
     <feedback>https://www.openaire.eu/support/helpdesk</feedback>
     <pricing>free</pricing>
-</service>
+</tns:service>

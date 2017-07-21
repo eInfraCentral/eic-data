@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>01.01</id>
     <brandName>Cloud Container Compute</brandName>
     <tagline>Run Docker containers in a lightweight virtualised environment</tagline>
@@ -41,4 +41,4 @@
     <termsOfUse>For Users: https://wiki.egi.eu/wiki/Federated_Cloud_user_support For Providers:
         https://wiki.egi.eu/wiki/Federated_Cloud_resource_providers_support
     </termsOfUse>
-</service>
+</tns:service>

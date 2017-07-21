@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>03.07</id>
     <brandName>GÉANT Testbeds Service</brandName>
     <tagline>​Integrated virtual network environments to support advanced research.</tagline>
@@ -26,4 +26,4 @@
     <serviceLevelAgreement>https://www.geant.org/Services/Connectivity_and_network/GTS/</serviceLevelAgreement>
     <options>https://www.geant.org/Services/Connectivity_and_network/GTS/</options>
     <termsOfUse>https://www.geant.org/Services/Connectivity_and_network/GTS/</termsOfUse>
-</service>
+</tns:service>

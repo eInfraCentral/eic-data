@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>03.08</id>
     <brandName>eduroam</brandName>
     <tagline>Seamless Wi-Fi access for research and education around the world​.</tagline>
@@ -26,4 +26,4 @@
     <feedback>www.eduroam.org</feedback>
     <pricing>paid for by Ass subscription</pricing>
     <termsOfUse>www.eduroam.org</termsOfUse>
-</service>
+</tns:service>

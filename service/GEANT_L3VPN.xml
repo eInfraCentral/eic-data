@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>03.06</id>
     <brandName>GÉANT L3VPN</brandName>
     <tagline>Increased pri​​vacy and control - helping to build effective virtual teams across borders.</tagline>
@@ -34,4 +34,4 @@
     <termsOfUse>
         https://www.geant.org/Services/Connectivity_and_network/PublishingImages/Pages/VPN_Services/GEANT%20L3VPN%20Service%20Description%20Jul%202015.pdf
     </termsOfUse>
-</service>
+</tns:service>

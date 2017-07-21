@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>05.01</id>
     <brandName>PRACE Project Access</brandName>
     <tagline>-</tagline>
@@ -27,4 +27,4 @@
         activity in Europe, are also eligible to apply for Open R&amp;D projects and undergo the same review.
     </pricing>
     <termsOfUse>Acceptable use Policies of the hosting sites</termsOfUse>
-</service>
+</tns:service>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>02.05</id>
     <brandName>B2STAGE</brandName>
     <tagline>Get data to computation</tagline>
@@ -25,4 +25,4 @@
     <feedback>http://eudat.eu/support-request?Service=B2STAGE</feedback>
     <pricing>Free</pricing>
     <options>Standard</options>
-</service>
+</tns:service>

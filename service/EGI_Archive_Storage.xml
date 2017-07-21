@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>01.06</id>
     <brandName>Archive Storage</brandName>
     <tagline>Back-up your data for the long term and future use in a secure environment</tagline>
@@ -25,4 +25,4 @@
     <category>Storage and Data</category>
     <subcategory>Cold storage</subcategory>
     <request>https://www.egi.eu/request-service/</request>
-</service>
+</tns:service>

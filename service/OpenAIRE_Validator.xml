@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>04.03</id>
     <brandName>OpenAIRE Validator</brandName>
     <tagline>-</tagline>
@@ -36,4 +36,4 @@
     <documentation>https://www.openaire.eu/validator/help.action</documentation>
     <feedback>https://www.openaire.eu/validator/feedback.action</feedback>
     <pricing>free</pricing>
-</service>
+</tns:service>

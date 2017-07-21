@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>04.07</id>
     <brandName>AMNESIA</brandName>
     <tagline>Anonymization your datasets</tagline>
@@ -25,4 +25,4 @@
     <category>Publishing</category>
     <request>www.openaire.eu</request>
     <pricing>free</pricing>
-</service>
+</tns:service>

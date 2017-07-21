@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>03.12</id>
     <brandName>eduGAIN</brandName>
     <tagline>Unlocking global research and education c​​ollaboration.</tagline>
@@ -30,4 +30,4 @@
     <trainingInformation>https://www.geant.org/Services/Trust_identity_and_security/eduGAIN</trainingInformation>
     <feedback>https://www.geant.org/Services/Trust_identity_and_security/eduGAIN</feedback>
     <termsOfUse>https://www.geant.org/Services/Trust_identity_and_security/eduGAIN</termsOfUse>
-</service>
+</tns:service>

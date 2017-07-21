@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>01.02</id>
     <brandName>Cloud Compute</brandName>
     <tagline>Run virtual machines on-demand with complete control over computing resources</tagline>
@@ -36,4 +36,4 @@
         commercial entity support (beyond initial testing/piloting)
     </pricing>
     <options>Type of instance to host virtual machine (e.g. no. of cores, RAM, local disk)</options>
-</service>
+</tns:service>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<service>
+<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
     <id>03.15</id>
     <brandName>TRANSITS Training</brandName>
     <tagline>High-quality training for computer security teams.</tagline>
@@ -23,4 +23,4 @@
     <feedback>https://www.geant.org/Services/Trust_identity_and_security/Pages/TRANSITS_Training.aspx</feedback>
     <pricing>POA</pricing>
     <termsOfUse>https://www.geant.org/Services/Trust_identity_and_security/Pages/TRANSITS_Training.aspx</termsOfUse>
-</service>
+</tns:service>
