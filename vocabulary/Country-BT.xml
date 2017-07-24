@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:vocabulary xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
+	<id>BT</id>
+	<name>Bhutan</name>
+	<type>Country</type>
+</tns:vocabulary>
