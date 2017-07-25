@@ -9,7 +9,7 @@ function json {
 
 function post_resourceType {
 	data=`cat $1`
-	response=$(curl -X POST --write-out %{http_code} --silent --output /dev/null --data "$data" --header "Content-Type:application/json" http://$2:8080/eic/resourceType/)
+	response=$(curl -X POST --write-out %{http_code} --silent --output /dev/null --data "$data" --header "Content-Type:application/json" http://$2:8080/eic-registry/resourceType/)
 	if ((${response} >= 200 && ${response} < 300 )); then
 		colors="\e[32m"
 	else
@@ -23,8 +23,8 @@ function load_resource {
 		# data=`json $file`
 		# echo "/request/$(basename $1)"
 		# cat $file
-		# response=$(curl -X POST --write-out %{http_code} --silent --output POST/$(basename $file) --data  "{\"resourceType\":\"$(basename $1)\", \"payloadFormat\":\"xml\", \"payload\":$data}" --header "Content-Type:application/json" http://$2:8080/eic/resources/)
-		response=$(curl -X POST --write-out %{http_code} --silent --output POST/$(basename $file) --data @$file  --header "Content-Type:application/xml" http://$2:8080/eic/$(basename $1))
+		# response=$(curl -X POST --write-out %{http_code} --silent --output POST/$(basename $file) --data  "{\"resourceType\":\"$(basename $1)\", \"payloadFormat\":\"xml\", \"payload\":$data}" --header "Content-Type:application/json" http://$2:8080/eic-registry/resources/)
+		response=$(curl -X POST --write-out %{http_code} --silent --output POST/$(basename $file) --data @$file  --header "Content-Type:application/xml" http://$2:8080/eic-registry/$(basename $1))
 		if ((${response} >= 200 && ${response} < 300 )); then
 			colors="\e[32m"
 			rm POST/$(basename $file)
