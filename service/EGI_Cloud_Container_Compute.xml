@@ -32,7 +32,7 @@
     <helpdesk>https://ggus.eu/</helpdesk>
     <documentation>https://wiki.egi.eu/wiki/Federated_Cloud_user_support</documentation>
     <trainingInformation>https://documents.egi.eu/public/ShowDocument?docid=2622</trainingInformation>
-    <feedback>support@egi.eu</feedback>
+    <feedback>mailto:support@egi.eu</feedback>
     <pricing>Free: Researchers meeting policies of the service providers; Pay-for-use: Special technical requirements;
         commercial entity support (beyond initial testing/piloting)
     </pricing>
