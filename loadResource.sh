@@ -27,7 +27,7 @@ function load_resource {
 		response=$(curl -X POST --write-out %{http_code} --silent --output POST/$(basename $file) --data @$file  --header "Content-Type:application/xml" http://$2:8080/eic-registry/$(basename $1))
 		if ((${response} >= 200 && ${response} < 300 )); then
 			colors="\e[32m"
-			rm POST/$(basename $file)
+			#rm POST/$(basename $file)
 		else 
 			colors="\e[31m"
 		fi
