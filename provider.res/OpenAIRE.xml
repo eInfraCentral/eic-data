@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tns:provider xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
+<provider xmlns="http://einfracentral.eu">
 	<id>openaire</id>
 	<name>OpenAIRE consortium</name>
 	<contactInformation></contactInformation>
 	<users></users>
 	<services></services>
-</tns:provider>
+</provider>

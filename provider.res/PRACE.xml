@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ns0:provider xmlns="http://einfracentral.eu" xmlns:ns0="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
-	<ns0:id>prace</ns0:id>
-	<ns0:name>PRACE</ns0:name>
-	<ns0:contactInformation></ns0:contactInformation>
-	<ns0:users></ns0:users>
-	<ns0:services></ns0:services>
-</ns0:provider>
+<provider xmlns="http://einfracentral.eu">
+	<id>prace</id>
+	<name>PRACE</name>
+	<contactInformation></contactInformation>
+	<users></users>
+	<services></services>
+</provider>
