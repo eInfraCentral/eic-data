@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
+<service xmlns="http://einfracentral.eu">
     <id>04.14</id>
     <brandName>OpenAIRE Guidelines</brandName>
     <fullName>OpenAIRE Guidelines for Data Provider Managers</fullName>
@@ -28,4 +28,4 @@
     <documentation>https://guidelines.openaire.eu/</documentation>
     <feedback>https://www.openaire.eu/support/helpdesk</feedback>
     <pricing>free</pricing>
-</tns:service>
+</service>

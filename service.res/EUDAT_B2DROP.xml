@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
+<service xmlns="http://einfracentral.eu">
     <id>02.03</id>
     <brandName>B2DROP</brandName>
     <tagline>Synch and share research data</tagline>
@@ -27,4 +27,4 @@
     <pricing>Free</pricing>
     <options>Standard</options>
     <termsOfUse>https://b2drop.eudat.eu/themes/b2drop/terms-of-use.html</termsOfUse>
-</tns:service>
+</service>

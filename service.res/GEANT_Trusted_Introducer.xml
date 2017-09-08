@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
+<service xmlns="http://einfracentral.eu">
     <id>03.16</id>
     <brandName>Trusted Introducer</brandName>
     <tagline>Building mutual trust between security teams​​​.</tagline>
@@ -26,4 +26,4 @@
     <trainingInformation>https://www.trusted-introducer.org/</trainingInformation>
     <feedback>https://www.trusted-introducer.org/</feedback>
     <termsOfUse>https://www.trusted-introducer.org/</termsOfUse>
-</tns:service>
+</service>

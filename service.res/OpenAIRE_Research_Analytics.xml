@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tns:service xmlns="http://einfracentral.eu" xmlns:tns="http://einfracentral.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://einfracentral.eu https://builds.openminted.eu/job/eic-registry-model/ws/target/generated-resources/schemagen/schema1.xsd">
+<service xmlns="http://einfracentral.eu">
     <id>04.13</id>
     <brandName>OpenAIRE Research Analytics</brandName>
     <tagline>Topic modelling for scholarly communication</tagline>
@@ -28,4 +28,4 @@
     <relatedServices>OpenAIRE Graph</relatedServices>
     <request>www.openaire.eu</request>
     <pricing>free</pricing>
-</tns:service>
+</service>
