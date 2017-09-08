@@ -26,6 +26,6 @@
     <category>Monitor and analysis</category>
     <subcategory>Monitor and analysis</subcategory>
     <relatedServices>OpenAIRE Graph</relatedServices>
-    <request>www.openaire.eu</request>
+    <request>http://www.openaire.eu</request>
     <pricing>free</pricing>
 </service>

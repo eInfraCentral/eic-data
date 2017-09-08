@@ -14,7 +14,7 @@
     <userBase>Used by researchers and communities all over the world.</userBase>
     <provider>CERN</provider>
     <fundingSources>EC funding, CERN own funds</fundingSources>
-    <webpage>www.zenodo.org</webpage>
+    <webpage>http://www.zenodo.org</webpage>
     <version>v2.0</version>
     <phase>Production</phase>
     <technologyReadinessLevel>9</technologyReadinessLevel>

@@ -25,13 +25,13 @@
     </userBase>
     <provider>OpenAIRE consortium</provider>
     <fundingSources>EC funding</fundingSources>
-    <webpage>OpenAIRE Instance: https://www.openaire.eu/validator/</webpage>
+    <webpage>https://www.openaire.eu/validator/</webpage>
     <version>v2.1</version>
     <phase>Production</phase>
     <technologyReadinessLevel>9</technologyReadinessLevel>
     <category>Interoperability</category>
     <relatedServices>N/A</relatedServices>
-    <request>www.openaire.eu</request>
+    <request>http://www.openaire.eu</request>
     <helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
     <documentation>https://www.openaire.eu/validator/help.action</documentation>
     <feedback>https://www.openaire.eu/validator/feedback.action</feedback>

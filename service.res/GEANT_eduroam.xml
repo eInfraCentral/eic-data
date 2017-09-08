@@ -16,14 +16,14 @@
         ​password; secure and privacy-preserving technology; reciprocal service that is free-of-charge to users.
     </userValue>
     <provider>GÉANT and Global eduroam governance committee</provider>
-    <webpage>www.eduroam.org</webpage>
+    <webpage>http://www.eduroam.org</webpage>
     <phase>Production</phase>
     <category>Connectivity</category>
-    <request>www.eduroam.org</request>
-    <helpdesk>www.eduroam.org</helpdesk>
-    <documentation>www.eduroam.org</documentation>
-    <trainingInformation>www.eduroam.org</trainingInformation>
-    <feedback>www.eduroam.org</feedback>
+    <request>http://www.eduroam.org</request>
+    <helpdesk>http://www.eduroam.org</helpdesk>
+    <documentation>http://www.eduroam.org</documentation>
+    <trainingInformation>http://www.eduroam.org</trainingInformation>
+    <feedback>http://www.eduroam.org</feedback>
     <pricing>paid for by Ass subscription</pricing>
-    <termsOfUse>www.eduroam.org</termsOfUse>
+    <termsOfUse>http://www.eduroam.org</termsOfUse>
 </service>

@@ -23,7 +23,7 @@
     <userBase>9,200 registered users. 50,000 users use the service on the average every month.</userBase>
     <provider>OpenAIRE consortium</provider>
     <fundingSources>EC funding</fundingSources>
-    <webpage>www.openaire.eu</webpage>
+    <webpage>http://www.openaire.eu</webpage>
     <version>v3</version>
     <phase>Production</phase>
     <technologyReadinessLevel>9</technologyReadinessLevel>
@@ -32,7 +32,7 @@
     <relatedServices>OpenAIRE Discovery portal is based on a set of OpenAIRE services: - OpenAIRE Aggregation Service -
         OpenAIRE Inference service - OpenAIRE Research Analytics service - OpenAIRE usage statistics service
     </relatedServices>
-    <request>www.openaire.eu</request>
+    <request>http://www.openaire.eu</request>
     <helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
     <feedback>https://www.openaire.eu/support/helpdesk</feedback>
     <pricing>free</pricing>

@@ -20,7 +20,7 @@
     <category>Compute</category>
     <relatedServices>Preparatory Access</relatedServices>
     <request>http://www.prace-ri.eu/application-guide</request>
-    <helpdesk>prace-support@hostingsite.hostingcountry</helpdesk>
+    <helpdesk></helpdesk>
     <documentation>http://www.prace-ri.eu/IMG/pdf/PRACE-Guide-for-Applicants-to-Tier-0-V2016.pdf</documentation>
     <pricing>Scientists and researchers from PRACE 2 members can access PRACE resources free of charge. Access is
         awarded through a rigorous peer review process. Industrial users, with head offices or substantial R&amp;D

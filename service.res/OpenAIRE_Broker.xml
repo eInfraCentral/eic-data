@@ -16,15 +16,13 @@
     </userValue>
     <provider>OpenAIRE consortium</provider>
     <fundingSources>EC funding</fundingSources>
-    <webpage>Not public yet. It will be accessed via the OpenAIRE Data Provider Dashboard
-        (http://beta.repomanager.openaire.eu)
-    </webpage>
+    <webpage>http://beta.repomanager.openaire.eu</webpage>
     <version>v1.0</version>
     <phase>Beta</phase>
     <technologyReadinessLevel>8</technologyReadinessLevel>
     <category>Connectivity</category>
     <relatedServices>OpenAIRE Graph, OpenAIRE Data Provider Dashboard</relatedServices>
-    <request>www.openaire.eu</request>
+    <request>http://www.openaire.eu</request>
     <helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
     <feedback>https://www.openaire.eu/support/helpdesk</feedback>
     <pricing>free</pricing>

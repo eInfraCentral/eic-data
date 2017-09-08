@@ -22,12 +22,12 @@
     <userBase>Research administrators currently use the existing monitoring/reporting mechanisms.</userBase>
     <provider>OpenAIRE consortium</provider>
     <fundingSources>EC funding</fundingSources>
-    <webpage>www.openaire.eu</webpage>
+    <webpage>http://www.openaire.eu</webpage>
     <version>v1.0</version>    phase""Production""Simple reporting and monitoring - Active/Production/TRL9 Advanced
     visualization and configuration - Active/Beta/TRL6"    <category>Monitor and analysis</category>
     <subcategory>Monitor and analysis</subcategory>
     <relatedServices>OpenAIRE Aggregation Service, AAI</relatedServices>
-    <request>www.openaire.eu</request>
+    <request>http://www.openaire.eu</request>
     <helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
     <feedback>https://www.openaire.eu/support/helpdesk</feedback>
     <pricing>free</pricing>

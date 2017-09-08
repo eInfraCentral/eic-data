@@ -26,7 +26,7 @@
     <technologyReadinessLevel>9</technologyReadinessLevel>
     <category>Monitor and analysis</category>
     <relatedServices>OpenAIRE Graph, AAI</relatedServices>
-    <request>www.openaire.eu</request>
+    <request>http://www.openaire.eu</request>
     <helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
     <feedback>https://www.openaire.eu/support/helpdesk</feedback>
     <pricing>free</pricing>

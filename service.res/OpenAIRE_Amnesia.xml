@@ -23,6 +23,6 @@
     <phase>Beta</phase>
     <technologyReadinessLevel>6</technologyReadinessLevel>
     <category>Publishing</category>
-    <request>www.openaire.eu</request>
+    <request>http://www.openaire.eu</request>
     <pricing>free</pricing>
 </service>

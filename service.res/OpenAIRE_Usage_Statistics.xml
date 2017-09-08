@@ -21,14 +21,14 @@
     <userBase>Currently deployed in 31 literature repositories (Portugal, France, Croatia, Bulgaria).</userBase>
     <provider>OpenAIRE consortium</provider>
     <fundingSources>EC funding</fundingSources>
-    <webpage>Not public</webpage>
+    <webpage></webpage>
     <version>v1.0</version>
     <phase>Beta</phase>
     <trl>8</trl>
     <category>Monitor and analysis</category>
     <subcategory>Monitor and analysis</subcategory>
     <relatedServices>Piwik, SUSHI-Lite</relatedServices>
-    <request>www.openaire.eu</request>
+    <request>http://www.openaire.eu</request>
     <helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
     <documentation>https://www.openaire.eu/new-d8-5-usage-statistics-metrics/download</documentation>
     <feedback>https://www.openaire.eu/support/helpdesk</feedback>
