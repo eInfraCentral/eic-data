@@ -33,6 +33,10 @@ function load_resource {
 		fi
 		# echo -e "[${colors}${response}\e[0m] Posting [$(basename $1)] to $2 --> $(basename $file)"
 		printf "[${colors}%3d\e[0m] Posting [%9s] to %9s --> %s\n" "${response}" "$(basename $1)" "$2" "$(basename $file)"
+
+		if ((${response} < 200 || ${response} >= 300 )); then
+			read input </dev/tty
+		fi
 	done
 
 }
