@@ -45,7 +45,7 @@ function load_resource {
 # wait
 # echo "FINISHED UPLOADING RESOURCE TYPES"
 
-for dir in `ls -d ./*/`; do 
+for dir in `ls -d ./*.res/`; do 
 	#echo -e "\e[32m ### $dir ###\e[0m"
 	load_resource $dir $1 &
 done
