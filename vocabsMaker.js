@@ -1,5 +1,5 @@
-let subdir = "./vocabulary";
-let vocabsJSON = require("./vocabs.json");
+let subdir = "./vocabulary.res";
+let vocabsJSON = require("./vocabulary.jason");
 let util = require("util");
 let fs = require("fs");
 
