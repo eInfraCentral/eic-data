@@ -1,15 +1,15 @@
 {
   "Phase": [
     {
-      "id": "0",
+      "id": "Alpha",
       "name": "Alpha"
     },
     {
-      "id": "1",
+      "id": "Beta",
       "name": "Beta"
     },
     {
-      "id": "2",
+      "id": "Production",
       "name": "Production"
     }
   ],
@@ -254,15 +254,15 @@
   "TechnologyReadinessLevel": [
     {
       "id": "7",
-      "name": "7"
+      "name": "Operational prototype demonstration"
     },
     {
       "id": "8",
-      "name": "8"
+      "name": "Qualified through test and demonstration"
     },
     {
       "id": "9",
-      "name": "9"
+      "name": "Proven through successful operations"
     }
   ],
   "Country": [
