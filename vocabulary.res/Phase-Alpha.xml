@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>1</id>
-	<name>Beta</name>
+	<id>Alpha</id>
+	<name>Alpha</name>
 	<type>Phase</type>
 </vocabulary>
