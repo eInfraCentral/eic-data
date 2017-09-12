@@ -163,32 +163,92 @@
   ],
   "Category": [
     {
-      "id": "Storage",
-      "name": "Storage"
+      "id": "Text Mining, Data Mining, Information Extraction",
+      "name": "Text Mining, Data Mining, Information Extraction"
     },
     {
-      "id": "Computing",
-      "name": "Computing"
+      "id": "Storage and Data",
+      "name": "Storage and Data"
     },
     {
-      "id": "Networking",
-      "name": "Networking"
+      "id": "Platform",
+      "name": "Platform"
     },
     {
-      "id": "Data",
-      "name": "Data"
+      "id": "Monitor and analysis",
+      "name": "Monitor and analysis"
     },
     {
-      "id": "DataManagement",
-      "name": "DataManagement"
+      "id": "Data storage",
+      "name": "Data storage"
     },
     {
-      "id": "Identification",
-      "name": "Identification"
+      "id": "Security",
+      "name": "Security"
     },
     {
-      "id": "Consultancy",
-      "name": "Consultancy"
+      "id": "Interoperability",
+      "name": "Interoperability"
+    },
+    {
+      "id": "Research Projects",
+      "name": "Research Projects"
+    },
+    {
+      "id": "Training",
+      "name": "Training"
+    },
+    {
+      "id": "Data connectivity",
+      "name": "Data connectivity"
+    },
+    {
+      "id": "Data discovery",
+      "name": "Data discovery"
+    },
+    {
+      "id": "Data registration",
+      "name": "Data registration"
+    },
+    {
+      "id": "Repository",
+      "name": "Repository"
+    },
+    {
+      "id": "Publishing",
+      "name": "Publishing"
+    },
+    {
+      "id": "Network Performance",
+      "name": "Network Performance"
+    },
+    {
+      "id": "Compute",
+      "name": "Compute"
+    },
+    {
+      "id": "Consulting",
+      "name": "Consulting"
+    },
+    {
+      "id": "Data movement",
+      "name": "Data movement"
+    },
+    {
+      "id": "Connectivity",
+      "name": "Connectivity"
+    },
+    {
+      "id": "Content delivery",
+      "name": "Content delivery"
+    },
+    {
+      "id": "Operations",
+      "name": "Operations"
+    },
+    {
+      "id": "Authentication and Authorization Infrastructure",
+      "name": "Authentication and Authorization Infrastructure"
     }
   ],
   "TechnologyReadinessLevel": [
