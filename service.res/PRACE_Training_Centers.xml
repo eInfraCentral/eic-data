@@ -8,10 +8,7 @@
         computational scientists in Europe and are the primary source for PRACE training portal materials.
     </description>
     <targetUsers>Scientists and researchers</targetUsers>
-    <provider>Four PRACE members sites: IT4I – IT4Innovations National Supercomputing Center (Czech Republic), GRNET –
-        Greek Research and Technology Network (Greece), ICHEC – Irish Centre for High-End Computing (Ireland), SURFsara
-        (The Netherlands)
-    </provider>
+    <provider>prace</provider>
     <fundingSources>EC and PRACE members</fundingSources>
     <webpage>http://www.prace-ri.eu/IMG/pdf/2017-05-10-PTC-Selection-press-release-FINAL.pdf</webpage>
     <phase>Production</phase>

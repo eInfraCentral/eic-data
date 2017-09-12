@@ -12,7 +12,7 @@
     </description>
     <targetUsers>Scientists and researchers</targetUsers>
     <userValue>Access to Tier-0 resources</userValue>
-    <provider>PRACE aisbl</provider>
+    <provider>prace</provider>
     <fundingSources>Hosting Members</fundingSources>
     <webpage>http://www.prace-ri.eu/prace-project-access</webpage>
     <phase>Production</phase>

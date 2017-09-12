@@ -15,7 +15,7 @@
         providing: roaming broadband in more than 80 territories worldwide; access at thousands of locations, with one
         ​password; secure and privacy-preserving technology; reciprocal service that is free-of-charge to users.
     </userValue>
-    <provider>GÉANT and Global eduroam governance committee</provider>
+    <provider>geant</provider>
     <webpage>http://www.eduroam.org</webpage>
     <phase>Production</phase>
     <category>Connectivity</category>

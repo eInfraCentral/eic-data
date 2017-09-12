@@ -12,7 +12,7 @@
         also be licensed to those wishing to organise their own courses.
     </description>
     <targetUsers>NRENs, Identity Federations, Campus Security Teams, Third Parties</targetUsers>
-    <provider>GÉANT</provider>
+    <provider>geant</provider>
     <webpage>https://www.geant.org/Services/Trust_identity_and_security/Pages/TRANSITS_Training.aspx</webpage>
     <phase>Production</phase>
     <category>Security</category>

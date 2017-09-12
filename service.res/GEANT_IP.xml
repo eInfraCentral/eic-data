@@ -12,7 +12,7 @@
     </description>
     <targetUsers>NRENs</targetUsers>
     <userValue>Dedicated, uncontended IP connectivity</userValue>
-    <provider>GÉANT</provider>
+    <provider>geant</provider>
     <fundingSources>co-funded national NREN and H2020 funding</fundingSources>
     <webpage>https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_IP.aspx</webpage>
     <phase>Production</phase>

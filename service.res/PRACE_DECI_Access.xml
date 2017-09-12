@@ -13,7 +13,7 @@
     </description>
     <targetUsers>Scientists and researchers</targetUsers>
     <userValue>Access to Tier-1 resources</userValue>
-    <provider>Optional Programme PRACE aisbl</provider>
+    <provider>prace</provider>
     <fundingSources>Member of the Optional Programme</fundingSources>
     <webpage>http://www.prace-ri.eu/deci-projects/</webpage>
     <phase>Production</phase>

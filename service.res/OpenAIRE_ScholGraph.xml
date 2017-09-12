@@ -22,7 +22,7 @@
         site. The standalone version of the Aggregation Service has been deployed in the following national settings:
         Spain, Poland, Turkey, Argentina.
     </userBase>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding</fundingSources>
     <webpage>http://api.openaire.eu</webpage>
     <version>v2</version>

@@ -18,7 +18,7 @@
     <userBase>The EC is using the current mechanism for monitoring the open access policy. Other European national
         funders are currently using this as well (FCT-PT, NOW-NL)
     </userBase>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding</fundingSources>
     <webpage>https://www.openaire.eu/infra-monitoring#</webpage>
     <version>v3.0</version>

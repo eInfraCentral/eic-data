@@ -19,7 +19,7 @@
     </targetUsers>
     <userValue>Anonymized and aggregated usage data to improve research impact and assessment.</userValue>
     <userBase>Currently deployed in 31 literature repositories (Portugal, France, Croatia, Bulgaria).</userBase>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding</fundingSources>
     <version>v1.0</version>
     <phase>Beta</phase>

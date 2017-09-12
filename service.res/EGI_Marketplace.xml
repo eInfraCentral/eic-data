@@ -20,7 +20,7 @@
         outside of a particular field
     </userValue>
     <userBase>Closed set of researchers and service providers for testing</userBase>
-    <provider>EGI Foundation (via EGI resource providers)</provider>
+    <provider>egi</provider>
     <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         EGI participant fees + in-kind contribution from service providers
     </fundingSources>

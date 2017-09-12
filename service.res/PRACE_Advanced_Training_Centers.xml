@@ -8,7 +8,7 @@
         computational scientists in Europe and are the primary source for PRACE training portal materials.
     </description>
     <targetUsers>Scientists and researchers</targetUsers>
-    <provider>PRACE</provider>
+    <provider>prace</provider>
     <fundingSources>EC and PRACE members</fundingSources>
     <webpage>https://events.prace-ri.eu/category/2/</webpage>
     <phase>Production</phase>

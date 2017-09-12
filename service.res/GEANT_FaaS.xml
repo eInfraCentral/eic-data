@@ -16,7 +16,7 @@
         NRENs can establish their federation following best current practices and focus on the development of service
         and identity provider systems to help rapidly build AAI in their region.
     </userValue>
-    <provider>GÉANT</provider>
+    <provider>geant</provider>
     <webpage>https://www.geant.org/Services/Trust_identity_and_security/Pages/FaaS.aspx</webpage>
     <phase>Production</phase>
     <category>Security</category>

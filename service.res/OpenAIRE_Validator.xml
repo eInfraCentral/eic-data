@@ -23,7 +23,7 @@
         visitors/validations. The Validation service has been deployed also for National and Regional Aggregators like
         La Referencia (Latin America, 11 countries), Fecyt (Spain), Mincyt (Argentina).
     </userBase>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding</fundingSources>
     <webpage>https://www.openaire.eu/validator/</webpage>
     <version>v2.1</version>

@@ -13,7 +13,7 @@
         purposes and as parts of real application suites (as permitted by particular licenses).
     </description>
     <targetUsers>Scientists and researchers</targetUsers>
-    <provider>PRACE-IP projects and PRACE aisbl</provider>
+    <provider>prace</provider>
     <fundingSources>EC and PRACE members</fundingSources>
     <webpage>http://gitlab.com/PRACE-4IP/CodeVault </webpage>
     <phase>Production</phase>

@@ -9,7 +9,7 @@
         with the assistance of FutureLearn’s representatives.
     </description>
     <targetUsers>Scientists and researchers</targetUsers>
-    <provider>PRACE-IP projects and PRACE aisbl</provider>
+    <provider>prace</provider>
     <fundingSources>EC and PRACE members</fundingSources>
     <webpage>https://www.futurelearn.com/courses/supercomputing, https://www.futurelearn.com/courses/big-data-r-hadoop
     </webpage>

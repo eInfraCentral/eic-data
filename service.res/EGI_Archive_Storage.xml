@@ -14,7 +14,7 @@
     <userBase>Virtual organisations: cms, lhcb, atlas, ams02.cern.ch, vo.cta.in2p3.fr, argo, vo.agata.org, magic, virgo,
         pamela, theophys, icarus-exp.org, vo.padme.org
     </userBase>
-    <provider>EGI Foundation (via EGI resource providers)</provider>
+    <provider>egi</provider>
     <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         capacity supported by national funding, federation and support co-funded between national funding and EC H2020
         projects

@@ -11,10 +11,7 @@
         big data, or offer discipline specific parallel tracks.
     </description>
     <targetUsers>Scientists and researchers</targetUsers>
-    <provider>Four PRACE members sites: IT4I – IT4Innovations National Supercomputing Center (Czech Republic), GRNET –
-        Greek Research and Technology Network (Greece), ICHEC – Irish Centre for High-End Computing (Ireland), SURFsara
-        (The Netherlands)
-    </provider>
+    <provider>prace</provider>
     <fundingSources>EC and PRACE members</fundingSources>
     <webpage>http://www.prace-ri.eu/prace-seasonal-schools/</webpage>
     <phase>Production</phase>

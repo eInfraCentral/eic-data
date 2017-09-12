@@ -17,7 +17,7 @@
         (Repository managers/ OA publishers) may enrich their content.
     </userValue>
     <userBase>The EC is using the current mechanism for monitoring the open access policy.</userBase>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding</fundingSources>
     <webpage>http://mining.openaire.eu</webpage>
     <version>v1.0</version>

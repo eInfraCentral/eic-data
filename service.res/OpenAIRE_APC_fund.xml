@@ -16,7 +16,7 @@
     <userBase>The system has processed 1,372 requests for funding in past two years: - 773 publications from 592
         projects have been approved for funding - A total of 1,283,080 EUR has been paid for APCs
     </userBase>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding</fundingSources>
     <webpage>https://postgrantoapilot.openaire.eu</webpage>
     <version>v1.0</version>

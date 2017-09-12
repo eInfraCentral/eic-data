@@ -17,7 +17,7 @@
     </targetUsers>
     <userValue>Improved research analytics. Evidence based decision making.</userValue>
     <userBase>Used by commercial policy advisors to the EC.</userBase>
-    <provider>OpenAIRE consortium, Athena Research and Innovation Center</provider>
+    <provider>openaire</provider>
     <fundingSources>EC and institutional funding</fundingSources>
     <webpage>https://github.com/hmetaxa/MixLDA</webpage>
     <version>v0.8</version>

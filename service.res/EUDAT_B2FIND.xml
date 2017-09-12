@@ -15,7 +15,7 @@
         metadata and individual researchers who need to search data from everywhere, and see data in the context with an
         across community approach.
     </userValue>
-    <provider>DKRZ</provider>
+    <provider>eudat</provider>
     <fundingSources>EU</fundingSources>
     <webpage>https://www.eudat.eu/services/b2find</webpage>
     <version>2.2</version>

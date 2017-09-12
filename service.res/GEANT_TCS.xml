@@ -16,7 +16,7 @@
         signing certificates – for authenticating software distributed over the internet. Document signing certificates
         – for authenticating d​ocuments from Adobe PDF, Microsoft Office, OpenOffice, and LibreOffice.
     </userValue>
-    <provider>GÉANT</provider>
+    <provider>geant</provider>
     <webpage>https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx</webpage>
     <phase>Production</phase>
     <category>Security</category>

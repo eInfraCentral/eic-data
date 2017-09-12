@@ -20,7 +20,7 @@
         indexed by two major Library services (EBSCO and ExLibris) and it by the US Dept. of Energy worldwidesience.org
         site.
     </userBase>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding</fundingSources>
     <webpage>http://api.openaire.eu</webpage>
     <version>v2</version>

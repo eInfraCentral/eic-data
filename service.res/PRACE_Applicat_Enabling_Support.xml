@@ -9,7 +9,7 @@
     </description>
     <targetUsers>Scientists and researchers</targetUsers>
     <userValue>Application Enabling</userValue>
-    <provider>Hosting Sites (HLST) and PRACE-IP projects</provider>
+    <provider>prace</provider>
     <fundingSources>PRACE aisbl and EC</fundingSources>
     <webpage>http://www.prace-ri.eu/IMG/pdf/enkovaara_application_enabling.pdf</webpage>
     <phase>Production</phase>

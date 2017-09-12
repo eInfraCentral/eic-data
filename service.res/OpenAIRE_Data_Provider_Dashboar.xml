@@ -18,7 +18,7 @@
         memory. Better institution research assessment. Compliance to funder rules.
     </userValue>
     <userBase>900 data providers of all types have used the registration and validation service.</userBase>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding</fundingSources>
     <webpage>https://www.openaire.eu/validator/</webpage>
     <version>v2.1</version>

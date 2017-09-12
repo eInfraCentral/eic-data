@@ -13,7 +13,7 @@
         securely authenticate a student’s affiliation credentials. InAcademia provides the merchant only with a simple
         “Yes/No” response and no personal information is shared.
     </userValue>
-    <provider>GÉANT</provider>
+    <provider>geant</provider>
     <webpage>https://inacademia.org/</webpage>
     <phase>Beta</phase>
     <category>Security</category>

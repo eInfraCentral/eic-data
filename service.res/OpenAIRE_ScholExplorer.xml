@@ -17,7 +17,7 @@
     <userBase>The beta version includes 3.100.000 contributed research objects and 17.000.000 contributed links from 17
         organizations.
     </userBase>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding (OpenAIRE and RDA-Europe)</fundingSources>
     <webpage>https://dliservice-prototype-dli.d4science.org</webpage>
     <version>v1.0</version>

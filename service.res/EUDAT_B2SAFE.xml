@@ -14,7 +14,7 @@
     <userValue>For the communities who need to guard against data loss, B2SAFE is a customer facing service that allow
         data replication and safe storage between geographically distributed centres in the EUDAT CDI.
     </userValue>
-    <provider>EUDAT CDI consortium</provider>
+    <provider>eudat/provider>
     <fundingSources>EU</fundingSources>
     <webpage>https://www.eudat.eu/services/b2safe</webpage>
     <version>3.1.2</version>

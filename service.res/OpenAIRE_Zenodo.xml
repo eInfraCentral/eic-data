@@ -12,7 +12,7 @@
     <targetUsers>Researchers, research communities, project coordinators/principal investigators</targetUsers>
     <userValue>Enables everyone to participate in Open Science.</userValue>
     <userBase>Used by researchers and communities all over the world.</userBase>
-    <provider>CERN</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding, CERN own funds</fundingSources>
     <webpage>http://www.zenodo.org</webpage>
     <version>v2.0</version>

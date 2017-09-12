@@ -44,7 +44,7 @@
         vo.sbg.in2p3.fr, vo.scotgrid.ac.uk, vo.sim-e-child.org, vo.southgrid.ac.uk, vo.up.pt, vo.u-psud.fr, voce,
         xenon.biggrid.nl, zeus
     </userBase>
-    <provider>EGI Foundation (via EGI resource providers)</provider>
+    <provider>egi</provider>
     <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         capacity supported by national funding, federation and support co-funded between national funding and EC H2020
         projects

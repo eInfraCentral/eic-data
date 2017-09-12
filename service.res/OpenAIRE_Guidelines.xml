@@ -16,7 +16,7 @@
     <userBase>Followed in Europe by 900+ data providers (different compatibility levels). Adoption in Latin America
         (LaReferencia), Mexico, Japan for regional/national infrastructures.
     </userBase>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding</fundingSources>
     <webpage>https://guidelines.openaire.eu/</webpage>
     <version>v3.0</version>

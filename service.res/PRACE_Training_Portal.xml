@@ -6,7 +6,7 @@
     <fullName>-</fullName>
     <description>Web platform for all PRACE training offers</description>
     <targetUsers>Scientists and researchers</targetUsers>
-    <provider>PRACE aisbl and PRACE-IP projects</provider>
+    <provider>prace</provider>
     <fundingSources>EC and PRACE members</fundingSources>
     <webpage>http://www.training.prace-ri.eu/nc/training_courses/index.html</webpage>
     <phase>Production</phase>

@@ -14,7 +14,7 @@
     <userValue>Enriched repositories for better access. Improved institution memory. Better institution research
         assessment. OA publisher compliance to funder rules.
     </userValue>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding</fundingSources>
     <webpage>http://beta.repomanager.openaire.eu</webpage>
     <version>v1.0</version>

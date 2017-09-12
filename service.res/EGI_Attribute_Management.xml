@@ -11,7 +11,7 @@
     <targetUsers>Customer: Research communities, research infrastructures User: VO Managers</targetUsers>
     <userValue>Easy and trusted way to manage Virtual Organization membership</userValue>
     <userBase>All users registered in EGI Virtual Organisations All VO managers</userBase>
-    <provider>EGI Foundation (via EGI resource providers)</provider>
+    <provider>egi</provider>
     <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         EGI participant fees + in-kind contribution from service providers
     </fundingSources>

@@ -21,7 +21,7 @@
     <userBase>Virtual organisations: ATLAS, CMS, biomed, chipster.csc.fi, d4science.org, enmr.eu, extras, peachnote,
         DARIAH, EMSODEV, NBIS
     </userBase>
-    <provider>EGI Foundation (via EGI resource providers)</provider>
+    <provider>egi</provider>
     <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         capacity supported by national funding, federation and support co-funded between national funding and EC H2020
         projects

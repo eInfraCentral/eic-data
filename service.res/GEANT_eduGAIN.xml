@@ -18,7 +18,7 @@
         eduGAIN has fast become the primary mechanism to interfederate for research and education collaboration around
         the world.
     </userValue>
-    <provider>GÉANT</provider>
+    <provider>geant</provider>
     <webpage>https://www.geant.org/Services/Trust_identity_and_security/eduGAIN</webpage>
     <phase>Production</phase>
     <category>Security</category>

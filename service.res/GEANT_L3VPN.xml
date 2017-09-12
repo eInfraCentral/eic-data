@@ -16,7 +16,7 @@
         where each site can be allocated bandwidth according to its own requirements. Each site can support bandwidths
         from 155Mbps to 100Gbps (subject to availability).
     </userValue>
-    <provider>GÉANT</provider>
+    <provider>geant</provider>
     <fundingSources>co-funded NREN and H2020 funding (where applicable)</fundingSources>
     <webpage>https://www.geant.org/Services/Connectivity_and_network/Pages/VPN_Services.aspx</webpage>
     <phase>Production</phase>

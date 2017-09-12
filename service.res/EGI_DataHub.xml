@@ -21,7 +21,7 @@
     <userBase>-Virtual organisations: ICOS, CMS, CTA, EuroBioImaging, Molecular Dynamics Simulations, LBT, eCulture,
         ELIXIR-ITA, EMSO -Earth Observation pilot: RHEA, SixSq, EOProc, CWA, AWS, CESNET and Cyfronet
     </userBase>
-    <provider>EGI Foundation (via EGI resource providers)</provider>
+    <provider>egi</provider>
     <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         capacity supported by national funding, federation and support co-funded between national funding and EC H2020
         projects

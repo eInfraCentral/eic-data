@@ -20,7 +20,7 @@
         projects results, funder stats and claiming of links between projects and scholarly objects.
     </userValue>
     <userBase>Research administrators currently use the existing monitoring/reporting mechanisms.</userBase>
-    <provider>OpenAIRE consortium</provider>
+    <provider>openaire</provider>
     <fundingSources>EC funding</fundingSources>
     <webpage>http://www.openaire.eu</webpage>
     <version>v1.0</version>    phase""Production""Simple reporting and monitoring - Active/Production/TRL9 Advanced
