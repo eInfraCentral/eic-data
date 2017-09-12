@@ -139,6 +139,28 @@
       "name": "Monitor and analysis"
     }
   ],
+  "Region": [
+    {
+      "id": "Asia",
+      "name": "Asia"
+    },
+    {
+      "id": "Europe",
+      "name": "Europe"
+    },
+    {
+      "id": "America",
+      "name": "America"
+    },
+    {
+      "id": "Africa",
+      "name": "Africa"
+    },
+    {
+      "id": "Antarctica",
+      "name": "Antarctica"
+    }
+  ],
   "Category": [
     {
       "id": "Storage",
