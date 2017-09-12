@@ -13,6 +13,132 @@
       "name": "Production"
     }
   ],
+  "Subcategory": [
+    {
+      "id": "Αccounting",
+      "name": "Αccounting"
+    },
+    {
+      "id": "Αpplications repository",
+      "name": "Αpplications repository"
+    },
+    {
+      "id": "Cold storage",
+      "name": "Cold storage"
+    },
+    {
+      "id": "attribute authority",
+      "name": "attribute authority"
+    },
+    {
+      "id": "Authentication proxy",
+      "name": "Authentication proxy"
+    },
+    {
+      "id": "virtual machine management",
+      "name": "virtual machine management"
+    },
+    {
+      "id": "Container management",
+      "name": "Container management"
+    },
+    {
+      "id": "Configuration database",
+      "name": "Configuration database"
+    },
+    {
+      "id": "data transfer",
+      "name": "data transfer"
+    },
+    {
+      "id": "Data Management",
+      "name": "Data Management"
+    },
+    {
+      "id": "workload and data manager",
+      "name": "workload and data manager"
+    },
+    {
+      "id": "Face-to-face training",
+      "name": "Face-to-face training"
+    },
+    {
+      "id": "Ηelpdesk",
+      "name": "Ηelpdesk"
+    },
+    {
+      "id": "job execution",
+      "name": "job execution"
+    },
+    {
+      "id": "object storage",
+      "name": "object storage"
+    },
+    {
+      "id": "monitoring",
+      "name": "monitoring"
+    },
+    {
+      "id": "enabling platform",
+      "name": "enabling platform"
+    },
+    {
+      "id": "Software repository",
+      "name": "Software repository"
+    },
+    {
+      "id": "Security, Trust and Identity",
+      "name": "Security, Trust and Identity"
+    },
+    {
+      "id": "Security, Trust and Identity",
+      "name": "Security, Trust and Identity"
+    },
+    {
+      "id": "Security, Trust and Identity",
+      "name": "Security, Trust and Identity"
+    },
+    {
+      "id": "Security, Trust and Identity",
+      "name": "Security, Trust and Identity"
+    },
+    {
+      "id": "Security, Trust and Identity",
+      "name": "Security, Trust and Identity"
+    },
+    {
+      "id": "Security, Trust and Identity",
+      "name": "Security, Trust and Identity"
+    },
+    {
+      "id": "Publishing",
+      "name": "Publishing"
+    },
+    {
+      "id": "data linking",
+      "name": "data linking"
+    },
+    {
+      "id": "Monitor and analysis",
+      "name": "Monitor and analysis"
+    },
+    {
+      "id": "Monitor and analysis",
+      "name": "Monitor and analysis"
+    },
+    {
+      "id": "Connectivity",
+      "name": "Connectivity"
+    },
+    {
+      "id": "Content delivery",
+      "name": "Content delivery"
+    },
+    {
+      "id": "Monitor and analysis",
+      "name": "Monitor and analysis"
+    }
+  ],
   "Category": [
     {
       "id": "Storage",
