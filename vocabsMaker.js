@@ -6,7 +6,7 @@ let fs = require("fs");
 for (let v in vocabsJSON) {
     vocabsJSON[v].forEach(function (e) {
         fs.writeFileSync(
-            util.format("%s/%s-%s.xml", subdir, v, e.id),
+            util.format("%s/%s-%s.xml", subdir, v, e.id).replace(/\s/g, "_"),
             toXML(Object.assign(e, {type: v})),
             "utf8"
         );
