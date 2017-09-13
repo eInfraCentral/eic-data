@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>IN</id>
+	<id>Country_IN</id>
 	<name>India</name>
 	<type>Country</type>
 </vocabulary>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>IR</id>
+	<id>Country_IR</id>
 	<name>Iran, Islamic Republic of</name>
 	<type>Country</type>
 </vocabulary>

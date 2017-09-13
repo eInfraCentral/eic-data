@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>NC</id>
+	<id>Country_NC</id>
 	<name>New Caledonia</name>
 	<type>Country</type>
 </vocabulary>

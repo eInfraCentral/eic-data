@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>NP</id>
+	<id>Country_NP</id>
 	<name>Nepal</name>
 	<type>Country</type>
 </vocabulary>

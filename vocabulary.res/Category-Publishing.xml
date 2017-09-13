@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Publishing</id>
+	<id>Category_Publishing</id>
 	<name>Publishing</name>
 	<type>Category</type>
 </vocabulary>

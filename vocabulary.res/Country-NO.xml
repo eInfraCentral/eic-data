@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>NO</id>
+	<id>Country_NO</id>
 	<name>Norway</name>
 	<type>Country</type>
 </vocabulary>

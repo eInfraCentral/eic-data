@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>LU</id>
+	<id>Country_LU</id>
 	<name>Luxembourg</name>
 	<type>Country</type>
 </vocabulary>

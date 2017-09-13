@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>JP</id>
+	<id>Country_JP</id>
 	<name>Japan</name>
 	<type>Country</type>
 </vocabulary>

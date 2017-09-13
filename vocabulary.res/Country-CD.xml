@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>CD</id>
+	<id>Country_CD</id>
 	<name>Congo, the Democratic Republic of the</name>
 	<type>Country</type>
 </vocabulary>

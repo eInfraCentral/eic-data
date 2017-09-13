@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Africa</id>
+	<id>Region_Africa</id>
 	<name>Africa</name>
 	<type>Region</type>
 </vocabulary>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>RE</id>
+	<id>Country_RE</id>
 	<name>Réunion</name>
 	<type>Country</type>
 </vocabulary>

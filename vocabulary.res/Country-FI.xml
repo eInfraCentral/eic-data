@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>FI</id>
+	<id>Country_FI</id>
 	<name>Finland</name>
 	<type>Country</type>
 </vocabulary>

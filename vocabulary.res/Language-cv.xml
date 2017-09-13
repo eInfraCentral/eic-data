@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>cv</id>
+	<id>Language_cv</id>
 	<name>Chuvash</name>
 	<type>Language</type>
 </vocabulary>

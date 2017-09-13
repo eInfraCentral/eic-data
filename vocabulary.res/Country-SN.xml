@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>SN</id>
+	<id>Country_SN</id>
 	<name>Senegal</name>
 	<type>Country</type>
 </vocabulary>

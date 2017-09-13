@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>WF</id>
+	<id>Country_WF</id>
 	<name>Wallis and Futuna</name>
 	<type>Country</type>
 </vocabulary>

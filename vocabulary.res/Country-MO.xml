@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>MO</id>
+	<id>Country_MO</id>
 	<name>Macao</name>
 	<type>Country</type>
 </vocabulary>
