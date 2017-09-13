@@ -21,7 +21,7 @@
         can, for instance, ensure authenticity of objects with checksums and timestamps and account for replicated
         objects across multiple locations.
     </userValue>
-    <provider>eudat/provider>
+    <provider>eudat</provider>
     <fundingSources>EU</fundingSources>
     <webpage>https://www.eudat.eu/services/b2handle</webpage>
     <version>1.1</version>
