@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.06</id>
-    <brandName>Archive Storage</brandName>
+    <name>Archive Storage</name>
     <tagline>Back-up your data for the long term and future use in a secure environment</tagline>
     <fullName>-</fullName>
     <description>Archive Storage allows you to store large amounts of data in a secure environment freeing up your usual
@@ -15,13 +15,13 @@
         pamela, theophys, icarus-exp.org, vo.padme.org
     </userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         capacity supported by national funding, federation and support co-funded between national funding and EC H2020
         projects
-    </fundingSources>
-    <webpage>https://www.egi.eu/services/archive-storage/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/services/archive-storage/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Storage and Data</category>
     <subcategory>Cold storage</subcategory>
     <request>https://www.egi.eu/request-service/</request>

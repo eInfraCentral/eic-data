@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.03</id>
-    <brandName>GÉANT Lambda</brandName>
+    <name>GÉANT Lambda</name>
     <tagline>High-performance interconnectivity for the most demanding networking requirements.</tagline>
     <fullName>-</fullName>
     <description>GÉANT Lambda provides full wavelengths at up to 100Gbps to support NREN users with particularly
@@ -13,9 +13,9 @@
         networking solution.
     </userValue>
     <provider>geant</provider>
-    <fundingSources>co-funded NREN and H2020 funding</fundingSources>
-    <webpage>https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_Point-to-Point.aspx</webpage>
-    <phase>Production</phase>
+    <funding>co-funded NREN and H2020 funding</funding>
+    <url>https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_Point-to-Point.aspx</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Connectivity</category>
     <relatedServices>GÉANT Plus</relatedServices>
     <request>https://partner.geant.net/Public/home.aspx</request>

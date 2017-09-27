@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.08</id>
-    <brandName>DataHub</brandName>
+    <name>DataHub</name>
     <tagline>Access key scientific datasets scalably</tagline>
     <fullName>-</fullName>
     <description>Access selected public datasets and efficiently consume them from EGI compute services. Main features:
         - Discovery of data via a central portal. This will include a searching mechanism plus a rating system which may
         be based on, e.g. number of accesses. - Access to data conforming to required policies which may be: 1)
         unauthenticated open access; 2) access after user registration or 3) access restricted to members of a Virtual
-        Organization (VO). This access may be via a GUI (e.g. a webpage) or an API (e.g. programmatic access to the
+        Organization (VO). This access may be via a GUI (e.g. a url) or an API (e.g. programmatic access to the
         data) - Replication of data from data providers for resiliency and availability purposes. Replication may take
         place either on demand or automatically. Replication will require the introduction of a file catalogue to enable
         tracking of logical and physical copies of data. - Access to data from the AppDB to enable VOs to associate
@@ -22,13 +22,13 @@
         ELIXIR-ITA, EMSO -Earth Observation pilot: RHEA, SixSq, EOProc, CWA, AWS, CESNET and Cyfronet
     </userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         capacity supported by national funding, federation and support co-funded between national funding and EC H2020
         projects
-    </fundingSources>
-    <webpage>https://www.egi.eu/services/</webpage>
-    <phase>Alpha</phase>
-    <technologyReadinessLevel>7</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/services/</url>
+    <lifeCycleStatus>Alpha</lifeCycleStatus>
+    <trl>7</trl>
     <category>Storage and Data</category>
     <subcategory>Data Management</subcategory>
     <request>https://www.egi.eu/request-service/</request>

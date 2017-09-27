@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.14</id>
-    <brandName>InAcademia</brandName>
+    <name>InAcademia</name>
     <tagline>Online Student Validation</tagline>
     <fullName>-</fullName>
     <description>From cloud services to tickets to pizza, commercial providers want to offer great deals. InAcademia
@@ -14,8 +14,8 @@
         “Yes/No” response and no personal information is shared.
     </userValue>
     <provider>geant</provider>
-    <webpage>https://inacademia.org/</webpage>
-    <phase>Beta</phase>
+    <url>https://inacademia.org/</url>
+    <lifeCycleStatus>Beta</lifeCycleStatus>
     <category>Security</category>
     <subcategory>Security, Trust and Identity</subcategory>
     <relatedServices>eduGAIN</relatedServices>

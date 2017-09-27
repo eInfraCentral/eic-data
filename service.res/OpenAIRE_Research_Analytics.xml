@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.13</id>
-    <brandName>OpenAIRE Research Analytics</brandName>
+    <name>OpenAIRE Research Analytics</name>
     <tagline>Topic modelling for scholarly communication</tagline>
     <fullName>OpenAIRE Research Analytics</fullName>
     <description>This service identifies and annotates large archives of publications with thematic information, i.e.,
@@ -18,11 +18,11 @@
     <userValue>Improved research analytics. Evidence based decision making.</userValue>
     <userBase>Used by commercial policy advisors to the EC.</userBase>
     <provider>openaire</provider>
-    <fundingSources>EC and institutional funding</fundingSources>
-    <webpage>https://github.com/hmetaxa/MixLDA</webpage>
+    <funding>EC and institutional funding</funding>
+    <url>https://github.com/hmetaxa/MixLDA</url>
     <version>v0.8</version>
-    <phase>Beta</phase>
-    <technologyReadinessLevel>6</technologyReadinessLevel>
+    <lifeCycleStatus>Beta</lifeCycleStatus>
+    <trl>6</trl>
     <category>Monitor and analysis</category>
     <subcategory>Monitor and analysis</subcategory>
     <relatedServices>OpenAIRE Graph</relatedServices>

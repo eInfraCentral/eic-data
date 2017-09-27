@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.08</id>
-    <brandName>Zenodo</brandName>
+    <name>Zenodo</name>
     <tagline>A catch-all repository</tagline>
     <fullName>Zenodo</fullName>
     <description>Zenodo is a general purpose repository that enables researchers, scientists, projects and institutions
@@ -13,11 +13,11 @@
     <userValue>Enables everyone to participate in Open Science.</userValue>
     <userBase>Used by researchers and communities all over the world.</userBase>
     <provider>openaire</provider>
-    <fundingSources>EC funding, CERN own funds</fundingSources>
-    <webpage>http://www.zenodo.org</webpage>
+    <funding>EC funding, CERN own funds</funding>
+    <url>http://www.zenodo.org</url>
     <version>v2.0</version>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Publishing</category>
     <relatedServices>CERN Data Centre, Invenio software &amp; DataCite DOI miniting</relatedServices>
     <request>http://about.zenodo.org/contact/</request>

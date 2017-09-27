@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.04</id>
-    <brandName>DIRAC Manager</brandName>
+    <name>DIRAC Manager</name>
     <tagline>Workload management service to distribute and manage centrally thousands of computational tasks both on
         cloud and HTC
     </tagline>
@@ -25,13 +25,13 @@
     </userValue>
     <userBase>Virtual organisations: ENWR, VLMED, EISCAT, compchem</userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         capacity supported by national funding, federation and support co-funded between national funding and EC H2020
         projects
-    </fundingSources>
-    <webpage>https://www.egi.eu/services/</webpage>
-    <phase>Alpha</phase>
-    <technologyReadinessLevel>7</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/services/</url>
+    <lifeCycleStatus>Alpha</lifeCycleStatus>
+    <trl>7</trl>
     <category>Platform</category>
     <subcategory>workload and data manager</subcategory>
     <request>https://www.egi.eu/request-service/</request>

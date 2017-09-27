@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.04</id>
-    <brandName>GÉANT Open</brandName>
+    <name>GÉANT Open</name>
     <tagline>High-performance interconnectivity for the most demanding networking requirements.</tagline>
     <fullName>-</fullName>
     <description>GÉANT Open allows NRENs and approved commercial organisations to exchange connectivity in a highly
@@ -17,9 +17,9 @@
         networking solution.
     </userValue>
     <provider>geant</provider>
-    <fundingSources>co-funded NREN and H2020 funding (where applicable)</fundingSources>
-    <webpage>https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_Point-to-Point.aspx</webpage>
-    <phase>Production</phase>
+    <funding>co-funded NREN and H2020 funding (where applicable)</funding>
+    <url>https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_Point-to-Point.aspx</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Connectivity</category>
     <relatedServices>GÉANT Plus, GÉANT Lambda</relatedServices>
     <request>https://partner.geant.net/Public/home.aspx</request>

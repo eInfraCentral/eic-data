@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.03</id>
-    <brandName>OpenAIRE Validator</brandName>
+    <name>OpenAIRE Validator</name>
     <tagline>-</tagline>
     <fullName>OpenAIRE Validation Service</fullName>
     <description>This service performs validation checks on both the quality of implementation of the OAI-PMH protocol
@@ -24,11 +24,11 @@
         La Referencia (Latin America, 11 countries), Fecyt (Spain), Mincyt (Argentina).
     </userBase>
     <provider>openaire</provider>
-    <fundingSources>EC funding</fundingSources>
-    <webpage>https://www.openaire.eu/validator/</webpage>
+    <funding>EC funding</funding>
+    <url>https://www.openaire.eu/validator/</url>
     <version>v2.1</version>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Interoperability</category>
     <relatedServices>N/A</relatedServices>
     <request>http://www.openaire.eu</request>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.02</id>
-    <brandName>Cloud Compute</brandName>
+    <name>Cloud Compute</name>
     <tagline>Run virtual machines on-demand with complete control over computing resources</tagline>
     <fullName>-</fullName>
     <description>Cloud Compute gives you the ability to deploy and scale virtual machines on-demand. It offers
@@ -22,13 +22,13 @@
         DARIAH, EMSODEV, NBIS
     </userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         capacity supported by national funding, federation and support co-funded between national funding and EC H2020
         projects
-    </fundingSources>
-    <webpage>https://www.egi.eu/services/cloud-compute/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/services/cloud-compute/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Compute</category>
     <subcategory>virtual machine management</subcategory>
     <request>https://www.egi.eu/request-service/</request>

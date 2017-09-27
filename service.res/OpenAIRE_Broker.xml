@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.05</id>
-    <brandName>OpenAIRE Broker</brandName>
+    <name>OpenAIRE Broker</name>
     <tagline>-</tagline>
     <fullName>OpenAIRE Literature Notification Broker Service</fullName>
     <description>The Broker service supports (i) the exchange of metadata and content amongst repositories, publishers
@@ -15,11 +15,11 @@
         assessment. OA publisher compliance to funder rules.
     </userValue>
     <provider>openaire</provider>
-    <fundingSources>EC funding</fundingSources>
-    <webpage>http://beta.repomanager.openaire.eu</webpage>
+    <funding>EC funding</funding>
+    <url>http://beta.repomanager.openaire.eu</url>
     <version>v1.0</version>
-    <phase>Beta</phase>
-    <technologyReadinessLevel>8</technologyReadinessLevel>
+    <lifeCycleStatus>Beta</lifeCycleStatus>
+    <trl>8</trl>
     <category>Connectivity</category>
     <relatedServices>OpenAIRE Graph, OpenAIRE Data Provider Dashboard</relatedServices>
     <request>http://www.openaire.eu</request>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.04</id>
-    <brandName>OpenAIRE Usage Statistics</brandName>
+    <name>OpenAIRE Usage Statistics</name>
     <tagline>-</tagline>
     <fullName>OpenAIRE Usage Statistics</fullName>
     <description>The service tracks, collects and analyzes usage data from the network of OpenAIRE data providers and
@@ -20,9 +20,9 @@
     <userValue>Anonymized and aggregated usage data to improve research impact and assessment.</userValue>
     <userBase>Currently deployed in 31 literature repositories (Portugal, France, Croatia, Bulgaria).</userBase>
     <provider>openaire</provider>
-    <fundingSources>EC funding</fundingSources>
+    <funding>EC funding</funding>
     <version>v1.0</version>
-    <phase>Beta</phase>
+    <lifeCycleStatus>Beta</lifeCycleStatus>
     <trl>8</trl>
     <category>Monitor and analysis</category>
     <subcategory>Monitor and analysis</subcategory>

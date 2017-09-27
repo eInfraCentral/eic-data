@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>05.10</id>
-    <brandName>PTC</brandName>
+    <name>PTC</name>
     <tagline>-</tagline>
     <fullName>PRACE Training Centres</fullName>
     <description>The PRACE Training Centres (PTCs) provide top-class education and training opportunities for
@@ -9,10 +9,10 @@
     </description>
     <targetUsers>Scientists and researchers</targetUsers>
     <provider>prace</provider>
-    <fundingSources>EC and PRACE members</fundingSources>
-    <webpage>http://www.prace-ri.eu/IMG/pdf/2017-05-10-PTC-Selection-press-release-FINAL.pdf</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <funding>EC and PRACE members</funding>
+    <url>http://www.prace-ri.eu/IMG/pdf/2017-05-10-PTC-Selection-press-release-FINAL.pdf</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Training</category>
     <relatedServices>Preparatory Access</relatedServices>
     <pricing>Free of charge</pricing>

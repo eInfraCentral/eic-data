@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.12</id>
-    <brandName>eduGAIN</brandName>
+    <name>eduGAIN</name>
     <tagline>Unlocking global research and education c​​ollaboration.</tagline>
     <fullName>-</fullName>
     <description>eduGAIN is a fast-growing initiative that interconnects research and education identity federations
@@ -19,8 +19,8 @@
         the world.
     </userValue>
     <provider>geant</provider>
-    <webpage>https://www.geant.org/Services/Trust_identity_and_security/eduGAIN</webpage>
-    <phase>Production</phase>
+    <url>https://www.geant.org/Services/Trust_identity_and_security/eduGAIN</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Security</category>
     <subcategory>Security, Trust and Identity</subcategory>
     <relatedServices>Federation as a Service (FaaS)</relatedServices>

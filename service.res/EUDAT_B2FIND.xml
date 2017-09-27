@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>02.04</id>
-    <brandName>B2FIND</brandName>
+    <name>B2FIND</name>
     <tagline>Find research data</tagline>
     <fullName>-</fullName>
     <description>B2FIND is the EUDAT metadata service and provides a discovery portal which allows users to find data
@@ -16,10 +16,10 @@
         across community approach.
     </userValue>
     <provider>eudat</provider>
-    <fundingSources>EU</fundingSources>
-    <webpage>https://www.eudat.eu/services/b2find</webpage>
+    <funding>EU</funding>
+    <url>https://www.eudat.eu/services/b2find</url>
     <version>2.2</version>
-    <phase>Production</phase>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Data discovery</category>
     <request>http://eudat.eu/support-request?Service=B2FIND</request>
     <helpdesk>http://eudat.eu/support-request?Service=B2FIND</helpdesk>

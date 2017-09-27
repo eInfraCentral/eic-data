@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.13</id>
-    <brandName>Accounting</brandName>
+    <name>Accounting</name>
     <tagline>Track and report the usage of your services</tagline>
     <fullName>EGI Accounting</fullName>
     <description>EGI Accounting stores user accounting records from various services offered by EGI, such as Cloud, HTC
@@ -20,12 +20,12 @@
     </userValue>
     <userBase>EGI resource providers: https://www.egi.eu/federation/data-centres/</userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         EGI participant fees + in-kind contribution from service providers
-    </fundingSources>
-    <webpage>https://www.egi.eu/internal-services/accounting/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/internal-services/accounting/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Operations</category>
     <subcategory>Αccounting</subcategory>
     <request>https://www.egi.eu/request-service/</request>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.17</id>
-    <brandName>FP7 Post-Grant Gold Open Access Pilot</brandName>
+    <name>FP7 Post-Grant Gold Open Access Pilot</name>
     <tagline>-</tagline>
     <fullName>FP7 Post-Grant Gold Open Access Pilot</fullName>
     <description>This service manages the APC fund - reimbursing APC and BPC up to a limited amount, running a pilot for
@@ -17,11 +17,11 @@
         projects have been approved for funding - A total of 1,283,080 EUR has been paid for APCs
     </userBase>
     <provider>openaire</provider>
-    <fundingSources>EC funding</fundingSources>
-    <webpage>https://postgrantoapilot.openaire.eu</webpage>
+    <funding>EC funding</funding>
+    <url>https://postgrantoapilot.openaire.eu</url>
     <version>v1.0</version>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Publishing</category>
     <subcategory>Publishing</subcategory>
     <relatedServices>-</relatedServices>

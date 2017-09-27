@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.11</id>
-    <brandName>OpenAIRE Funder Dashboard</brandName>
+    <name>OpenAIRE Funder Dashboard</name>
     <tagline>One-stop-shop for funder open research monitoring</tagline>
     <fullName>OpenAIRE Funder Dashboard</fullName>
     <description>The Funder Dashboard is built on the OpenAIRE Graph and provides a monitoring and reporting mechanism
@@ -19,11 +19,11 @@
         funders are currently using this as well (FCT-PT, NOW-NL)
     </userBase>
     <provider>openaire</provider>
-    <fundingSources>EC funding</fundingSources>
-    <webpage>https://www.openaire.eu/infra-monitoring#</webpage>
+    <funding>EC funding</funding>
+    <url>https://www.openaire.eu/infra-monitoring#</url>
     <version>v3.0</version>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Monitor and analysis</category>
     <relatedServices>OpenAIRE Graph, AAI</relatedServices>
     <request>http://www.openaire.eu</request>

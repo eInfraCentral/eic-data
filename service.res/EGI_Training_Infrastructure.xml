@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.10</id>
-    <brandName>Training Infrastructure</brandName>
+    <name>Training Infrastructure</name>
     <tagline>Dedicated computing and storage for training and education</tagline>
     <fullName>-</fullName>
     <description>The Training Infrastructure is a cloud-based computing and storage resources for training events. It is
@@ -20,13 +20,13 @@
         and reuse
     </userValue>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects, Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects, Operations:
         capacity supported by national funding, federation and support co-funded between national funding and EC H2020
         projects
-    </fundingSources>
-    <webpage>https://www.egi.eu/services/training-infrastructure/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/services/training-infrastructure/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Training</category>
     <subcategory>enabling platform</subcategory>
     <request>https://www.egi.eu/request-service/</request>

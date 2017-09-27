@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.12</id>
-    <brandName>Service Monitoring</brandName>
+    <name>Service Monitoring</name>
     <tagline>Monitor the performance of IT services</tagline>
     <fullName>-</fullName>
     <description>Service Monitoring keeps an eye on the performance of your IT services and quickly detects and resolves
@@ -16,12 +16,12 @@
     </userValue>
     <userBase>EGI resource providers: https://www.egi.eu/federation/data-centres/</userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         EGI participant fees + in-kind contribution from service providers
-    </fundingSources>
-    <webpage>https://www.egi.eu/internal-services/service-monitoring/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/internal-services/service-monitoring/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Operations</category>
     <subcategory>monitoring</subcategory>
     <request>https://www.egi.eu/request-service/</request>

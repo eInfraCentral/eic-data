@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.09</id>
-    <brandName>OpenAIRE ScholExplorer</brandName>
+    <name>OpenAIRE ScholExplorer</name>
     <tagline>Linking data and literature</tagline>
     <fullName>OpenAIRE Data Literature Integration Service</fullName>
     <description>ScholExplorer populates and provides access to a graph of relationships between datasets and
@@ -18,10 +18,10 @@
         organizations.
     </userBase>
     <provider>openaire</provider>
-    <fundingSources>EC funding (OpenAIRE and RDA-Europe)</fundingSources>
-    <webpage>https://dliservice-prototype-dli.d4science.org</webpage>
+    <funding>EC funding (OpenAIRE and RDA-Europe)</funding>
+    <url>https://dliservice-prototype-dli.d4science.org</url>
     <version>v1.0</version>
-    <phase>Beta</phase>
+    <lifeCycleStatus>Beta</lifeCycleStatus>
     <trl>8</trl>
     <category>Connectivity</category>
     <subcategory>Connectivity</subcategory>

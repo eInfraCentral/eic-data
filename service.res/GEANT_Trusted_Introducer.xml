@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.16</id>
-    <brandName>Trusted Introducer</brandName>
+    <name>Trusted Introducer</name>
     <tagline>Building mutual trust between security teams​​​.</tagline>
     <fullName>-</fullName>
     <description>Many research and education networking organisations, commercial internet service providers,
@@ -18,8 +18,8 @@
         that enable the teams to interact more efficiently and effectively.
     </userValue>
     <provider>geant</provider>
-    <webpage>https://www.trusted-introducer.org/</webpage>
-    <phase>Production</phase>
+    <url>https://www.trusted-introducer.org/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Security</category>
     <subcategory>Security, Trust and Identity</subcategory>
     <request>https://www.trusted-introducer.org/</request>

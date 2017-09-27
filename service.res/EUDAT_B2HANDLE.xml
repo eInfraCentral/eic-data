@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>02.06</id>
-    <brandName>B2HANDLE</brandName>
+    <name>B2HANDLE</name>
     <tagline>Register your research data</tagline>
     <fullName>-</fullName>
     <description>B2HANDLE is the distributed service for storing, managing and accessing persistent identifiers (PIDs)
@@ -22,10 +22,10 @@
         objects across multiple locations.
     </userValue>
     <provider>eudat</provider>
-    <fundingSources>EU</fundingSources>
-    <webpage>https://www.eudat.eu/services/b2handle</webpage>
+    <funding>EU</funding>
+    <url>https://www.eudat.eu/services/b2handle</url>
     <version>1.1</version>
-    <phase>Production</phase>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Data registration</category>
     <relatedServices>B2SAFE; B2SHARE; B2FIND; B2STAGE</relatedServices>
     <request>http://eudat.eu/support-request?Service=B2HANDLE</request>

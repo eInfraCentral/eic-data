@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.06</id>
-    <brandName>GÉANT L3VPN</brandName>
+    <name>GÉANT L3VPN</name>
     <tagline>Increased pri​​vacy and control - helping to build effective virtual teams across borders.</tagline>
     <fullName>-</fullName>
     <description>L3-VPNs are ideal for many-to-many (peer-to-peer) or one-to-many (central-site-to-satellite)
@@ -17,9 +17,9 @@
         from 155Mbps to 100Gbps (subject to availability).
     </userValue>
     <provider>geant</provider>
-    <fundingSources>co-funded NREN and H2020 funding (where applicable)</fundingSources>
-    <webpage>https://www.geant.org/Services/Connectivity_and_network/Pages/VPN_Services.aspx</webpage>
-    <phase>Production</phase>
+    <funding>co-funded NREN and H2020 funding (where applicable)</funding>
+    <url>https://www.geant.org/Services/Connectivity_and_network/Pages/VPN_Services.aspx</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Connectivity</category>
     <relatedServices>GÉANT MDVPN</relatedServices>
     <request>https://partner.geant.net/Public/home.aspx</request>

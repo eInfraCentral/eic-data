@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>05.08</id>
-    <brandName>PRACE MOOC</brandName>
+    <name>PRACE MOOC</name>
     <tagline>-</tagline>
     <fullName>PRACE Massive Open Online Courses</fullName>
     <description>PRACE Massive Open Online Courses. The agreement between PRACE and the Massive Open Online Course
@@ -10,11 +10,11 @@
     </description>
     <targetUsers>Scientists and researchers</targetUsers>
     <provider>prace</provider>
-    <fundingSources>EC and PRACE members</fundingSources>
-    <webpage>https://www.futurelearn.com/courses/supercomputing, https://www.futurelearn.com/courses/big-data-r-hadoop
-    </webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <funding>EC and PRACE members</funding>
+    <url>https://www.futurelearn.com/courses/supercomputing, https://www.futurelearn.com/courses/big-data-r-hadoop
+    </url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Training</category>
     <relatedServices>Preparatory Access</relatedServices>
     <pricing>Free of charge</pricing>

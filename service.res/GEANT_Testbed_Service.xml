@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.07</id>
-    <brandName>GÉANT Testbeds Service</brandName>
+    <name>GÉANT Testbeds Service</name>
     <tagline>​Integrated virtual network environments to support advanced research.</tagline>
     <fullName>-</fullName>
     <description>The GÉANT Testbeds Service (GTS) delivers integrated ​​virtual environments as 'testbeds' for the
@@ -13,9 +13,9 @@
         production GÉANT network to provide security and safety.​
     </userValue>
     <provider>geant</provider>
-    <fundingSources>co-funded NREN and H2020 funding (where applicable)</fundingSources>
-    <webpage>https://www.geant.org/Services/Connectivity_and_network/GTS/</webpage>
-    <phase>Production</phase>
+    <funding>co-funded NREN and H2020 funding (where applicable)</funding>
+    <url>https://www.geant.org/Services/Connectivity_and_network/GTS/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Research Projects</category>
     <request>https://partner.geant.net/Public/home.aspx</request>
     <helpdesk>https://partner.geant.net/Public/home.aspx</helpdesk>

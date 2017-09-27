@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.15</id>
-    <brandName>TRANSITS Training</brandName>
+    <name>TRANSITS Training</name>
     <tagline>High-quality training for computer security teams.</tagline>
     <fullName>-</fullName>
     <description>TRANSITS provides affordable, high-quality training to both new and experienced computer security
@@ -13,8 +13,8 @@
     </description>
     <targetUsers>NRENs, Identity Federations, Campus Security Teams, Third Parties</targetUsers>
     <provider>geant</provider>
-    <webpage>https://www.geant.org/Services/Trust_identity_and_security/Pages/TRANSITS_Training.aspx</webpage>
-    <phase>Production</phase>
+    <url>https://www.geant.org/Services/Trust_identity_and_security/Pages/TRANSITS_Training.aspx</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Security</category>
     <subcategory>Security, Trust and Identity</subcategory>
     <request>https://www.geant.org/Services/Trust_identity_and_security/Pages/TRANSITS_Training.aspx</request>

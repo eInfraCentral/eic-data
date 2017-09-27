@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.10</id>
-    <brandName>OpenAIRE Institution Dashboard</brandName>
+    <name>OpenAIRE Institution Dashboard</name>
     <tagline>One-stop-shop for institutional open research monitoring</tagline>
     <fullName>OpenAIRE Institution Dashboard</fullName>
     <description>The Institution Dashboard is built on the OpenAIRE Graph and provides a monitoring and reporting
@@ -21,9 +21,9 @@
     </userValue>
     <userBase>Research administrators currently use the existing monitoring/reporting mechanisms.</userBase>
     <provider>openaire</provider>
-    <fundingSources>EC funding</fundingSources>
-    <webpage>http://www.openaire.eu</webpage>
-    <version>v1.0</version>    phase""Production""Simple reporting and monitoring - Active/Production/TRL9 Advanced
+    <funding>EC funding</funding>
+    <url>http://www.openaire.eu</url>
+    <version>v1.0</version>    lifeCycleStatus""Production""Simple reporting and monitoring - Active/Production/TRL9 Advanced
     visualization and configuration - Active/Beta/TRL6"    <category>Monitor and analysis</category>
     <subcategory>Monitor and analysis</subcategory>
     <relatedServices>OpenAIRE Aggregation Service, AAI</relatedServices>

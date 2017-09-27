@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.13</id>
-    <brandName>eduGAIN Federation as a Service</brandName>
+    <name>eduGAIN Federation as a Service</name>
     <tagline>Helping NRENs to build identity federations and deliver AAI services.</tagline>
     <fullName>-</fullName>
     <description>Authentication and authorisation infrastructure (AAI) is one of the key differentiators between
@@ -17,8 +17,8 @@
         and identity provider systems to help rapidly build AAI in their region.
     </userValue>
     <provider>geant</provider>
-    <webpage>https://www.geant.org/Services/Trust_identity_and_security/Pages/FaaS.aspx</webpage>
-    <phase>Production</phase>
+    <url>https://www.geant.org/Services/Trust_identity_and_security/Pages/FaaS.aspx</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Security</category>
     <subcategory>Security, Trust and Identity</subcategory>
     <relatedServices>eduGAIN</relatedServices>

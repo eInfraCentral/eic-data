@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.17</id>
-    <brandName>Operational tools</brandName>
+    <name>Operational tools</name>
     <tagline>Integrate resources and operations in a federated ecosystem</tagline>
     <fullName>-</fullName>
     <description>The service of Operational tools provides the essential toolkit to run a core infrastructure platform
@@ -21,12 +21,12 @@
     </userValue>
     <userBase>EGI resource providers: https://www.egi.eu/federation/data-centres/ EGI VO managers</userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         EGI participant fees + in-kind contribution from service providers
-    </fundingSources>
-    <webpage>https://www.egi.eu/internal-services/operational-tools/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/internal-services/operational-tools/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Operations</category>
     <request>https://www.egi.eu/request-service/</request>
 </service>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>02.02</id>
-    <brandName>B2SHARE</brandName>
+    <name>B2SHARE</name>
     <tagline>Store and publish research data</tagline>
     <fullName>-</fullName>
     <description>B2SHARE is a user-friendly, reliable and trustworthy way for researchers, scientific communities and
@@ -15,10 +15,10 @@
         easy way to share it in the research community.
     </userValue>
     <provider>eudat</provider>
-    <fundingSources>EU</fundingSources>
-    <webpage>https://www.eudat.eu/services/b2share</webpage>
+    <funding>EU</funding>
+    <url>https://www.eudat.eu/services/b2share</url>
     <version>2.0.1</version>
-    <phase>Production</phase>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Data storage</category>
     <relatedServices>B2ACCESS; B2HANDLE</relatedServices>
     <request>http://eudat.eu/support-request?Service=B2SHARE</request>

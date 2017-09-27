@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.12</id>
-    <brandName>OpenAIRE Inference</brandName>
+    <name>OpenAIRE Inference</name>
     <tagline>Text and data mining for scholarly communication</tagline>
     <fullName>OpenAIRE Inference Service</fullName>
     <description>This service performs text mining (entity resolution) on the metadata and the fulltext of publications
@@ -18,10 +18,10 @@
     </userValue>
     <userBase>The EC is using the current mechanism for monitoring the open access policy.</userBase>
     <provider>openaire</provider>
-    <fundingSources>EC funding</fundingSources>
-    <webpage>http://mining.openaire.eu</webpage>
+    <funding>EC funding</funding>
+    <url>http://mining.openaire.eu</url>
     <version>v1.0</version>
-    <phase>Production</phase>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <trl>9</trl>
     <category>Text Mining, Data Mining, Information Extraction</category>
     <relatedServices>OpenAIRE Aggregation Service, AAI</relatedServices>

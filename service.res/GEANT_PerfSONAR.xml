@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.09</id>
-    <brandName>perfSONAR</brandName>
+    <name>perfSONAR</name>
     <tagline>Real-time, multi-domain performance monitoring​.</tagline>
     <fullName>-</fullName>
     <description>perfSONAR can be used by GÉANT, national research and education networking (NREN) organisations,
@@ -21,9 +21,9 @@
         how neuGRID​ use perfSONAR to support their international project.
     </userValue>
     <provider>geant</provider>
-    <fundingSources>co-funded NREN and H2020 funding (where applicable)</fundingSources>
-    <webpage>https://www.geant.org/Services/Connectivity_and_network/Pages/perfSONAR.aspx</webpage>
-    <phase>Production</phase>
+    <funding>co-funded NREN and H2020 funding (where applicable)</funding>
+    <url>https://www.geant.org/Services/Connectivity_and_network/Pages/perfSONAR.aspx</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Network Performance</category>
     <request>http://www.perfsonar.net/</request>
     <helpdesk>http://www.perfsonar.net/</helpdesk>

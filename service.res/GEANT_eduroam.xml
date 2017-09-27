@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.08</id>
-    <brandName>eduroam</brandName>
+    <name>eduroam</name>
     <tagline>Seamless Wi-Fi access for research and education around the world​.</tagline>
     <fullName>-</fullName>
     <description>e​​duroam​ (education roaming) is the secure, world-wide roaming access service developed for the
@@ -16,8 +16,8 @@
         ​password; secure and privacy-preserving technology; reciprocal service that is free-of-charge to users.
     </userValue>
     <provider>geant</provider>
-    <webpage>http://www.eduroam.org</webpage>
-    <phase>Production</phase>
+    <url>http://www.eduroam.org</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Connectivity</category>
     <request>http://www.eduroam.org</request>
     <helpdesk>http://www.eduroam.org</helpdesk>

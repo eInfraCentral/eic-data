@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.18</id>
-    <brandName>OpenAIRE Graph</brandName>
+    <name>OpenAIRE Graph</name>
     <tagline>Open, linked research</tagline>
     <fullName>OpenAIRE Aggregation Service</fullName>
     <description>The Aggregation service creates the OpenAIRE scholarly communication graph by (i) aggregating metadata
@@ -21,11 +21,11 @@
         site.
     </userBase>
     <provider>openaire</provider>
-    <fundingSources>EC funding</fundingSources>
-    <webpage>http://api.openaire.eu</webpage>
+    <funding>EC funding</funding>
+    <url>http://api.openaire.eu</url>
     <version>v2</version>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Data connectivity</category>
     <subcatgory>Data connectivity, Content delivery</subcatgory>
     <relatedServices>Validation Service Inference Service Discovery Service</relatedServices>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>02.07</id>
-    <brandName>B2ACCESS</brandName>
+    <name>B2ACCESS</name>
     <tagline>Identity &amp; authorisation</tagline>
     <fullName>-</fullName>
     <description>B2ACCESS is the EUDAT federated cross-infrastructure authorisation and authentication framework for
@@ -13,10 +13,10 @@
         is a customer facing services provides a federates access to the B2 services in a trusted way.
     </userValue>
     <provider>eudat</provider>
-    <fundingSources>EU</fundingSources>
-    <webpage>https://www.eudat.eu/services/b2access</webpage>
+    <funding>EU</funding>
+    <url>https://www.eudat.eu/services/b2access</url>
     <version>1.0</version>
-    <phase>Production</phase>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Authentication and Authorization Infrastructure</category>
     <relatedServices>B2SAFE; B2SHARE; B2STAGE</relatedServices>
     <request>http://eudat.eu/support-request?Service=B2ACCESS</request>

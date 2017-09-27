@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.18</id>
-    <brandName>Marketplace</brandName>
+    <name>Marketplace</name>
     <tagline>Discover and access the best IT services, data, instrumentation and research resources to perform
         multi-disciplinary research in EGI federated environment
     </tagline>
@@ -21,12 +21,12 @@
     </userValue>
     <userBase>Closed set of researchers and service providers for testing</userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         EGI participant fees + in-kind contribution from service providers
-    </fundingSources>
-    <webpage>https://www.egi.eu/internal-services</webpage>
-    <phase>Alpha</phase>
-    <technologyReadinessLevel>7</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/internal-services</url>
+    <lifeCycleStatus>Alpha</lifeCycleStatus>
+    <trl>7</trl>
     <category>Operations</category>
     <request>https://www.egi.eu/request-service/</request>
 </service>

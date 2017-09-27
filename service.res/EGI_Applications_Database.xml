@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.11</id>
-    <brandName>Applications Database</brandName>
+    <name>Applications Database</name>
     <tagline>Access federated software and solutions</tagline>
     <fullName>-</fullName>
     <description>The EGI Applications Database (AppDB) is a central service that stores and provides to the public,
@@ -47,12 +47,12 @@
         xenon.biggrid.nl, zeus
     </userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         EGI participant fees + in-kind contribution from service providers
-    </fundingSources>
-    <webpage>https://www.egi.eu/services/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/services/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Repository</category>
     <subcategory>Αpplications repository</subcategory>
     <request>https://www.egi.eu/request-service/</request>

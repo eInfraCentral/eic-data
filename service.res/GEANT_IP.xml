@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.01</id>
-    <brandName>GÉANT IP</brandName>
+    <name>GÉANT IP</name>
     <tagline>Providing high-bandwidth, high-speed international connectivity for millions of academic user​s</tagline>
     <fullName>-</fullName>
     <description>GÉANT IP provides general-purpose IP transit for national research and education networking (NREN)
@@ -13,9 +13,9 @@
     <targetUsers>NRENs</targetUsers>
     <userValue>Dedicated, uncontended IP connectivity</userValue>
     <provider>geant</provider>
-    <fundingSources>co-funded national NREN and H2020 funding</fundingSources>
-    <webpage>https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_IP.aspx</webpage>
-    <phase>Production</phase>
+    <funding>co-funded national NREN and H2020 funding</funding>
+    <url>https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_IP.aspx</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Connectivity</category>
     <relatedServices>GÉANT Peering and GÉANT World Service as service options</relatedServices>
     <request>https://partner.geant.net/Public/home.aspx</request>

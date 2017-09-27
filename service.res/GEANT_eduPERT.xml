@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.10</id>
-    <brandName>eduPERT</brandName>
+    <name>eduPERT</name>
     <tagline>Supporting PERTs across ​the community to achieve best network p​​erformance.​</tagline>
     <fullName>-</fullName>
     <description>Performance Enhancement Response Teams (PERTs) provide an investigation and consulting service to
@@ -18,9 +18,9 @@
         encouraged to join, by setting up 'local' or 'project' PERTs and becoming part of the eduPERT Knowledge Base.
     </userValue>
     <provider>geant</provider>
-    <fundingSources>co-funded NREN and H2020 funding (where applicable)</fundingSources>
-    <webpage>https://services.geant.net/sites/edupert/Pages/Home.aspx</webpage>
-    <phase>Production</phase>
+    <funding>co-funded NREN and H2020 funding (where applicable)</funding>
+    <url>https://services.geant.net/sites/edupert/Pages/Home.aspx</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Network Performance</category>
     <request>https://services.geant.net/sites/edupert/Pages/Home.aspx</request>
     <helpdesk>https://services.geant.net/sites/edupert/Pages/Home.aspx</helpdesk>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.09</id>
-    <brandName>FitSM Training</brandName>
+    <name>FitSM Training</name>
     <tagline>Learn how to manage IT services with a pragmatic and lightweight standard</tagline>
     <fullName>Training on Light-weight IT service management based on FiTSM standard</fullName>
     <description>With FitSM Training you will learn the fundamentals of IT service management and how to implement FitSM
@@ -25,11 +25,11 @@
         STFC, SURFnet, SURFsara, Terradue (IT Srl, UK Ltd)
     </userBase>
     <provider>egi</provider>
-    <fundingSources>Operational: Trainings are directly funded through course fees paid by participants Development:
+    <funding>Operational: Trainings are directly funded through course fees paid by participants Development:
         Member of ITEMO (voluntary)
-    </fundingSources>
-    <webpage>https://www.egi.eu/services/fitsm-training/</webpage>
-    <phase>Production</phase>
+    </funding>
+    <url>https://www.egi.eu/services/fitsm-training/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Training</category>
     <subcategory>Face-to-face training</subcategory>
     <request>https://www.egi.eu/request-service/</request>
@@ -37,9 +37,9 @@
     <pricing>Training events: https://www.egi.eu/services/fitsm-training/calendar/ In-house training:
         https://www.egi.eu/services/fitsm-training/in-house-training/
     </pricing>
-    <serviceLevelAgreement>See Terms of Use below</serviceLevelAgreement>
+    <serviceLevelAgreement>https://www.egi.eu/services/fitsm-training/terms-and-conditions/</serviceLevelAgreement>
     <options>Foundation Level, Advanced Level in Service Planning and Delivery, Advanced Level in Service Operation and
         Control, Expert Level, Expert Bridge (Side entry for ITSM professionals)
     </options>
-    <termsOfUse>Terms and Conditions: https://www.egi.eu/services/fitsm-training/terms-and-conditions/</termsOfUse>
+    <termsOfUse>https://www.egi.eu/services/fitsm-training/terms-and-conditions/</termsOfUse>
 </service>

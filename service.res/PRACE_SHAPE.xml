@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>05.05</id>
-    <brandName>SHAPE</brandName>
+    <name>SHAPE</name>
     <tagline>-</tagline>
     <fullName>SME HPC Adoption Programme in Europe</fullName>
     <description>SHAPE, the SME HPC Adoption Programme in Europe is a pan-European, PRACE-based programme supporting HPC
@@ -17,10 +17,10 @@
         defining an appropriate business model.
     </userValue>
     <provider>prace</provider>
-    <fundingSources>EC and PRACE members</fundingSources>
-    <webpage>http://www.prace-ri.eu/hpc-access/shape-programme</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    <funding>EC and PRACE members</funding>
+    <url>http://www.prace-ri.eu/hpc-access/shape-programme</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Consulting</category>
     <relatedServices>Preparatory Access</relatedServices>
     <pricing>Free of charge</pricing>

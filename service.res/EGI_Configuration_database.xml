@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.15</id>
-    <brandName>Configuration Database</brandName>
+    <name>Configuration Database</name>
     <tagline>Manage the configuration information of federated e-infrastructure assets and their functional relations
     </tagline>
     <fullName>-</fullName>
@@ -17,12 +17,12 @@
     <userValue>Improves the operation of a distributed infrastructure</userValue>
     <userBase>EGI resource providers: https://www.egi.eu/federation/data-centres/</userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         EGI participant fees + in-kind contribution from service providers
-    </fundingSources>
-    <webpage>https://www.egi.eu/internal-services/configuration-database/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/internal-services/configuration-database/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Operations</category>
     <subcategory>Configuration database</subcategory>
     <request>https://www.egi.eu/request-service/</request>

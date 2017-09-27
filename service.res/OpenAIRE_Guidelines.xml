@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.14</id>
-    <brandName>OpenAIRE Guidelines</brandName>
+    <name>OpenAIRE Guidelines</name>
     <fullName>OpenAIRE Guidelines for Data Provider Managers</fullName>
     <description>The OpenAIRE Guidelines are a suite of application profiles designed to allow data providers to make
         their scholarly outputs visible through the OpenAIRE infrastructure. The profiles are based on established
@@ -17,10 +17,10 @@
         (LaReferencia), Mexico, Japan for regional/national infrastructures.
     </userBase>
     <provider>openaire</provider>
-    <fundingSources>EC funding</fundingSources>
-    <webpage>https://guidelines.openaire.eu/</webpage>
+    <funding>EC funding</funding>
+    <url>https://guidelines.openaire.eu/</url>
     <version>v3.0</version>
-    <phase>Production</phase>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Interoperability</category>
     <relatedServices>OpenAIRE Validator, OpenAIRE Data Provider Dashboard</relatedServices>
     <request>https://guidelines.openaire.eu/</request>

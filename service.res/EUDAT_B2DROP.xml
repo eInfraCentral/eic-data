@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>02.03</id>
-    <brandName>B2DROP</brandName>
+    <name>B2DROP</name>
     <tagline>Synch and share research data</tagline>
     <fullName>-</fullName>
     <description>B2DROP is a secure and trusted data exchange service for researchers and scientists to keep their
@@ -14,10 +14,10 @@
         B2DROP Service is a customer-facing solution to store and exchange data with colleagues and team members.
     </userValue>
     <provider>eudat</provider>
-    <fundingSources>EU</fundingSources>
-    <webpage>https://www.eudat.eu/services/b2drop</webpage>
+    <funding>EU</funding>
+    <url>https://www.eudat.eu/services/b2drop</url>
     <version>11</version>
-    <phase>Production</phase>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Data storage</category>
     <request>http://eudat.eu/support-request?Service=B2DROP</request>
     <helpdesk>http://eudat.eu/support-request?Service=B2DROP</helpdesk>

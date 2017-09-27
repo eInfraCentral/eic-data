@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.07</id>
-    <brandName>AMNESIA</brandName>
+    <name>AMNESIA</name>
     <tagline>Anonymization your datasets</tagline>
     <fullName>OpenAIRE AMNESIA Anonymization Service</fullName>
     <description>AMNESIA allows end users to anonymize sensitive data in order to share them with a broad audience. The
@@ -17,11 +17,11 @@
         owners or curators to safely share the data with other experts and to benefit from their processing on them.
     </userValue>
     <provider>openaire</provider>
-    <fundingSources>EC and Greek national funding</fundingSources>
-    <webpage>http://amnesia.imis.athena-innovation.gr</webpage>
+    <funding>EC and Greek national funding</funding>
+    <url>http://amnesia.imis.athena-innovation.gr</url>
     <version>v1.0</version>
-    <phase>Beta</phase>
-    <technologyReadinessLevel>6</technologyReadinessLevel>
+    <lifeCycleStatus>Beta</lifeCycleStatus>
+    <trl>6</trl>
     <category>Publishing</category>
     <request>http://www.openaire.eu</request>
     <pricing>free</pricing>

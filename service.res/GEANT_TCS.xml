@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.11</id>
-    <brandName>Trusted Certificate Service</brandName>
+    <name>Trusted Certificate Service</name>
     <tagline>Increasing online security by facilitating the deployment of digital certificates.</tagline>
     <fullName>-</fullName>
     <description>GÉANT's Trusted Certificate Service is provided by DigiCert, is one of the largest worldwide
@@ -17,8 +17,8 @@
         – for authenticating d​ocuments from Adobe PDF, Microsoft Office, OpenOffice, and LibreOffice.
     </userValue>
     <provider>geant</provider>
-    <webpage>https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx</webpage>
-    <phase>Production</phase>
+    <url>https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Security</category>
     <subcategory>Security, Trust and Identity</subcategory>
     <request>https://www.geant.org/Services/Trust_identity_and_security/Pages/TCS.aspx</request>

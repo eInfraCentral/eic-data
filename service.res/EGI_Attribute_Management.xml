@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.20</id>
-    <brandName>Attribute Management</brandName>
+    <name>Attribute Management</name>
     <tagline>Manage community membership and expose trusted information</tagline>
     <fullName>-</fullName>
     <description>This service allows you to manage user membership, where users can register and ask to be part of a
@@ -12,12 +12,12 @@
     <userValue>Easy and trusted way to manage Virtual Organization membership</userValue>
     <userBase>All users registered in EGI Virtual Organisations All VO managers</userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         EGI participant fees + in-kind contribution from service providers
-    </fundingSources>
-    <webpage>https://www.egi.eu/internal-services/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>8</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/internal-services/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>8</trl>
     <category>Security</category>
     <subcategory>attribute authority</subcategory>
     <request>https://www.egi.eu/request-service/</request>

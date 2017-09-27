@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.16</id>
-    <brandName>Open Science Training</brandName>
+    <name>Open Science Training</name>
     <tagline>-</tagline>
     <fullName>Open Science Training</fullName>
     <description>This service offers EC OA policy training and support providing the body of resources to facilitate the
@@ -24,10 +24,10 @@
     </userValue>
     <userBase>Large attendance in webinars and training workshops</userBase>
     <provider>openaire</provider>
-    <fundingSources>EC and national funding</fundingSources>
-    <webpage>https://www.openaire.eu/workshops/; https://www.openaire.eu/webinars/, https://www.openaire.eu/support/
-    </webpage>
-    <phase>Production</phase>
+    <funding>EC and national funding</funding>
+    <url>https://www.openaire.eu/workshops/; https://www.openaire.eu/webinars/, https://www.openaire.eu/support/
+    </url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Training</category>
     <relatedServices>All OpenAIRE services</relatedServices>
     <request>https://www.openaire.eu/contact-us</request>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>02.05</id>
-    <brandName>B2STAGE</brandName>
+    <name>B2STAGE</name>
     <tagline>Get data to computation</tagline>
     <fullName>-</fullName>
     <description>B2STAGE is a reliable, efficient, light-weight and easy-to-use service to transfer research data sets
@@ -12,10 +12,10 @@
         customer-facing service that allow high performance transfers in a reliable, fast, easy to use environment.
     </userValue>
     <provider>eudat</provider>
-    <fundingSources>EU</fundingSources>
-    <webpage>https://www.eudat.eu/services/b2stage</webpage>
+    <funding>EU</funding>
+    <url>https://www.eudat.eu/services/b2stage</url>
     <version>1.81</version>
-    <phase>Production</phase>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Data movement</category>
     <relatedServices>B2SAFE; B2HANDLE</relatedServices>
     <request>http://eudat.eu/support-request?Service=B2STAGE</request>

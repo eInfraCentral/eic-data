@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.16</id>
-    <brandName>Validated Software and Repository</brandName>
+    <name>Validated Software and Repository</name>
     <tagline>Benefit from a repository of high-quality software validated for the EGI infrastructure</tagline>
     <fullName>-</fullName>
     <description>This service provides a collection of IT tools that Council participants and/or user communities may
@@ -18,12 +18,12 @@
     </userValue>
     <userBase>EGI resource providers: https://www.egi.eu/federation/data-centres/</userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         EGI participant fees + in-kind contribution from service providers
-    </fundingSources>
-    <webpage>https://www.egi.eu/internal-services/validated-software-and-repository/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>8</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/internal-services/validated-software-and-repository/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>8</trl>
     <category>Repository</category>
     <subcategory>Software repository</subcategory>
     <request>https://www.egi.eu/request-service/</request>

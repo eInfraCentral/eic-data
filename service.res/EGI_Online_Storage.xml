@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.05</id>
-    <brandName>Online Storage</brandName>
+    <name>Online Storage</name>
     <tagline>Store, share and access your files and their metadata on a global scale</tagline>
     <fullName>-</fullName>
     <description>Store data in a reliable and high quality environment and share it across distributed teams. Your data
@@ -40,13 +40,13 @@
         xenon.biggrid.nl, zeus
     </userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         capacity supported by national funding, federation and support co-funded between national funding and EC H2020
         projects
-    </fundingSources>
-    <webpage>https://www.egi.eu/services/online-storage/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/services/online-storage/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Storage and Data</category>
     <subcategory>object storage</subcategory>
     <request>https://www.egi.eu/request-service/</request>

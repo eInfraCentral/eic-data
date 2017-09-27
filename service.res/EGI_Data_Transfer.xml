@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>01.07</id>
-    <brandName>Data Transfer</brandName>
+    <name>Data Transfer</name>
     <tagline>Transfer large sets of data from one place to another</tagline>
     <fullName>-</fullName>
     <description>Data Transfer allows you to move any type of data files asynchronously from one place to another. The
@@ -14,13 +14,13 @@
     <userValue>Easily move your research data</userValue>
     <userBase>Virtual organisations: CMS, ATLAS, LHCb, ALICE</userBase>
     <provider>egi</provider>
-    <fundingSources>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
+    <funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations:
         capacity supported by national funding, federation and support co-funded between national funding and EC H2020
         projects
-    </fundingSources>
-    <webpage>https://www.egi.eu/services/data-transfer/</webpage>
-    <phase>Production</phase>
-    <technologyReadinessLevel>9</technologyReadinessLevel>
+    </funding>
+    <url>https://www.egi.eu/services/data-transfer/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
+    <trl>9</trl>
     <category>Storage and Data</category>
     <subcategory>data transfer</subcategory>
     <request>https://www.egi.eu/request-service/</request>

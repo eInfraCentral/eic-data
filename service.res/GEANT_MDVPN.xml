@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>03.05</id>
-    <brandName>GÉANT MDVPN</brandName>
+    <name>GÉANT MDVPN</name>
     <tagline>Increased pri​​vacy and control - helping to build effective virtual teams across borders.</tagline>
     <fullName>-</fullName>
     <description>The GÉANT Multi-Domain Virtual Private Network (MD-VPN) provides an end-to-end international network
@@ -18,9 +18,9 @@
         from 155Mbps to 100Gbps (subject to availability).
     </userValue>
     <provider>geant</provider>
-    <fundingSources>co-funded NREN and H2020 funding (where applicable)</fundingSources>
-    <webpage>https://www.geant.org/Services/Connectivity_and_network/Pages/VPN_Services.aspx</webpage>
-    <phase>Production</phase>
+    <funding>co-funded NREN and H2020 funding (where applicable)</funding>
+    <url>https://www.geant.org/Services/Connectivity_and_network/Pages/VPN_Services.aspx</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Connectivity</category>
     <relatedServices>GÉANT L3VPN</relatedServices>
     <request>https://partner.geant.net/Public/home.aspx</request>

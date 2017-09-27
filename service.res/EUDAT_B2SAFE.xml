@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>02.01</id>
-    <brandName>B2SAFE</brandName>
+    <name>B2SAFE</name>
     <tagline>Replicate research data safely</tagline>
     <fullName>-</fullName>
     <description>B2SAFE is a robust, safe and highly available service which allows community and departmental
@@ -15,10 +15,10 @@
         data replication and safe storage between geographically distributed centres in the EUDAT CDI.
     </userValue>
     <provider>eudat</provider>
-    <fundingSources>EU</fundingSources>
-    <webpage>https://www.eudat.eu/services/b2safe</webpage>
+    <funding>EU</funding>
+    <url>https://www.eudat.eu/services/b2safe</url>
     <version>3.1.2</version>
-    <phase>Production</phase>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Data storage</category>
     <relatedServices>B2ACCESS; B2HANDLE</relatedServices>
     <request>http://eudat.eu/support-request?Service=B2SAFE</request>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
     <id>04.15</id>
-    <brandName>Open Science Helpdesk</brandName>
+    <name>Open Science Helpdesk</name>
     <tagline>Science. Set Free</tagline>
     <fullName>Open Science Helpdesk</fullName>
     <description>This service provides a wide range of activities brought together to support stakeholders' questions on
@@ -18,9 +18,9 @@
     </userValue>
     <userBase>Daily tickets and NOADs contact by all stakeholder types</userBase>
     <provider>openaire</provider>
-    <fundingSources>EC and national funding</fundingSources>
-    <webpage>https://www.openaire.eu/support/</webpage>
-    <phase>Production</phase>
+    <funding>EC and national funding</funding>
+    <url>https://www.openaire.eu/support/</url>
+    <lifeCycleStatus>Production</lifeCycleStatus>
     <category>Training</category>
     <relatedServices>All OpenAIRE services</relatedServices>
     <request>https://www.openaire.eu/contact-us</request>
