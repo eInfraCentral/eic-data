@@ -12,7 +12,6 @@
 	<category>Compute</category>
 	<relatedServices>Project Access</relatedServices>
 	<request>http://www.prace-ri.eu/application-guide</request>
-	<helpdesk>prace-support@hostingsite.hostingcountry</helpdesk>
 	<userManual>http://www.prace-ri.eu/IMG/pdf/Preparatory-Access-ToR_01_02_2017.pdf</userManual>
 	<price>Free</price>
 	<termsOfUse>Acceptable use Policies of the hosting sites</termsOfUse>

@@ -14,7 +14,6 @@
 	<trl>9</trl>
 	<category>Connectivity</category>
 	<relatedServices>OpenAIRE Validator, OpenAIRE Usage Statistics, OpenAIRE Broker</relatedServices>
-	<request>www.openaire.eu, info@openaire.eu</request>
 	<helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
 	<feedback>https://www.openaire.eu/support/helpdesk</feedback>
 	<price>Free</price>
