@@ -13,7 +13,7 @@
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
 	<category>Publishing</category>
-	<relatedServices>CERN Data Centre, Invenio software & DataCite DOI miniting</relatedServices>
+	<relatedServices>CERN Data Centre, Invenio software &amp; DataCite DOI miniting</relatedServices>
 	<request>http://about.zenodo.org/contact/</request>
 	<helpdesk>http://about.zenodo.org/contact/</helpdesk>
 	<userManual>http://help.zenodo.org</userManual>
