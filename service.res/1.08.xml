@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>1.08</id>
+	<url>"https://www.egi.eu/services/training-infrastructure"</url>
+	<name>"Training Infrastructure"</name>
+	<tagline>"Dedicated computing and storage for training and education"</tagline>
+	<description>"The Training Infrastructure is a cloud-based computing and storage resources for training events. It is useful to organise onsite tutorials or workshops and online training courses or as a platform for self-paced learning. Trainers can deploy custom virtual machine images on the Training Infrastructure as the training environment for the students. The virtual machines can be customised according to specific needs and the community can benefit from the easy deployment and easy reuse of course materials. The Training Infrastructure uses the same high-quality computing and storage environment that EGI provides to researchers. Main characteristics: target-specific courses and added value for scientific communities, easy-to-use, on-demand access and improvements in the training offer, allows easy deployment of courses and reuse."</description>
+	<options></options>
+	<targetUsers>"Research organisations, SME/Industry, Attendees of cloud training courses, Attendees of scientific software courses (data scientists)"</targetUsers>
+	<userValue>"Target-specific courses and added value for scientific communities, allows easy deployment of courses and reuse."</userValue>
+	<userBase></userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"EGI Foundation"</providers>
+	<version></version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl>9</trl>
+	<category>"Training"</category>
+	<subcategory>"Enabling platform"</subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices></relatedServices>
+	<request>"https://www.egi.eu/request-service/"</request>
+	<helpdesk></helpdesk>
+	<userManual></userManual>
+	<trainingInformation></trainingInformation>
+	<feedback></feedback>
+	<price></price>
+	<serviceLevelAgreement></serviceLevelAgreement>
+	<termsOfUse></termsOfUse>
+	<funding>"Development: EC H2020 projects (primarily) and national projects/open source projects, Operations: capacity supported by national funding, federation and support co-funded between national funding and EC H2020 projects"</funding>
+</service>

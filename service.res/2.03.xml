@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>2.03</id>
+	<url>"https://www.eudat.eu/services/b2drop"</url>
+	<name>"B2DROP"</name>
+	<tagline>"Synch and share research data"</tagline>
+	<description>"B2DROP is a secure and trusted data exchange service for researchers and scientists to keep their research data synchronized and up-to-date and to exchange with other researchers. B2DROP is an ideal solution to store and exchange data with colleagues and team members, synchronise multiple versions of data and ensure automatic desktop synchronisation of large files."</description>
+	<options>"Standard"</options>
+	<targetUsers>"Individual researchers; community data manager"</targetUsers>
+	<userValue>"For the individuals researchers who need to synchronise and exchange data with one or multiple users, B2DROP Service is a customer-facing solution to store and exchange data with colleagues and team members."</userValue>
+	<userBase></userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"JSC"</providers>
+	<version>11</version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl></trl>
+	<category>"Data storage"</category>
+	<subcategory></subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices></relatedServices>
+	<request>"http://eudat.eu/support-request?Service=B2DROP"</request>
+	<helpdesk>"http://eudat.eu/support-request?Service=B2DROP"</helpdesk>
+	<userManual>"https://eudat.eu/services/userdoc/b2drop"</userManual>
+	<trainingInformation>"https://eudat.eu/b2drop-training-suite"</trainingInformation>
+	<feedback>"http://eudat.eu/support-request?Service=B2DROP"</feedback>
+	<price>"Free"</price>
+	<serviceLevelAgreement></serviceLevelAgreement>
+	<termsOfUse>"https://b2drop.eudat.eu/themes/b2drop/terms-of-use.html"</termsOfUse>
+	<funding>"EU"</funding>
+</service>

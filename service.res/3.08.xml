@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>3.08</id>
+	<url>"www.eduroam.org"</url>
+	<name>"eduroam"</name>
+	<tagline>"Seamless Wi-Fi access for research and education around the world​."</tagline>
+	<description>"e​​duroam​ (education roaming) is the secure, world-wide roaming access service developed for the international research and education community. eduroam allows students, researchers and staff​ to seamlessly access internet connectivity when within range of a hotspot, whether they're moving across campus or visiting other participating institutions​."</description>
+	<options></options>
+	<targetUsers>"NRENs "</targetUsers>
+	<userValue>"With benefits for users and for their campus IT departments, eduroam saves time and facilitates active and enduring collaboration between countries and institutions. eduroam supports research and education by providing: roaming broadband in more than 80 territories worldwide; access at thousands of locations, with one ​password; secure and privacy-preserving technology; reciprocal service that is free-of-charge to users."</userValue>
+	<userBase></userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"GÉANT and Global eduroam governance committee"</providers>
+	<version></version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl></trl>
+	<category>"Connectivity"</category>
+	<subcategory></subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices></relatedServices>
+	<request>"www.eduroam.org"</request>
+	<helpdesk>"www.eduroam.org"</helpdesk>
+	<userManual>"www.eduroam.org"</userManual>
+	<trainingInformation>"www.eduroam.org"</trainingInformation>
+	<feedback>"www.eduroam.org"</feedback>
+	<price>"paid by ASs subscription"</price>
+	<serviceLevelAgreement></serviceLevelAgreement>
+	<termsOfUse>"www.eduroam.org"</termsOfUse>
+	<funding></funding>
+</service>

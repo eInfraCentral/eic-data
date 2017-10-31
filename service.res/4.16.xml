@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>4.16</id>
+	<url>"https://github.com/hmetaxa/MixLDA"</url>
+	<name>"OpenAIRE Research Analytics "</name>
+	<tagline>"Topic modelling for scholarly communication"</tagline>
+	<description>"This service identifies and annotates large archives of publications with thematic information, i.e., topics, and then leverage them as a means to link documents with other related information, e.g., authors, grants, and journals. Hence, the service analyzes textual information (e.g., abstracts, content), relational information (e.g., publication citations, authorship network), and varied additional side information (e.g., authors, venues, grants) possibly including taxonomies (e.g., ACM CCS, MeSH) and identifies overlapping entity clusters and related entity-to-cluster memberships, and characterize the clusters with multi-view thematic information (i.e., topics) combining all disparate information sources. "</description>
+	<options></options>
+	<targetUsers>"policy makers, learned societies, funders, publishers, repository mangers, research administrators (institutions), libraries, academic community, research community"</targetUsers>
+	<userValue>"Improved research analytics. Evidence based decision making."</userValue>
+	<userBase>"Used by commercial policy advisors to the EC."</userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"OpenAIRE consortium, Athena Research and Innovation Center"</providers>
+	<version>"v0.8"</version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Beta"</lifeCycleStatus>
+	<trl>6</trl>
+	<category>"Monitor and analysis"</category>
+	<subcategory>"Monitor and analysis"</subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices>"OpenAIRE Graph"</relatedServices>
+	<request>"www.openaire.eu"</request>
+	<helpdesk></helpdesk>
+	<userManual></userManual>
+	<trainingInformation></trainingInformation>
+	<feedback></feedback>
+	<price>"Free"</price>
+	<serviceLevelAgreement></serviceLevelAgreement>
+	<termsOfUse></termsOfUse>
+	<funding>"EC and institutional funding"</funding>
+</service>

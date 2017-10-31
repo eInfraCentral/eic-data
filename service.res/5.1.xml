@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>5.1</id>
+	<url>"http://www.prace-ri.eu/IMG/pdf/2017-05-10-PTC-Selection-press-release-FINAL.pdf"</url>
+	<name>"PTC"</name>
+	<tagline>"PRACE Training Centres"</tagline>
+	<description>"The PRACE Training Centres (PTCs) provide top-class education and training opportunities for computational scientists in Europe and are the primary source for PRACE training portal materials."</description>
+	<options></options>
+	<targetUsers>"Scientists and researchers"</targetUsers>
+	<userValue></userValue>
+	<userBase></userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"Four PRACE members sites: IT4I – IT4Innovations National Supercomputing Center (Czech Republic), GRNET – Greek Research and Technology Network (Greece), ICHEC – Irish Centre for High-End Computing (Ireland), SURFsara (The Netherlands)"</providers>
+	<version></version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl>9</trl>
+	<category>"Training"</category>
+	<subcategory></subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices>"Preparatory Access"</relatedServices>
+	<request></request>
+	<helpdesk></helpdesk>
+	<userManual></userManual>
+	<trainingInformation></trainingInformation>
+	<feedback></feedback>
+	<price>"Free"</price>
+	<serviceLevelAgreement></serviceLevelAgreement>
+	<termsOfUse>"Acceptable use Policies of the hosting sites"</termsOfUse>
+	<funding>"EC and PRACE members"</funding>
+</service>

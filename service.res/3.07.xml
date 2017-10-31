@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>3.07</id>
+	<url>"https://www.geant.org/Services/Connectivity_and_network/GTS/"</url>
+	<name>"GÉANT Testbeds Service"</name>
+	<tagline>"​Integrated virtual network environments to support advanced research."</tagline>
+	<description>"The GÉANT Testbeds Service (GTS) delivers integrated ​​virtual environments as 'testbeds' for the network research community. GTS is designed for researchers of advanced networking technologies to help support testing and development over a large-scale, dispersed environment."</description>
+	<options>"https://www.geant.org/Services/Connectivity_and_network/GTS/"</options>
+	<targetUsers>"Advance research projects for both networking and application development"</targetUsers>
+	<userValue>"GTS can support multiple projects simult​​​aneously and isolates them from each other and from the production GÉANT network to provide security and safety.​"</userValue>
+	<userBase></userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"GÉANT"</providers>
+	<version></version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl></trl>
+	<category>"Research Projects"</category>
+	<subcategory></subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices></relatedServices>
+	<request>"https://partner.geant.net/Public/home.aspx"</request>
+	<helpdesk>"https://partner.geant.net/Public/home.aspx"</helpdesk>
+	<userManual>"https://partner.geant.net/Public/home.aspx"</userManual>
+	<trainingInformation>"https://partner.geant.net/Public/home.aspx"</trainingInformation>
+	<feedback>"https://partner.geant.net/Public/home.aspx"</feedback>
+	<price>"paid by ASs subscription"</price>
+	<serviceLevelAgreement>"https://www.geant.org/Services/Connectivity_and_network/GTS/"</serviceLevelAgreement>
+	<termsOfUse>"https://www.geant.org/Services/Connectivity_and_network/GTS/"</termsOfUse>
+	<funding>"Co-funded NREN and H2020 funding (where applicable)"</funding>
+</service>

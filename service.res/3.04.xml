@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>3.04</id>
+	<url>"https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_Point-to-Point.aspx"</url>
+	<name>"GÉANT Open"</name>
+	<tagline>"High-performance interconnectivity for the most demanding networking requirements."</tagline>
+	<description>"GÉANT Open allows NRENs and approved commercial organisations to exchange connectivity in a highly efficient and flexible manner.​ The service uses shared facilities to which all users can connect their own circuits at either 100Gbps, 10Gbps or 1Gbps, and they can then request interconnections with any other participant to provide inter-organisation connectivity.​​ As a first within the European research and education community, approved commercial organisations will be able to connect to GÉANT Open. This will help research and education users to access a wide variety of commercial third parties as part of private-public research projects.​​​"</description>
+	<options></options>
+	<targetUsers>"NRENs, International R&E network Providers, commercial organisations"</targetUsers>
+	<userValue>"Ideally suited to major international projects, Point-to-Point services offer a high performance networking solution."</userValue>
+	<userBase></userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"GÉANT"</providers>
+	<version></version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl></trl>
+	<category>"Connectivity"</category>
+	<subcategory></subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices>"GÉANT Plus, GÉANT Lambda"</relatedServices>
+	<request>"https://partner.geant.net/Public/home.aspx"</request>
+	<helpdesk>"https://partner.geant.net/Public/home.aspx"</helpdesk>
+	<userManual>"https://partner.geant.net/Public/home.aspx"</userManual>
+	<trainingInformation>"https://partner.geant.net/Public/home.aspx"</trainingInformation>
+	<feedback>"https://partner.geant.net/Public/home.aspx"</feedback>
+	<price>"paid by ASs subscription"</price>
+	<serviceLevelAgreement>"https://www.geant.org/Services/Connectivity_and_network/PublishingImages/Pages/GEANT_Open/GEANT%20Open%20Service%20Description%20London%20Paris%20Jul%202915.pdf"</serviceLevelAgreement>
+	<termsOfUse>"https://www.geant.org/Services/Connectivity_and_network/PublishingImages/Pages/GEANT_Open/GEANT%20Open%20Service%20Description%20London%20Paris%20Jul%202915.pdf"</termsOfUse>
+	<funding>"Co-funded NREN and H2020 funding (where applicable)"</funding>
+</service>

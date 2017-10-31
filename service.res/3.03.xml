@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>3.03</id>
+	<url>"https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_Point-to-Point.aspx"</url>
+	<name>"GÉANT Lambda"</name>
+	<tagline>"High-performance interconnectivity for the most demanding networking requirements."</tagline>
+	<description>"GÉANT Lambda provides full wavelengths at up to 100Gbps to support NREN users with particularly demanding network requirements. The service provides transparent 10Gbps, or 100Gbps wavelengths between GÉANT PoPs. "</description>
+	<options>"Unprotected or restored using GMPLS (Generalised Multiprotocol Label Switching) signalling. "</options>
+	<targetUsers>"NRENs"</targetUsers>
+	<userValue>"Ideally suited to major international projects, Point-to-Point services offer a high performance networking solution."</userValue>
+	<userBase></userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"GÉANT"</providers>
+	<version></version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl></trl>
+	<category>"Connectivity"</category>
+	<subcategory></subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices>"GÉANT Plus"</relatedServices>
+	<request>"https://partner.geant.net/Public/home.aspx"</request>
+	<helpdesk>"https://partner.geant.net/Public/home.aspx"</helpdesk>
+	<userManual>"https://partner.geant.net/Public/home.aspx"</userManual>
+	<trainingInformation>"https://partner.geant.net/Public/home.aspx"</trainingInformation>
+	<feedback>"https://partner.geant.net/Public/home.aspx"</feedback>
+	<price>"paid by ASs subscription"</price>
+	<serviceLevelAgreement>"https://www.geant.org/Services/Connectivity_and_network/PublishingImages/Pages/GEANT_Point-to-Point/GEANT%20Lambda%20Service%20Description%20Jan%202016.pdf"</serviceLevelAgreement>
+	<termsOfUse>"https://www.geant.org/Services/Connectivity_and_network/PublishingImages/Pages/GEANT_Point-to-Point/GEANT%20Lambda%20Service%20Description%20Jan%202016.pdf"</termsOfUse>
+	<funding>"Co-funded national NREN and H2020 funding"</funding>
+</service>

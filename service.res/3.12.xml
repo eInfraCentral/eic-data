@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>3.12</id>
+	<url>"https://www.geant.org/Services/Trust_identity_and_security/eduGAIN"</url>
+	<name>"eduGAIN"</name>
+	<tagline>"Unlocking global research and education c​​ollaboration."</tagline>
+	<description>"eduGAIN is a fast-growing initiative that interconnects research and education identity federations around the world. It enables the trustworthy exchange of information between service providers and research and education institutions or other identity providers. This means simpler access to a wider range of online content, services and other resources that benefit collaboration in the research and education community."</description>
+	<options></options>
+	<targetUsers>"NRENs, Identity Federations"</targetUsers>
+	<userValue>"eduGAIN: provides access to all the online services that students, researchers and educators need while minimising the number of accounts users and service providers have to manage - reducing costs, complexity and security risks; gives service providers access to a larger pool of users internationally, and allows users to access resources of peer institutions or commercial or cloud services using their one trusted identity. With eduGAIN participants from more than 1,500 identity providers accessing services from 1,000 service providers, eduGAIN has fast become the primary mechanism to interfederate for research and education collaboration around the world."</userValue>
+	<userBase></userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"GÉANT"</providers>
+	<version></version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl></trl>
+	<category>"Security"</category>
+	<subcategory>"Security, Trust and Identity"</subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices>"Federation as a Service (FaaS)"</relatedServices>
+	<request>"https://www.geant.org/Services/Trust_identity_and_security/eduGAIN"</request>
+	<helpdesk>"https://www.geant.org/Services/Trust_identity_and_security/eduGAIN"</helpdesk>
+	<userManual>"https://www.geant.org/Services/Trust_identity_and_security/eduGAIN"</userManual>
+	<trainingInformation>"https://www.geant.org/Services/Trust_identity_and_security/eduGAIN"</trainingInformation>
+	<feedback>"https://www.geant.org/Services/Trust_identity_and_security/eduGAIN"</feedback>
+	<price></price>
+	<serviceLevelAgreement></serviceLevelAgreement>
+	<termsOfUse>"https://www.geant.org/Services/Trust_identity_and_security/eduGAIN"</termsOfUse>
+	<funding></funding>
+</service>

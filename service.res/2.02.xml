@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>2.02</id>
+	<url>"https://www.eudat.eu/services/b2share"</url>
+	<name>"B2SHARE"</name>
+	<tagline>"Store and publish research data"</tagline>
+	<description>"B2SHARE is a user-friendly, reliable and trustworthy way for researchers, scientific communities and citizen scientists to store and share small-scale research data from diverse contexts. B2SHARE is a solution that facilitates research data storage, guarantees long-term persistence of data and allows data, results or ideas to be shared worldwide."</description>
+	<options>"Standard"</options>
+	<targetUsers>"Individual researchers; community data manager"</targetUsers>
+	<userValue>"For the individuals researchers who do not have adequate facilities for storing, preserving and sharing data, B2SHARE Service is a customer-facing service which provides a safe repository for scientific data and a easy way to share it in the research community."</userValue>
+	<userBase></userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"CSC"</providers>
+	<version>"2.0.1"</version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl></trl>
+	<category>"Data storage"</category>
+	<subcategory></subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices>"B2ACCESS; B2HANDLE"</relatedServices>
+	<request>"http://eudat.eu/support-request?Service=B2SHARE"</request>
+	<helpdesk>"http://eudat.eu/support-request?Service=B2SHARE"</helpdesk>
+	<userManual>"https://eudat.eu/services/userdoc/b2share"</userManual>
+	<trainingInformation>"https://eudat.eu/b2share-training-suite"</trainingInformation>
+	<feedback>"http://eudat.eu/support-request?Service=B2SHARE"</feedback>
+	<price>"Free"</price>
+	<serviceLevelAgreement></serviceLevelAgreement>
+	<termsOfUse>"https://b2share.eudat.eu/help/terms-of-use"</termsOfUse>
+	<funding>"EU"</funding>
+</service>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>1.02</id>
+	<url>"https://www.egi.eu/services/cloud-compute"</url>
+	<name>"Cloud Compute"</name>
+	<tagline>"Run virtual machines on-demand with complete control over computing resources"</tagline>
+	<description>"Cloud Compute gives you the ability to deploy and scale virtual machines on-demand. It offers guaranteed computational resources in a secure and isolated environment with standard API access, without the overhead of managing physical servers. Cloud Compute offers the possibility to select pre-configured virtual appliances (e.g. CPU, memory, disk, operating system or software) from a catalogue replicated across all EGI cloud providers. With Cloud Compute you can: execute compute- and data-intensive workloads (both batch and interactive), host long-running services (e.g. web servers, databases or applications servers), create disposable testing and development environments on virtual machines and scale your infrastructure needs, select virtual machine configurations (CPU, memory, disk) and application environments to fit your requirements, manage your Cloud Compute resources in a flexible way with integrated monitoring and accounting capabilities."</description>
+	<options></options>
+	<targetUsers>"Research organisations, SME/Industry, Researchers, Innovators"</targetUsers>
+	<userValue>"Manage your Cloud Compute resources in a flexible way with integrated monitoring and accounting capabilities"</userValue>
+	<userBase>"Virtual organisations: ATLAS, CMS, biomed, chipster.csc.fi, d4science.org, enmr.eu, extras, peachnote, DARIAH, EMSODEV, NBIS"</userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"EGI Foundation (via EGI resource providers)"</providers>
+	<version></version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl>9</trl>
+	<category>"Compute"</category>
+	<subcategory>"Virtual machine management"</subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices></relatedServices>
+	<request>"https://www.egi.eu/request-service/"</request>
+	<helpdesk></helpdesk>
+	<userManual></userManual>
+	<trainingInformation></trainingInformation>
+	<feedback></feedback>
+	<price>"Free: Researchers meeting policies of the service providers; Pay-for-use: Special technical requirements; commercial entity support (beyond initial testing/piloting)"</price>
+	<serviceLevelAgreement></serviceLevelAgreement>
+	<termsOfUse></termsOfUse>
+	<funding>"Development: EC H2020 projects (primarily) and national projects/open source projects. Operations: capacity supported by national funding, federation and support co-funded between national funding and EC H2020 projects"</funding>
+</service>

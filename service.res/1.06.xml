@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>1.06</id>
+	<url>"https://www.egi.eu/services/data-transfer"</url>
+	<name>"Data Transfer"</name>
+	<tagline>"Transfer large sets of data from one place to another"</tagline>
+	<description>"Data Transfer allows you to move any type of data files asynchronously from one place to another. The service includes dedicated interfaces to display statistics of on-going transfers and manage network resources. Data Transfer is ideal to move large amounts of files or very large files. The Data Transfer service has mechanisms to ensure automatic retry in case of failure. Main characteristics: ideal for very large files, able to handle large amounts of files, transfer process with automatic retry."</description>
+	<options></options>
+	<targetUsers>"Research organisations, SME/Industry, Researchers, Innovators"</targetUsers>
+	<userValue>"Easily move your research data"</userValue>
+	<userBase>"Virtual organisations: CMS, ATLAS, LHCb, ALICE"</userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"EGI Foundation (via EGI resource providers)"</providers>
+	<version></version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl>9</trl>
+	<category>"Storage and Data"</category>
+	<subcategory>"Data transfer"</subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices></relatedServices>
+	<request>"https://www.egi.eu/request-service/"</request>
+	<helpdesk></helpdesk>
+	<userManual></userManual>
+	<trainingInformation></trainingInformation>
+	<feedback></feedback>
+	<price></price>
+	<serviceLevelAgreement></serviceLevelAgreement>
+	<termsOfUse></termsOfUse>
+	<funding>"Development: EC H2020 projects (primarily) and national projects/open source projects. Operations: capacity supported by national funding, federation and support co-funded between national funding and EC H2020 projects"</funding>
+</service>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>5.09</id>
+	<url>"https://events.prace-ri.eu/category/2"</url>
+	<name>"PATC"</name>
+	<tagline>"PRACE Advanced Training Centres"</tagline>
+	<description>"Τhe PRACE Advanced Training Centres (PATCs) provide top-class education and training opportunities for computational scientists in Europe and are the primary source for PRACE training portal materials."</description>
+	<options></options>
+	<targetUsers>"Scientists and researchers"</targetUsers>
+	<userValue></userValue>
+	<userBase></userBase>
+	<symbol></symbol>
+	<multimediaURL></multimediaURL>
+	<providers>"Six PRACE members sites: Barcelona Supercomputing Center (Spain), CINECA – Consorzio Interuniversitario (Italy), CSC – IT Center for Science Ltd (Finland), EPCC at the University of Edinburgh (UK), Gauss Centre for Supercomputing (Germany) and Maison de la Simulation (France) are the first PRACE Advanced Training Centres."</providers>
+	<version></version>
+	<lastUpdate></lastUpdate>
+	<changeLog></changeLog>
+	<validFor></validFor>
+	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<trl>9</trl>
+	<category>"Training"</category>
+	<subcategory></subcategory>
+	<places></places>
+	<languages></languages>
+	<tags></tags>
+	<requiredServices></requiredServices>
+	<relatedServices>"Preparatory Access"</relatedServices>
+	<request></request>
+	<helpdesk></helpdesk>
+	<userManual></userManual>
+	<trainingInformation></trainingInformation>
+	<feedback></feedback>
+	<price>"Free"</price>
+	<serviceLevelAgreement></serviceLevelAgreement>
+	<termsOfUse>"Acceptable use Policies of the hosting sites"</termsOfUse>
+	<funding>"EC and PRACE members"</funding>
+</service>
