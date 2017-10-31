@@ -1,37 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>5.08</id>
-	<url>"https://www.futurelearn.com/courses/supercomputing, https://www.futurelearn.com/courses/big-data-r-hadoop"</url>
-	<name>"PRACE MOOC"</name>
-	<tagline>"PRACE Massive Open Online Courses"</tagline>
-	<description>"PRACE Massive Open Online Courses. The agreement between PRACE and the Massive Open Online Course (MOOC) platform FutureLearn has been signed. PRACE will be moving forward in the development of the PRACE MOOCs with the assistance of FutureLearn’s representatives."</description>
-	<options></options>
-	<targetUsers>"Scientists and researchers"</targetUsers>
-	<userValue></userValue>
-	<userBase></userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"PRACE-IP projects and PRACE aisbl"</providers>
-	<version></version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<url>https://www.futurelearn.com/courses/supercomputing, https://www.futurelearn.com/courses/big-data-r-hadoop</url>
+	<name>PRACE MOOC</name>
+	<tagline>PRACE Massive Open Online Courses</tagline>
+	<description>PRACE Massive Open Online Courses. The agreement between PRACE and the Massive Open Online Course (MOOC) platform FutureLearn has been signed. PRACE will be moving forward in the development of the PRACE MOOCs with the assistance of FutureLearn’s representatives.</description>
+	<targetUsers>Scientists and researchers</targetUsers>
+	<providers>PRACE-IP projects and PRACE aisbl</providers>
+	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
-	<category>"Training"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"Preparatory Access"</relatedServices>
-	<request></request>
-	<helpdesk></helpdesk>
-	<userManual></userManual>
-	<trainingInformation></trainingInformation>
-	<feedback></feedback>
-	<price>"Free"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse>"Acceptable use Policies of the hosting sites"</termsOfUse>
-	<funding>"EC and PRACE members"</funding>
+	<category>Training</category>
+	<relatedServices>Preparatory Access</relatedServices>
+	<price>Free</price>
+	<termsOfUse>Acceptable use Policies of the hosting sites</termsOfUse>
+	<funding>EC and PRACE members</funding>
 </service>

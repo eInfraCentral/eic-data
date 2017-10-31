@@ -1,37 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>2.07</id>
-	<url>"https://www.eudat.eu/services/b2access"</url>
-	<name>"B2ACCESS"</name>
-	<tagline>"Identity & authorisation"</tagline>
-	<description>"B2ACCESS is the EUDAT federated cross-infrastructure authorisation and authentication framework for user identification and community-defined access control enforcement. B2ACCESS allows EUDAT users to authenticate themselves using a variety of credentials."</description>
-	<options>"Standard"</options>
-	<targetUsers>"Service provider; community data manager"</targetUsers>
-	<userValue>"For EUDAT service users and EUDAT service providers who need a single login for EUDAT. B2ACCESS service is a customer facing services provides a federates access to the B2 services in a trusted way."</userValue>
-	<userBase></userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"JSC"</providers>
+	<url>https://www.eudat.eu/services/b2access</url>
+	<name>B2ACCESS</name>
+	<tagline>Identity & authorisation</tagline>
+	<description>B2ACCESS is the EUDAT federated cross-infrastructure authorisation and authentication framework for user identification and community-defined access control enforcement. B2ACCESS allows EUDAT users to authenticate themselves using a variety of credentials.</description>
+	<options>Standard</options>
+	<targetUsers>Service provider; community data manager</targetUsers>
+	<userValue>For EUDAT service users and EUDAT service providers who need a single login for EUDAT. B2ACCESS service is a customer facing services provides a federates access to the B2 services in a trusted way.</userValue>
+	<providers>JSC</providers>
 	<version>1</version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
-	<trl></trl>
-	<category>"Authentication and Authorization Infrastructure"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"B2SAFE; B2SHARE; B2STAGE"</relatedServices>
-	<request>"http://eudat.eu/support-request?Service=B2ACCESS"</request>
-	<helpdesk>"http://eudat.eu/support-request?Service=B2ACCESS"</helpdesk>
-	<userManual>"https://eudat.eu/services/userdoc/b2access"</userManual>
-	<trainingInformation>"https://eudat.eu/b2access-training-suite"</trainingInformation>
-	<feedback>"http://eudat.eu/support-request?Service=B2ACCESS"</feedback>
-	<price>"Free"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse>"https://b2access.eudat.eu/unitygw/VAADIN/files/terms-of-use.htmlhttps://b2access.eudat.eu/unitygw/VAADIN/files/data-privacy-statement.html"</termsOfUse>
-	<funding>"EU"</funding>
+	<lifeCycleStatus>Production</lifeCycleStatus>
+	<category>Authentication and Authorization Infrastructure</category>
+	<relatedServices>B2SAFE; B2SHARE; B2STAGE</relatedServices>
+	<request>http://eudat.eu/support-request?Service=B2ACCESS</request>
+	<helpdesk>http://eudat.eu/support-request?Service=B2ACCESS</helpdesk>
+	<userManual>https://eudat.eu/services/userdoc/b2access</userManual>
+	<trainingInformation>https://eudat.eu/b2access-training-suite</trainingInformation>
+	<feedback>http://eudat.eu/support-request?Service=B2ACCESS</feedback>
+	<price>Free</price>
+	<termsOfUse>https://b2access.eudat.eu/unitygw/VAADIN/files/terms-of-use.htmlhttps://b2access.eudat.eu/unitygw/VAADIN/files/data-privacy-statement.html</termsOfUse>
+	<funding>EU</funding>
 </service>

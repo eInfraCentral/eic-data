@@ -1,37 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>3.02</id>
-	<url>"https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_Point-to-Point.aspx"</url>
-	<name>"GÉANT Plus"</name>
-	<tagline>"High-performance interconnectivity for the most demanding networking requirements."</tagline>
-	<description>"The GÉANT Plus serv​​ice allows national research and education networking (NREN) organisations to request point-to-point Ethernet circuits between end-points at GÉANT PoPs (p​oints of presence). Circuits can be established​ to any European NREN.​​​"</description>
-	<options></options>
-	<targetUsers>"NRENs"</targetUsers>
-	<userValue>"Ideally suited to major international projects, Point-to-Point services offer a high performance networking solution."</userValue>
-	<userBase></userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"GÉANT"</providers>
-	<version></version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
-	<trl></trl>
-	<category>"Connectivity"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"GÉANT Lambda"</relatedServices>
-	<request>"https://partner.geant.net/Public/home.aspx"</request>
-	<helpdesk>"https://partner.geant.net/Public/home.aspx"</helpdesk>
-	<userManual>"https://partner.geant.net/Public/home.aspx"</userManual>
-	<trainingInformation>"https://partner.geant.net/Public/home.aspx"</trainingInformation>
-	<feedback>"https://partner.geant.net/Public/home.aspx"</feedback>
-	<price>"paid by ASs subscription"</price>
-	<serviceLevelAgreement>"https://www.geant.org/Services/Connectivity_and_network/PublishingImages/Pages/GEANT_Point-to-Point/GEANT%20Plus%20Service%20Description%20Jul%202015.pdf"</serviceLevelAgreement>
-	<termsOfUse>"https://www.geant.org/Services/Connectivity_and_network/PublishingImages/Pages/GEANT_Point-to-Point/GEANT%20Plus%20Service%20Description%20Jul%202015.pdf"</termsOfUse>
-	<funding>"Co-funded national NREN and H2020 funding"</funding>
+	<url>https://www.geant.org/Services/Connectivity_and_network/Pages/GEANT_Point-to-Point.aspx</url>
+	<name>GÉANT Plus</name>
+	<tagline>High-performance interconnectivity for the most demanding networking requirements.</tagline>
+	<description>The GÉANT Plus serv​​ice allows national research and education networking (NREN) organisations to request point-to-point Ethernet circuits between end-points at GÉANT PoPs (p​oints of presence). Circuits can be established​ to any European NREN.​​​</description>
+	<targetUsers>NRENs</targetUsers>
+	<userValue>Ideally suited to major international projects, Point-to-Point services offer a high performance networking solution.</userValue>
+	<providers>GÉANT</providers>
+	<lifeCycleStatus>Production</lifeCycleStatus>
+	<category>Connectivity</category>
+	<relatedServices>GÉANT Lambda</relatedServices>
+	<request>https://partner.geant.net/Public/home.aspx</request>
+	<helpdesk>https://partner.geant.net/Public/home.aspx</helpdesk>
+	<userManual>https://partner.geant.net/Public/home.aspx</userManual>
+	<trainingInformation>https://partner.geant.net/Public/home.aspx</trainingInformation>
+	<feedback>https://partner.geant.net/Public/home.aspx</feedback>
+	<price>paid by ASs subscription</price>
+	<serviceLevelAgreement>https://www.geant.org/Services/Connectivity_and_network/PublishingImages/Pages/GEANT_Point-to-Point/GEANT%20Plus%20Service%20Description%20Jul%202015.pdf</serviceLevelAgreement>
+	<termsOfUse>https://www.geant.org/Services/Connectivity_and_network/PublishingImages/Pages/GEANT_Point-to-Point/GEANT%20Plus%20Service%20Description%20Jul%202015.pdf</termsOfUse>
+	<funding>Co-funded national NREN and H2020 funding</funding>
 </service>

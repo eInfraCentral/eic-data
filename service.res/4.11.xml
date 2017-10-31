@@ -1,37 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>4.11</id>
-	<url>"www.openaire.eu"</url>
-	<name>"OpenAIRE Broker"</name>
-	<tagline>"OpenAIRE Literature Notification Broker Service"</tagline>
-	<description>"The Broker service supports: the exchange of metadata and content amongst repositories, publishers or aggregators, and the enrichement of repository local metadata. It is a subscription-notification service operating on top of the OpenAIRE ScholGraph, a de-duplicated, enriched, linked, open scholarly communication graph. Repository managers subscribe to notifications (events) of interest via a Web application (provided in the OpenAIRE Data Provider Dashboard)."</description>
-	<options></options>
-	<targetUsers>"Repository managers, libraries, Data providers, Publishers, national aggregators"</targetUsers>
-	<userValue>"Enriched repositories for better access. Improved institution memory. Better institution research assessment.OA publisher compliance to funder rules."</userValue>
-	<userBase></userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"OpenAIRE consortium"</providers>
-	<version>"v1.0 "</version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Beta"</lifeCycleStatus>
+	<url>www.openaire.eu</url>
+	<name>OpenAIRE Broker</name>
+	<tagline>OpenAIRE Literature Notification Broker Service</tagline>
+	<description>The Broker service supports: the exchange of metadata and content amongst repositories, publishers or aggregators, and the enrichement of repository local metadata. It is a subscription-notification service operating on top of the OpenAIRE ScholGraph, a de-duplicated, enriched, linked, open scholarly communication graph. Repository managers subscribe to notifications (events) of interest via a Web application (provided in the OpenAIRE Data Provider Dashboard).</description>
+	<targetUsers>Repository managers, libraries, Data providers, Publishers, national aggregators</targetUsers>
+	<userValue>Enriched repositories for better access. Improved institution memory. Better institution research assessment.OA publisher compliance to funder rules.</userValue>
+	<providers>OpenAIRE consortium</providers>
+	<version>v1.0 </version>
+	<lifeCycleStatus>Beta</lifeCycleStatus>
 	<trl>8</trl>
-	<category>"Connectivity"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"OpenAIRE Graph, OpenAIRE Data Provider Dashboard"</relatedServices>
-	<request>"www.openaire.eu"</request>
-	<helpdesk>"https://www.openaire.eu/support/helpdesk"</helpdesk>
-	<userManual></userManual>
-	<trainingInformation></trainingInformation>
-	<feedback>"https://www.openaire.eu/support/helpdesk"</feedback>
-	<price>"Free"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse></termsOfUse>
-	<funding>"EC funding "</funding>
+	<category>Connectivity</category>
+	<relatedServices>OpenAIRE Graph, OpenAIRE Data Provider Dashboard</relatedServices>
+	<request>www.openaire.eu</request>
+	<helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
+	<feedback>https://www.openaire.eu/support/helpdesk</feedback>
+	<price>Free</price>
+	<funding>EC funding </funding>
 </service>

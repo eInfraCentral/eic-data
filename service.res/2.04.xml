@@ -1,37 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>2.04</id>
-	<url>"https://www.eudat.eu/services/b2find"</url>
-	<name>"B2FIND"</name>
-	<tagline>"Find research data"</tagline>
-	<description>"B2FIND is the EUDAT metadata service and provides a discovery portal which allows users to find data collections within an international and inter-disciplinary scope. It is based on a comprehensive metadata catalogue of research data collections stored in EUDAT data centres and other repositories. Harmonization of the metadata descriptions collected from heterogeneous sources enables not only the presentation in a consistent form but as well the faceted search across scientific domain boundaries."</description>
-	<options>"Standard"</options>
-	<targetUsers>"Individual researchers; community data manager"</targetUsers>
-	<userValue>"For Communities and other providers of research data who need to publish and give visibility to their metadata and individual researchers who need to search data from everywhere, and see data in the context with an across community approach."</userValue>
-	<userBase></userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"DKRZ"</providers>
+	<url>https://www.eudat.eu/services/b2find</url>
+	<name>B2FIND</name>
+	<tagline>Find research data</tagline>
+	<description>B2FIND is the EUDAT metadata service and provides a discovery portal which allows users to find data collections within an international and inter-disciplinary scope. It is based on a comprehensive metadata catalogue of research data collections stored in EUDAT data centres and other repositories. Harmonization of the metadata descriptions collected from heterogeneous sources enables not only the presentation in a consistent form but as well the faceted search across scientific domain boundaries.</description>
+	<options>Standard</options>
+	<targetUsers>Individual researchers; community data manager</targetUsers>
+	<userValue>For Communities and other providers of research data who need to publish and give visibility to their metadata and individual researchers who need to search data from everywhere, and see data in the context with an across community approach.</userValue>
+	<providers>DKRZ</providers>
 	<version>2.2</version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
-	<trl></trl>
-	<category>"Data discovery"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices></relatedServices>
-	<request>"http://eudat.eu/support-request?Service=B2FIND"</request>
-	<helpdesk>"http://eudat.eu/support-request?Service=B2FIND"</helpdesk>
-	<userManual>"https://eudat.eu/services/userdoc/b2find"</userManual>
-	<trainingInformation>"https://eudat.eu/b2find-training-suite"</trainingInformation>
-	<feedback>"http://eudat.eu/support-request?Service=B2FIND"</feedback>
-	<price>"Free"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse>"http://b2find.eudat.eu/legal"</termsOfUse>
-	<funding>"EU"</funding>
+	<lifeCycleStatus>Production</lifeCycleStatus>
+	<category>Data discovery</category>
+	<request>http://eudat.eu/support-request?Service=B2FIND</request>
+	<helpdesk>http://eudat.eu/support-request?Service=B2FIND</helpdesk>
+	<userManual>https://eudat.eu/services/userdoc/b2find</userManual>
+	<trainingInformation>https://eudat.eu/b2find-training-suite</trainingInformation>
+	<feedback>http://eudat.eu/support-request?Service=B2FIND</feedback>
+	<price>Free</price>
+	<termsOfUse>http://b2find.eudat.eu/legal</termsOfUse>
+	<funding>EU</funding>
 </service>

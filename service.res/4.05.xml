@@ -1,37 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>4.05</id>
-	<url>"www.zenodo.org"</url>
-	<name>"Zenodo"</name>
-	<tagline>"A catch-all repository"</tagline>
-	<description>"Zenodo is a general purpose repository that enables researchers, scientists, projects and institutions to share, preserve and showcase multidisciplinary research results (data, software and publications) that are not part of the existing institutional or subject-based repositories of the research communities. It is founded in the trustowrthy CERN data centre."</description>
-	<options></options>
-	<targetUsers>"Researchers, research communities, project coordinators/principal investigators"</targetUsers>
-	<userValue>"Enables everyone to participate in Open Science."</userValue>
-	<userBase>"Used by researchers and communities all over the world."</userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"CERN"</providers>
-	<version>"v2.0"</version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<url>www.zenodo.org</url>
+	<name>Zenodo</name>
+	<tagline>A catch-all repository</tagline>
+	<description>Zenodo is a general purpose repository that enables researchers, scientists, projects and institutions to share, preserve and showcase multidisciplinary research results (data, software and publications) that are not part of the existing institutional or subject-based repositories of the research communities. It is founded in the trustowrthy CERN data centre.</description>
+	<targetUsers>Researchers, research communities, project coordinators/principal investigators</targetUsers>
+	<userValue>Enables everyone to participate in Open Science.</userValue>
+	<userBase>Used by researchers and communities all over the world.</userBase>
+	<providers>CERN</providers>
+	<version>v2.0</version>
+	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
-	<category>"Publishing"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"CERN Data Centre, Invenio software & DataCite DOI miniting"</relatedServices>
-	<request>"http://about.zenodo.org/contact/"</request>
-	<helpdesk>"http://about.zenodo.org/contact/"</helpdesk>
-	<userManual>"http://help.zenodo.org"</userManual>
-	<trainingInformation></trainingInformation>
-	<feedback>"http://about.zenodo.org/contact/"</feedback>
-	<price>"Free to use up to 50GB max per dataset. Donations accepted."</price>
-	<serviceLevelAgreement>"http://about.zenodo.org/principles/"</serviceLevelAgreement>
-	<termsOfUse>"http://about.zenodo.org/terms/"</termsOfUse>
-	<funding>"EC funding, CERN own funds"</funding>
+	<category>Publishing</category>
+	<relatedServices>CERN Data Centre, Invenio software & DataCite DOI miniting</relatedServices>
+	<request>http://about.zenodo.org/contact/</request>
+	<helpdesk>http://about.zenodo.org/contact/</helpdesk>
+	<userManual>http://help.zenodo.org</userManual>
+	<feedback>http://about.zenodo.org/contact/</feedback>
+	<price>Free to use up to 50GB max per dataset. Donations accepted.</price>
+	<serviceLevelAgreement>http://about.zenodo.org/principles/</serviceLevelAgreement>
+	<termsOfUse>http://about.zenodo.org/terms/</termsOfUse>
+	<funding>EC funding, CERN own funds</funding>
 </service>

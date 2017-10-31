@@ -1,37 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>4.15</id>
-	<url>"https://www.openaire.eu/infra-monitoring"</url>
-	<name>"OpenAIRE Funder Dashboard"</name>
-	<tagline>"One-stop-shop for funder open research monitoring"</tagline>
-	<description>"The Funder Dashboard is built on the OpenAIRE Graph and provides a monitoring and reporting mechanism (including vizualization) that allows funders and policy makers to monitor all their funded research outcomes. Additional functionalities include private pages that allow configuration and deployment of on-demand visualization services.Note: The Funder Dashboard will be an extension of the current OpenAIRE monitoring pages, by integrating more elaborate queires and advanced visualizations."</description>
-	<options></options>
-	<targetUsers>"funders, policy makers"</targetUsers>
-	<userValue>"Improved, seamless funding monitoring and impact assessment.Funders have access to free, advanced monitoring tools to track their research outputs, produce publications reports, track projects results, funder stats and claiming of links between projects and scholarly objects."</userValue>
-	<userBase>"The EC is using the current mechanism for monitoring the open access policy. Other European national funders are currently using this as well (FCT-PT, NOW-NL)."</userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"OpenAIRE consortium"</providers>
-	<version>"v3.0"</version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<url>https://www.openaire.eu/infra-monitoring</url>
+	<name>OpenAIRE Funder Dashboard</name>
+	<tagline>One-stop-shop for funder open research monitoring</tagline>
+	<description>The Funder Dashboard is built on the OpenAIRE Graph and provides a monitoring and reporting mechanism (including vizualization) that allows funders and policy makers to monitor all their funded research outcomes. Additional functionalities include private pages that allow configuration and deployment of on-demand visualization services.Note: The Funder Dashboard will be an extension of the current OpenAIRE monitoring pages, by integrating more elaborate queires and advanced visualizations.</description>
+	<targetUsers>funders, policy makers</targetUsers>
+	<userValue>Improved, seamless funding monitoring and impact assessment.Funders have access to free, advanced monitoring tools to track their research outputs, produce publications reports, track projects results, funder stats and claiming of links between projects and scholarly objects.</userValue>
+	<userBase>The EC is using the current mechanism for monitoring the open access policy. Other European national funders are currently using this as well (FCT-PT, NOW-NL).</userBase>
+	<providers>OpenAIRE consortium</providers>
+	<version>v3.0</version>
+	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>6</trl>
-	<category>"Monitor and analysis"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"OpenAIRE Graph, AAI "</relatedServices>
-	<request>"www.openaire.eu"</request>
-	<helpdesk>"https://www.openaire.eu/support/helpdesk"</helpdesk>
-	<userManual></userManual>
-	<trainingInformation></trainingInformation>
-	<feedback>"https://www.openaire.eu/support/helpdesk"</feedback>
-	<price>"Free"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse></termsOfUse>
-	<funding>"EC funding"</funding>
+	<category>Monitor and analysis</category>
+	<relatedServices>OpenAIRE Graph, AAI </relatedServices>
+	<request>www.openaire.eu</request>
+	<helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
+	<feedback>https://www.openaire.eu/support/helpdesk</feedback>
+	<price>Free</price>
+	<funding>EC funding</funding>
 </service>

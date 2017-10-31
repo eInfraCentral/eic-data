@@ -1,37 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>3.16</id>
-	<url>"https://inacademia.org/"</url>
-	<name>"InAcademia"</name>
-	<tagline>"Online Student Validation"</tagline>
-	<description>"From cloud services to tickets to pizza, commercial providers want to offer great deals. InAcademia offers a simple, cost-effective, lightweight validation system to replace the time-consuming scanning and checking of ID cards."</description>
-	<options></options>
-	<targetUsers>"Identity Providers, Campus CIO/Identity provider managers, Commercial Service Providers"</targetUsers>
-	<userValue>"InAcademia leverages the power of eduGAIN and the Identity services of the students’ institution to securely authenticate a student’s affiliation credentials. InAcademia provides the merchant only with a simple “Yes/No” response and no personal information is shared."</userValue>
-	<userBase></userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"GÉANT"</providers>
-	<version></version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Beta"</lifeCycleStatus>
-	<trl></trl>
-	<category>"Security"</category>
-	<subcategory>"Security, Trust and Identity"</subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"eduGAIN"</relatedServices>
-	<request></request>
-	<helpdesk></helpdesk>
-	<userManual></userManual>
-	<trainingInformation></trainingInformation>
-	<feedback></feedback>
-	<price>"POA"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse>"www.inacademia.org"</termsOfUse>
-	<funding></funding>
+	<url>https://inacademia.org/</url>
+	<name>InAcademia</name>
+	<tagline>Online Student Validation</tagline>
+	<description>From cloud services to tickets to pizza, commercial providers want to offer great deals. InAcademia offers a simple, cost-effective, lightweight validation system to replace the time-consuming scanning and checking of ID cards.</description>
+	<targetUsers>Identity Providers, Campus CIO/Identity provider managers, Commercial Service Providers</targetUsers>
+	<userValue>InAcademia leverages the power of eduGAIN and the Identity services of the students’ institution to securely authenticate a student’s affiliation credentials. InAcademia provides the merchant only with a simple “Yes/No” response and no personal information is shared.</userValue>
+	<providers>GÉANT</providers>
+	<lifeCycleStatus>Beta</lifeCycleStatus>
+	<category>Security</category>
+	<subcategory>Security, Trust and Identity</subcategory>
+	<relatedServices>eduGAIN</relatedServices>
+	<price>POA</price>
+	<termsOfUse>www.inacademia.org</termsOfUse>
 </service>

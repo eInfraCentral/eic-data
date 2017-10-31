@@ -1,37 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>4.04</id>
-	<url>"www.openaire.eu"</url>
-	<name>"OpenAIRE Data Provider Dashboard"</name>
-	<tagline>"One-stop-shop for joining the OpenAIRE e-Infrastructure"</tagline>
-	<description>"The OpenAIRE Data Provider Dashboard is a one-stop-shop web service where data providers (repository, data archive, journal, aggregator, CRIS system) interact with OpenAIRE. It provides the front-end access to many of OpenAIRE's backend services: 1) Register - validate data source against OpenAIRE guidelines (via the OpenAIRE validator); register in OpenAIRE; provide links to content for text and data mining; view history of validations, status of harvesting. 2) Enrich - subscribe and view/receive notifications to enrich the metadata or the content of the data source (via the OpenAIRE Broker); 3) Assess - subscribe to the OpenAIRE Usage statistics service; view aggregated, cleaned usage stats for repository access (COUNTER rules, latest robots.txt). "</description>
-	<options></options>
-	<targetUsers>"Repository managers, libraries, Data providers, Publishers, national aggregators"</targetUsers>
-	<userValue>"Improve repository collections and content for enhanced visibility and access. Improved institution memory. Better institution research assessment.Compliance to funder rules."</userValue>
-	<userBase>"900 data providers of all types have used the registration and validation service."</userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"OpenAIRE consortium"</providers>
-	<version>"v2.1"</version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<url>www.openaire.eu</url>
+	<name>OpenAIRE Data Provider Dashboard</name>
+	<tagline>One-stop-shop for joining the OpenAIRE e-Infrastructure</tagline>
+	<description>The OpenAIRE Data Provider Dashboard is a one-stop-shop web service where data providers (repository, data archive, journal, aggregator, CRIS system) interact with OpenAIRE. It provides the front-end access to many of OpenAIRE's backend services: 1) Register - validate data source against OpenAIRE guidelines (via the OpenAIRE validator); register in OpenAIRE; provide links to content for text and data mining; view history of validations, status of harvesting. 2) Enrich - subscribe and view/receive notifications to enrich the metadata or the content of the data source (via the OpenAIRE Broker); 3) Assess - subscribe to the OpenAIRE Usage statistics service; view aggregated, cleaned usage stats for repository access (COUNTER rules, latest robots.txt). </description>
+	<targetUsers>Repository managers, libraries, Data providers, Publishers, national aggregators</targetUsers>
+	<userValue>Improve repository collections and content for enhanced visibility and access. Improved institution memory. Better institution research assessment.Compliance to funder rules.</userValue>
+	<userBase>900 data providers of all types have used the registration and validation service.</userBase>
+	<providers>OpenAIRE consortium</providers>
+	<version>v2.1</version>
+	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
-	<category>"Connectivity"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"OpenAIRE Validator, OpenAIRE Usage Statistics, OpenAIRE Broker"</relatedServices>
-	<request>"www.openaire.eu, info@openaire.eu"</request>
-	<helpdesk>"https://www.openaire.eu/support/helpdesk"</helpdesk>
-	<userManual></userManual>
-	<trainingInformation></trainingInformation>
-	<feedback>"https://www.openaire.eu/support/helpdesk"</feedback>
-	<price>"Free"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse></termsOfUse>
-	<funding>"EC funding "</funding>
+	<category>Connectivity</category>
+	<relatedServices>OpenAIRE Validator, OpenAIRE Usage Statistics, OpenAIRE Broker</relatedServices>
+	<request>www.openaire.eu, info@openaire.eu</request>
+	<helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
+	<feedback>https://www.openaire.eu/support/helpdesk</feedback>
+	<price>Free</price>
+	<funding>EC funding </funding>
 </service>

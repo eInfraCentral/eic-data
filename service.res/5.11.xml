@@ -1,37 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>5.11</id>
-	<url>"http://www.prace-ri.eu/prace-seasonal-schools"</url>
-	<name>"PRACE Seasonal Schools and International Summer School"</name>
-	<tagline></tagline>
-	<description>"The PRACE Seasonal Schools have been running since 2008 as part of the PRACE educational programme offering top-quality face-to-face training events organized around Europe, aiming to improve the skills necessary for the use of the PRACE ecosystem. The seasonal school topics range from generic intermediate to advanced programming techniques to more specialized topical schools that e.g. focus on a specific topic, such as big data, or offer discipline specific parallel tracks."</description>
-	<options></options>
-	<targetUsers>"Scientists and researchers"</targetUsers>
-	<userValue></userValue>
-	<userBase></userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"Four PRACE members sites: IT4I – IT4Innovations National Supercomputing Center (Czech Republic), GRNET – Greek Research and Technology Network (Greece), ICHEC – Irish Centre for High-End Computing (Ireland), SURFsara (The Netherlands)"</providers>
-	<version></version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<url>http://www.prace-ri.eu/prace-seasonal-schools</url>
+	<name>PRACE Seasonal Schools and International Summer School</name>
+	<description>The PRACE Seasonal Schools have been running since 2008 as part of the PRACE educational programme offering top-quality face-to-face training events organized around Europe, aiming to improve the skills necessary for the use of the PRACE ecosystem. The seasonal school topics range from generic intermediate to advanced programming techniques to more specialized topical schools that e.g. focus on a specific topic, such as big data, or offer discipline specific parallel tracks.</description>
+	<targetUsers>Scientists and researchers</targetUsers>
+	<providers>Four PRACE members sites: IT4I – IT4Innovations National Supercomputing Center (Czech Republic), GRNET – Greek Research and Technology Network (Greece), ICHEC – Irish Centre for High-End Computing (Ireland), SURFsara (The Netherlands)</providers>
+	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
-	<category>"Training"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"Preparatory Access"</relatedServices>
-	<request></request>
-	<helpdesk></helpdesk>
-	<userManual></userManual>
-	<trainingInformation></trainingInformation>
-	<feedback></feedback>
-	<price>"Free"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse>"Acceptable use Policies of the hosting sites"</termsOfUse>
-	<funding>"EC and PRACE members"</funding>
+	<category>Training</category>
+	<relatedServices>Preparatory Access</relatedServices>
+	<price>Free</price>
+	<termsOfUse>Acceptable use Policies of the hosting sites</termsOfUse>
+	<funding>EC and PRACE members</funding>
 </service>

@@ -1,37 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>5.01</id>
-	<url>"http://www.prace-ri.eu/prace-project-access"</url>
-	<name>"PRACE Project Access"</name>
-	<tagline></tagline>
-	<description>"Project Access is the access to PRACE Tier-0 world class high performance computing (HPC) resources for projects, which use codes that have been previously tested and have demonstrated high scalability and optimisation. Preparatory Access is strongly recommended to collect technical data to support the request of resources. Proposals for Project Access must be based on computer codes and data ready to run on the Tier-0 systems. "</description>
-	<options></options>
-	<targetUsers>"Scientists and researchers"</targetUsers>
-	<userValue>"Access to Tier-0 resources"</userValue>
-	<userBase></userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"PRACE aisbl"</providers>
-	<version></version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<url>http://www.prace-ri.eu/prace-project-access</url>
+	<name>PRACE Project Access</name>
+	<description>Project Access is the access to PRACE Tier-0 world class high performance computing (HPC) resources for projects, which use codes that have been previously tested and have demonstrated high scalability and optimisation. Preparatory Access is strongly recommended to collect technical data to support the request of resources. Proposals for Project Access must be based on computer codes and data ready to run on the Tier-0 systems. </description>
+	<targetUsers>Scientists and researchers</targetUsers>
+	<userValue>Access to Tier-0 resources</userValue>
+	<providers>PRACE aisbl</providers>
+	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
-	<category>"Compute"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"Preparatory Access"</relatedServices>
-	<request>"http://www.prace-ri.eu/application-guide"</request>
-	<helpdesk>"prace-support@hostingsite.hostingcountry"</helpdesk>
-	<userManual>"http://www.prace-ri.eu/IMG/pdf/PRACE-Guide-for-Applicants-to-Tier-0-V2016.pdf"</userManual>
-	<trainingInformation></trainingInformation>
-	<feedback></feedback>
-	<price>"Scientists and researchers from PRACE 2 members can access PRACE resources free of charge. Access is awarded through a rigorous peer review process. Industrial users, with head offices or substantial R&D activity in Europe, are also eligible to apply for Open R&D projects and undergo the same review. "</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse>"Acceptable use Policies of the hosting sites"</termsOfUse>
-	<funding>"Hosting Members "</funding>
+	<category>Compute</category>
+	<relatedServices>Preparatory Access</relatedServices>
+	<request>http://www.prace-ri.eu/application-guide</request>
+	<helpdesk>prace-support@hostingsite.hostingcountry</helpdesk>
+	<userManual>http://www.prace-ri.eu/IMG/pdf/PRACE-Guide-for-Applicants-to-Tier-0-V2016.pdf</userManual>
+	<price>Scientists and researchers from PRACE 2 members can access PRACE resources free of charge. Access is awarded through a rigorous peer review process. Industrial users, with head offices or substantial R&D activity in Europe, are also eligible to apply for Open R&D projects and undergo the same review. </price>
+	<termsOfUse>Acceptable use Policies of the hosting sites</termsOfUse>
+	<funding>Hosting Members </funding>
 </service>

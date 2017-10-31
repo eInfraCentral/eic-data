@@ -1,37 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>4.03</id>
-	<url>"https://www.openaire.eu/validator"</url>
-	<name>"OpenAIRE Validator"</name>
-	<tagline>"OpenAIRE Validation Service"</tagline>
-	<description>"This service performs validation checks on both the quality of implementation of the OAI-PMH protocol and the conformance of the metadata to the specific schemas. It is a rule based system which also provides an admin panel that allows its users to easily configure the individual validation rules and sets of rules, that implement the guidelines. OpenAIRE uses it to validate all its registered data providers (literature repositories, OA publishers, data repositories/archives, aggregators, CRIS systems) to the OpenAIRE guidelines."</description>
-	<options></options>
-	<targetUsers>"As an OpenAIRE installed service: Data/content providers (OA publishers, research libraries, institution CRIS managers, National data services/aggregators, Thematic aggregators). As a standalone deployment at national and regional aggregators, Research Infrastructures"</targetUsers>
-	<userValue>"Increased interoperability. Better visibility.National, regional aggregators: compliance to local guidelines. OpenAIRE Data providers: Compliance to OpenAIRE guidelines. More visibility of their content. Better linking to other communities."</userValue>
-	<userBase>"OpenAIRE deployment: 890 data providers have used the service before they register to OpenAIRE. They use it for continuous validations or updates to new versions of the guidelines. An average of 400 monthly visitors/validations.The Validation service has been deployed also for National and Regional Aggregators like La Referencia (Latin America, 11 countries), Fecyt (Spain), Mincyt (Argentina)."</userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"OpenAIRE consortium"</providers>
-	<version>"v2.1"</version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<url>https://www.openaire.eu/validator</url>
+	<name>OpenAIRE Validator</name>
+	<tagline>OpenAIRE Validation Service</tagline>
+	<description>This service performs validation checks on both the quality of implementation of the OAI-PMH protocol and the conformance of the metadata to the specific schemas. It is a rule based system which also provides an admin panel that allows its users to easily configure the individual validation rules and sets of rules, that implement the guidelines. OpenAIRE uses it to validate all its registered data providers (literature repositories, OA publishers, data repositories/archives, aggregators, CRIS systems) to the OpenAIRE guidelines.</description>
+	<targetUsers>As an OpenAIRE installed service: Data/content providers (OA publishers, research libraries, institution CRIS managers, National data services/aggregators, Thematic aggregators). As a standalone deployment at national and regional aggregators, Research Infrastructures</targetUsers>
+	<userValue>Increased interoperability. Better visibility.National, regional aggregators: compliance to local guidelines. OpenAIRE Data providers: Compliance to OpenAIRE guidelines. More visibility of their content. Better linking to other communities.</userValue>
+	<userBase>OpenAIRE deployment: 890 data providers have used the service before they register to OpenAIRE. They use it for continuous validations or updates to new versions of the guidelines. An average of 400 monthly visitors/validations.The Validation service has been deployed also for National and Regional Aggregators like La Referencia (Latin America, 11 countries), Fecyt (Spain), Mincyt (Argentina).</userBase>
+	<providers>OpenAIRE consortium</providers>
+	<version>v2.1</version>
+	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
-	<category>"Interoperability"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"N/A"</relatedServices>
-	<request>"www.openaire.eu"</request>
-	<helpdesk>"https://www.openaire.eu/support/helpdesk"</helpdesk>
-	<userManual>"https://www.openaire.eu/validator/help.action"</userManual>
-	<trainingInformation></trainingInformation>
-	<feedback>"https://www.openaire.eu/validator/feedback.action"</feedback>
-	<price>"Free"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse></termsOfUse>
-	<funding>"EC funding "</funding>
+	<category>Interoperability</category>
+	<relatedServices>N/A</relatedServices>
+	<request>www.openaire.eu</request>
+	<helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
+	<userManual>https://www.openaire.eu/validator/help.action</userManual>
+	<feedback>https://www.openaire.eu/validator/feedback.action</feedback>
+	<price>Free</price>
+	<funding>EC funding </funding>
 </service>

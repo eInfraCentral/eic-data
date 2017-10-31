@@ -1,37 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>5.04</id>
-	<url>"http://www.prace-ri.eu/IMG/pdf/enkovaara_application_enabling.pdf"</url>
-	<name>"PRACE Application Enabling Support"</name>
-	<tagline></tagline>
-	<description>"Enable applications for project access, users in porting, scaling and optimising their applications to fully exploit the capabilities of PRACE systems."</description>
-	<options></options>
-	<targetUsers>"Scientists and researchers"</targetUsers>
-	<userValue>"Application Enabling"</userValue>
-	<userBase></userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"Hosting Sites (HLST) and PRACE-IP projects"</providers>
-	<version></version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<url>http://www.prace-ri.eu/IMG/pdf/enkovaara_application_enabling.pdf</url>
+	<name>PRACE Application Enabling Support</name>
+	<description>Enable applications for project access, users in porting, scaling and optimising their applications to fully exploit the capabilities of PRACE systems.</description>
+	<targetUsers>Scientists and researchers</targetUsers>
+	<userValue>Application Enabling</userValue>
+	<providers>Hosting Sites (HLST) and PRACE-IP projects</providers>
+	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
-	<category>"Consulting"</category>
-	<subcategory></subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"Preparatory Access"</relatedServices>
-	<request></request>
-	<helpdesk></helpdesk>
-	<userManual></userManual>
-	<trainingInformation></trainingInformation>
-	<feedback></feedback>
-	<price>"Free"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse>"Acceptable use Policies of the hosting sites"</termsOfUse>
-	<funding>"PRACE aisbl and EC"</funding>
+	<category>Consulting</category>
+	<relatedServices>Preparatory Access</relatedServices>
+	<price>Free</price>
+	<termsOfUse>Acceptable use Policies of the hosting sites</termsOfUse>
+	<funding>PRACE aisbl and EC</funding>
 </service>

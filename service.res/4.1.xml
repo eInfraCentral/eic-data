@@ -1,37 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>4.1</id>
-	<url>"www.openaire.eu"</url>
-	<name>"OpenAIRE Usage Statistics"</name>
-	<tagline>"OpenAIRE Usage Statistics "</tagline>
-	<description>"The service tracks, collects and analyzes usage data from the network of OpenAIRE data providers and exploits usage metrics like downloads and metadata views. Tracking of usage activity is performed by exploiting the Open Source Piwik analytics platform. In addition, usage statistics reports can be collected from SUSHI-Lite compatible endpoints. The analysis uses the COUNTER rules and the latest robots.txt files as provided by the library and the IT communities. Taking advantage of OpenAIRE's Graph service de-duplication mechanism, it aggregates/merges usage stats that come from different sources and relate to the same object. Note: The service (currently in beta) will be initially deployed for the OpenAIRE network use, but we envision to provide this in different installations/settings."</description>
-	<options></options>
-	<targetUsers>"The service tracks, collects and analyses usage data from the network of OpenAIRE data providers and exploits usage metrics like downloads and metadata views. Tracking of usage activity is performed by exploiting the Open Source Piwik analytics platform. "</targetUsers>
-	<userValue>"Anonymized and aggregated usage data to improve research impact and assessment. "</userValue>
-	<userBase>"Currently deployed in 31 literature repositories (Portugal, France, Croatia, Bulgaria)."</userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"OpenAIRE consortium"</providers>
-	<version>"v1.0"</version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Beta"</lifeCycleStatus>
+	<url>www.openaire.eu</url>
+	<name>OpenAIRE Usage Statistics</name>
+	<tagline>OpenAIRE Usage Statistics </tagline>
+	<description>The service tracks, collects and analyzes usage data from the network of OpenAIRE data providers and exploits usage metrics like downloads and metadata views. Tracking of usage activity is performed by exploiting the Open Source Piwik analytics platform. In addition, usage statistics reports can be collected from SUSHI-Lite compatible endpoints. The analysis uses the COUNTER rules and the latest robots.txt files as provided by the library and the IT communities. Taking advantage of OpenAIRE's Graph service de-duplication mechanism, it aggregates/merges usage stats that come from different sources and relate to the same object. Note: The service (currently in beta) will be initially deployed for the OpenAIRE network use, but we envision to provide this in different installations/settings.</description>
+	<targetUsers>The service tracks, collects and analyses usage data from the network of OpenAIRE data providers and exploits usage metrics like downloads and metadata views. Tracking of usage activity is performed by exploiting the Open Source Piwik analytics platform. </targetUsers>
+	<userValue>Anonymized and aggregated usage data to improve research impact and assessment. </userValue>
+	<userBase>Currently deployed in 31 literature repositories (Portugal, France, Croatia, Bulgaria).</userBase>
+	<providers>OpenAIRE consortium</providers>
+	<version>v1.0</version>
+	<lifeCycleStatus>Beta</lifeCycleStatus>
 	<trl>8</trl>
-	<category>"Monitor and analysis"</category>
-	<subcategory>"Monitor and analysis"</subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"Piwik, SUSHI-Lite"</relatedServices>
-	<request>"www.openaire.eu"</request>
-	<helpdesk>"https://www.openaire.eu/support/helpdesk"</helpdesk>
-	<userManual>"https://www.openaire.eu/new-d8-5-usage-statistics-metrics/download"</userManual>
-	<trainingInformation></trainingInformation>
-	<feedback>"https://www.openaire.eu/support/helpdesk"</feedback>
-	<price>"Free"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse></termsOfUse>
-	<funding>"EC funding "</funding>
+	<category>Monitor and analysis</category>
+	<subcategory>Monitor and analysis</subcategory>
+	<relatedServices>Piwik, SUSHI-Lite</relatedServices>
+	<request>www.openaire.eu</request>
+	<helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
+	<userManual>https://www.openaire.eu/new-d8-5-usage-statistics-metrics/download</userManual>
+	<feedback>https://www.openaire.eu/support/helpdesk</feedback>
+	<price>Free</price>
+	<funding>EC funding </funding>
 </service>

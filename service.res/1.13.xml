@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>1.13</id>
-	<url>"https://www.egi.eu/services"</url>
-	<name>"DataHub"</name>
-	<tagline>"Access key scientific datasets scalably"</tagline>
-	<description>"Access selected public datasets and efficiently consume them from EGI compute services. Main features: Discovery of data via a central portal. This will include a searching mechanism plus a rating system which may be based on, e.g. number of accesses. Access to data conforming to required policies which may be: unauthenticated open access; access after user registration or access restricted to members of a Virtual Organization (VO). This access may be via a GUI (e.g. a webpage) or an API (e.g. programmatic access to the data). Replication of data from data providers for resiliency and availability purposes. Replication may take place either on demand or automatically. Replication will require the introduction of a file catalogue to enable tracking of logical and physical copies of data. Access to data from the AppDB to enable VOs to associate appropriate data with matching Virtual Appliances. Authentication and Authorization Infrastructure (AAI) integration between the DataHub and with other EGI components and with user communities existing infrastructure. File catalogue to track replication of data: logical and physical file."</description>
-	<options></options>
-	<targetUsers>"Research organisations, SME/Industry, Researchers, Innovators"</targetUsers>
-	<userValue>"Easy and efficient access to selected large-scale datasets."</userValue>
-	<userBase>"Virtual organisations: ICOS, CMS, CTA, EuroBioImaging, Molecular Dynamics Simulations, LBT, eCulture, ELIXIR-ITA, EMSO, Earth Observation pilot: RHEA, SixSq, EOProc, CWA, AWS, CESNET and Cyfronet"</userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"EGI Foundation (via EGI resource providers)"</providers>
-	<version></version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Alpha"</lifeCycleStatus>
+	<url>https://www.egi.eu/services</url>
+	<name>DataHub</name>
+	<tagline>Access key scientific datasets scalably</tagline>
+	<description>Access selected public datasets and efficiently consume them from EGI compute services. Main features: Discovery of data via a central portal. This will include a searching mechanism plus a rating system which may be based on, e.g. number of accesses. Access to data conforming to required policies which may be: unauthenticated open access; access after user registration or access restricted to members of a Virtual Organization (VO). This access may be via a GUI (e.g. a webpage) or an API (e.g. programmatic access to the data). Replication of data from data providers for resiliency and availability purposes. Replication may take place either on demand or automatically. Replication will require the introduction of a file catalogue to enable tracking of logical and physical copies of data. Access to data from the AppDB to enable VOs to associate appropriate data with matching Virtual Appliances. Authentication and Authorization Infrastructure (AAI) integration between the DataHub and with other EGI components and with user communities existing infrastructure. File catalogue to track replication of data: logical and physical file.</description>
+	<targetUsers>Research organisations, SME/Industry, Researchers, Innovators</targetUsers>
+	<userValue>Easy and efficient access to selected large-scale datasets.</userValue>
+	<userBase>Virtual organisations: ICOS, CMS, CTA, EuroBioImaging, Molecular Dynamics Simulations, LBT, eCulture, ELIXIR-ITA, EMSO, Earth Observation pilot: RHEA, SixSq, EOProc, CWA, AWS, CESNET and Cyfronet</userBase>
+	<providers>EGI Foundation (via EGI resource providers)</providers>
+	<lifeCycleStatus>Alpha</lifeCycleStatus>
 	<trl>7</trl>
-	<category>"Storage and Data"</category>
-	<subcategory>"Data Management"</subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices></relatedServices>
-	<request>"https://www.egi.eu/request-service/"</request>
-	<helpdesk></helpdesk>
-	<userManual></userManual>
-	<trainingInformation></trainingInformation>
-	<feedback></feedback>
-	<price></price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse></termsOfUse>
-	<funding>"Development: EC H2020 projects (primarily) and national projects/open source projects. Operations: capacity supported by national funding, federation and support co-funded between national funding and EC H2020 projects"</funding>
+	<category>Storage and Data</category>
+	<subcategory>Data Management</subcategory>
+	<request>https://www.egi.eu/request-service/</request>
+	<funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations: capacity supported by national funding, federation and support co-funded between national funding and EC H2020 projects</funding>
 </service>

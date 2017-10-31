@@ -1,37 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>4.02</id>
-	<url>"http://api.openaire.eu"</url>
-	<name>"OpenAIRE Graph"</name>
-	<tagline>"Open, linked research "</tagline>
-	<description>"The Aggregation service creates the OpenAIRE scholarly communication graph by: aggregating metadata from validated data providers, enriching by text mining and inference, and  collecting information from end-users. The service makes the graph available via different types of APIs: OAI-PMH, HTTP API, Linked Open Data, SPARQL endpoint. The OpenAIRE scholarly communication graph is created bi-monthly by aggregating, cleaning, transforming and inferring content retrieved from OpenAIRE's European and global network of validated OA data providers. A light version of the Aggregation Service is offered for deployment for national or thematic infrastructures."</description>
-	<options></options>
-	<targetUsers>"Data providers, Publishers, Funders, Institutions, Research Infrastructures, Policy makers, Industry"</targetUsers>
-	<userValue>"A gateway to open research.Enable intelligent visibilty, access and reusability of resesarch content. Enable third-party service developers to realize services for scholarly communicattion and research analytics."</userValue>
-	<userBase>"APIs are accessed on the average 6,000 times every month. The OpenAIRE Scholarly Communication Graph is indexed by two major Library services (EBSCO and ExLibris) and it by the US Dept. of Energy worldwidesience.org site. The standalone version of the Aggregation Service has been deployed in the following national settings: Spain, Poland, Turkey, Argentina."</userBase>
-	<symbol></symbol>
-	<multimediaURL></multimediaURL>
-	<providers>"OpenAIRE consortium"</providers>
-	<version>"v2"</version>
-	<lastUpdate></lastUpdate>
-	<changeLog></changeLog>
-	<validFor></validFor>
-	<lifeCycleStatus>"Production"</lifeCycleStatus>
+	<url>http://api.openaire.eu</url>
+	<name>OpenAIRE Graph</name>
+	<tagline>Open, linked research </tagline>
+	<description>The Aggregation service creates the OpenAIRE scholarly communication graph by: aggregating metadata from validated data providers, enriching by text mining and inference, and  collecting information from end-users. The service makes the graph available via different types of APIs: OAI-PMH, HTTP API, Linked Open Data, SPARQL endpoint. The OpenAIRE scholarly communication graph is created bi-monthly by aggregating, cleaning, transforming and inferring content retrieved from OpenAIRE's European and global network of validated OA data providers. A light version of the Aggregation Service is offered for deployment for national or thematic infrastructures.</description>
+	<targetUsers>Data providers, Publishers, Funders, Institutions, Research Infrastructures, Policy makers, Industry</targetUsers>
+	<userValue>A gateway to open research.Enable intelligent visibilty, access and reusability of resesarch content. Enable third-party service developers to realize services for scholarly communicattion and research analytics.</userValue>
+	<userBase>APIs are accessed on the average 6,000 times every month. The OpenAIRE Scholarly Communication Graph is indexed by two major Library services (EBSCO and ExLibris) and it by the US Dept. of Energy worldwidesience.org site. The standalone version of the Aggregation Service has been deployed in the following national settings: Spain, Poland, Turkey, Argentina.</userBase>
+	<providers>OpenAIRE consortium</providers>
+	<version>v2</version>
+	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
-	<category>"Connectivity"</category>
-	<subcategory>"Content delivery"</subcategory>
-	<places></places>
-	<languages></languages>
-	<tags></tags>
-	<requiredServices></requiredServices>
-	<relatedServices>"OpenAIRE Aggregation uses the following services:- Validation Service- De-duplication Service (not public)- Inference Service"</relatedServices>
-	<request>"http://api.openaire.eu"</request>
-	<helpdesk>"https://www.openaire.eu/support/helpdesk"</helpdesk>
-	<userManual>"http://api.openaire.eu"</userManual>
-	<trainingInformation></trainingInformation>
-	<feedback>"https://www.openaire.eu/support/helpdesk"</feedback>
-	<price>"Free"</price>
-	<serviceLevelAgreement></serviceLevelAgreement>
-	<termsOfUse></termsOfUse>
-	<funding>"EC funding "</funding>
+	<category>Connectivity</category>
+	<subcategory>Content delivery</subcategory>
+	<relatedServices>OpenAIRE Aggregation uses the following services:- Validation Service- De-duplication Service (not public)- Inference Service</relatedServices>
+	<request>http://api.openaire.eu</request>
+	<helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
+	<userManual>http://api.openaire.eu</userManual>
+	<feedback>https://www.openaire.eu/support/helpdesk</feedback>
+	<price>Free</price>
+	<funding>EC funding </funding>
 </service>
