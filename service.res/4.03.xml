@@ -14,7 +14,7 @@
 	<trl>9</trl>
 	<category>Interoperability</category>
 	<relatedServices>N/A</relatedServices>
-	<request>www.openaire.eu</request>
+	<request>https://www.openaire.eu</request>
 	<helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
 	<userManual>https://www.openaire.eu/validator/help.action</userManual>
 	<feedback>https://www.openaire.eu/validator/feedback.action</feedback>

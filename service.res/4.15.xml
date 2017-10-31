@@ -14,7 +14,7 @@
 	<trl>6</trl>
 	<category>Monitor and analysis</category>
 	<relatedServices>OpenAIRE Graph, AAI </relatedServices>
-	<request>www.openaire.eu</request>
+	<request>https://www.openaire.eu</request>
 	<helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
 	<feedback>https://www.openaire.eu/support/helpdesk</feedback>
 	<funding>EC funding</funding>

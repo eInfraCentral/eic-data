@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>4.05</id>
-	<url>www.zenodo.org</url>
+	<url>https://www.zenodo.org</url>
 	<name>Zenodo</name>
 	<tagline>A catch-all repository</tagline>
 	<description>Zenodo is a general purpose repository that enables researchers, scientists, projects and institutions to share, preserve and showcase multidisciplinary research results (data, software and publications) that are not part of the existing institutional or subject-based repositories of the research communities. It is founded in the trustowrthy CERN data centre.</description>

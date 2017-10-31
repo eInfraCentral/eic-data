@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>4.04</id>
-	<url>www.openaire.eu</url>
+	<url>https://www.openaire.eu</url>
 	<name>OpenAIRE Data Provider Dashboard</name>
 	<tagline>One-stop-shop for joining the OpenAIRE e-Infrastructure</tagline>
 	<description>The OpenAIRE Data Provider Dashboard is a one-stop-shop web service where data providers (repository, data archive, journal, aggregator, CRIS system) interact with OpenAIRE. It provides the front-end access to many of OpenAIRE's backend services: 1) Register - validate data source against OpenAIRE guidelines (via the OpenAIRE validator); register in OpenAIRE; provide links to content for text and data mining; view history of validations, status of harvesting. 2) Enrich - subscribe and view/receive notifications to enrich the metadata or the content of the data source (via the OpenAIRE Broker); 3) Assess - subscribe to the OpenAIRE Usage statistics service; view aggregated, cleaned usage stats for repository access (COUNTER rules, latest robots.txt). </description>

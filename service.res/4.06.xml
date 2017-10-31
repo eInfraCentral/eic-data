@@ -14,7 +14,7 @@
 	<trl>9</trl>
 	<category>Text Mining, Data Mining, Information Extraction</category>
 	<relatedServices>OpenAIRE Aggregation Service, AAI </relatedServices>
-	<request>www.openaire.eu</request>
+	<request>https://www.openaire.eu</request>
 	<helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
 	<userManual>https://www.openaire.eu/guides/</userManual>
 	<feedback>https://www.openaire.eu/support/helpdesk</feedback>

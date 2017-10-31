@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>4.14</id>
-	<url>www.openaire.eu</url>
+	<url>https://www.openaire.eu</url>
 	<name>OpenAIRE Institution Dashboard</name>
 	<tagline>One-stop-shop for institutional open research monitoring</tagline>
 	<description>The Institution Dashboard is built on the OpenAIRE Graph and provides a monitoring and reporting mechanism (including vizualization) that allows research administrators to monitor all institution research outcomes. Additional functionalities include private portals that allow configuration and deployment of on-demand services to search, browse, and navigate the research institution outputs, as well as to authoritatively link and validate them.</description>
@@ -15,7 +15,7 @@
 	<category>Monitor and analysis</category>
 	<subcategory>Monitor and analysis</subcategory>
 	<relatedServices>OpenAIRE Aggregation Service, AAI </relatedServices>
-	<request>www.openaire.eu</request>
+	<request>https://www.openaire.eu</request>
 	<helpdesk>https://www.openaire.eu/support/helpdesk</helpdesk>
 	<feedback>https://www.openaire.eu/support/helpdesk</feedback>
 	<funding>EC funding</funding>

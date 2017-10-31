@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <service xmlns="http://einfracentral.eu">
 	<id>3.08</id>
-	<url>www.eduroam.org</url>
+	<url>https://www.eduroam.org</url>
 	<name>eduroam</name>
 	<tagline>Seamless Wi-Fi access for research and education around the world​.</tagline>
 	<description>e​​duroam​ (education roaming) is the secure, world-wide roaming access service developed for the international research and education community. eduroam allows students, researchers and staff​ to seamlessly access internet connectivity when within range of a hotspot, whether they're moving across campus or visiting other participating institutions​.</description>
@@ -10,10 +10,10 @@
 	<providers>GÉANT and Global eduroam governance committee</providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Connectivity</category>
-	<request>www.eduroam.org</request>
-	<helpdesk>www.eduroam.org</helpdesk>
-	<userManual>www.eduroam.org</userManual>
-	<trainingInformation>www.eduroam.org</trainingInformation>
-	<feedback>www.eduroam.org</feedback>
-	<termsOfUse>www.eduroam.org</termsOfUse>
+	<request>https://www.eduroam.org</request>
+	<helpdesk>https://www.eduroam.org</helpdesk>
+	<userManual>https://www.eduroam.org</userManual>
+	<trainingInformation>https://www.eduroam.org</trainingInformation>
+	<feedback>https://www.eduroam.org</feedback>
+	<termsOfUse>https://www.eduroam.org</termsOfUse>
 </service>

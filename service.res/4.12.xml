@@ -12,6 +12,6 @@
 	<lifeCycleStatus>Beta</lifeCycleStatus>
 	<trl>6</trl>
 	<category>Publishing</category>
-	<request>www.openaire.eu</request>
+	<request>https://www.openaire.eu</request>
 	<funding>EC and Greek national funding</funding>
 </service>
