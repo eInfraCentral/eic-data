@@ -14,6 +14,5 @@
 	<category>Compute</category>
 	<subcategory>Virtual machine management</subcategory>
 	<request>https://www.egi.eu/request-service/</request>
-	<price>Free: Researchers meeting policies of the service providers; Pay-for-use: Special technical requirements; commercial entity support (beyond initial testing/piloting)</price>
 	<funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations: capacity supported by national funding, federation and support co-funded between national funding and EC H2020 projects</funding>
 </service>

@@ -18,7 +18,6 @@
 	<userManual>https://eudat.eu/services/userdoc/b2access</userManual>
 	<trainingInformation>https://eudat.eu/b2access-training-suite</trainingInformation>
 	<feedback>http://eudat.eu/support-request?Service=B2ACCESS</feedback>
-	<price>Free</price>
 	<termsOfUse>https://b2access.eudat.eu/unitygw/VAADIN/files/terms-of-use.htmlhttps://b2access.eudat.eu/unitygw/VAADIN/files/data-privacy-statement.html</termsOfUse>
 	<funding>EU</funding>
 </service>

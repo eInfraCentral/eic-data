@@ -18,7 +18,6 @@
 	<helpdesk>https://ggus.eu/</helpdesk>
 	<userManual>https://wiki.egi.eu/wiki/Federated_Cloud_user_support</userManual>
 	<trainingInformation>https://documents.egi.eu/public/ShowDocument?docid=2622</trainingInformation>
-	<price>Free: Researchers meeting policies of the service providers; Pay-for-use: Special technical requirements; commercial entity support (beyond initial testing/piloting)</price>
 	<serviceLevelAgreement>SLA templates available for both end users and providers</serviceLevelAgreement>
 	<termsOfUse>For Users: https://wiki.egi.eu/wiki/Federated_Cloud_user_supportFor Providers: https://wiki.egi.eu/wiki/Federated_Cloud_resource_providers_support</termsOfUse>
 	<funding>Development: EC H2020 projects (primarily) and national projects/open source projects. Operations: capacity supported by national funding, federation and support co-funded between national funding and EC H2020 projects</funding>
