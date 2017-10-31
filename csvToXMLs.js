@@ -23,7 +23,9 @@ function insert(line) {
     let tokens = line.split("$");
     for (let i = 0; i < tokens.length; i++) {
         services[i] = services[i] || {};
+        if (tokens[i] !== "") {
             services[i][fields[field]] = tokens[i].replace(/^"|"$/g, '');
+        }
     }
     field++;
 }
