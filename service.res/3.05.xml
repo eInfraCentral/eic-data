@@ -7,7 +7,7 @@
 	<description>The GÉANT Multi-Domain Virtual Private Network (MD-VPN) provides an end-to-end international network service that enables scientists all over Europe to collaborate via a common private network infrastructure. The MD-VPN​ service can be used for connectivity between clusters, grids, clouds and HPC (high-performance computing) centres, allowing them to form v​​​​irtual distributed resources for third-party research projects. MD-VPN offers fast delivery of VPNs to end users and so can be used in a variety of ways, from a long-term infrastructure with a high demand for intensive network usage to quick point-to-point connections for a con​ference demonstration.​</description>
 	<targetUsers>NRENs and via NRENs end user research institutions</targetUsers>
 	<userValue>VPNs are ideal for many-to-many (pee​r-to-peer) or one-to-many (central-site-to-satellite) environments, where each site can be allocated bandwidth according to its own requirements. Each site can support bandwidths from 155Mbps to 100Gbps (subject to availability).</userValue>
-	<providers>GÉANT</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Connectivity</category>
 	<relatedServices>GÉANT L3VPN</relatedServices>

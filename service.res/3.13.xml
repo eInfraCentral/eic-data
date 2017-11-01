@@ -7,7 +7,7 @@
 	<description>Authentication and authorisation infrastructure (AAI) is one of the key differentiators between national research and education networking organisations (NRENs) and other network providers. Its provision  aids the development  and delivery of enhanced services to all users.</description>
 	<targetUsers>NRENs, Identity Federations</targetUsers>
 	<userValue>The development and operation of a national identity federation is not a trivial activity and GÉANT's Federation as a Service (FaaS) offering was created specially to help. FaaS supports NRENs in building their identity federations by providing hosted set of tools  for operating their identity federation. FaaS offering  was designed with special care on security, as a key enabler of trust in identity federations. In that way, NRENs can establish their federation following best current practices and focus on the development of service and identity provider systems to help rapidly build AAI in their region.</userValue>
-	<providers>GÉANT</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Security</category>
 	<subcategory>Security, Trust and Identity</subcategory>

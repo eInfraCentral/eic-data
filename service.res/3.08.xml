@@ -7,7 +7,7 @@
 	<description>e​​duroam​ (education roaming) is the secure, world-wide roaming access service developed for the international research and education community. eduroam allows students, researchers and staff​ to seamlessly access internet connectivity when within range of a hotspot, whether they're moving across campus or visiting other participating institutions​.</description>
 	<targetUsers>NRENs </targetUsers>
 	<userValue>With benefits for users and for their campus IT departments, eduroam saves time and facilitates active and enduring collaboration between countries and institutions. eduroam supports research and education by providing: roaming broadband in more than 80 territories worldwide; access at thousands of locations, with one ​password; secure and privacy-preserving technology; reciprocal service that is free-of-charge to users.</userValue>
-	<providers>GÉANT and Global eduroam governance committee</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Connectivity</category>
 	<request>https://www.eduroam.org</request>

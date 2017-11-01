@@ -5,7 +5,7 @@
 	<name>PRACE Training Portal</name>
 	<description>Web platform for all PRACE training offers</description>
 	<targetUsers>Scientists and researchers</targetUsers>
-	<providers>PRACE aisbl and PRACE-IP projects</providers>
+	<providers><provider>prace</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
 	<category>Training</category>

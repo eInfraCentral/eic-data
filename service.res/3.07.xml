@@ -8,7 +8,7 @@
 	<options>https://www.geant.org/Services/Connectivity_and_network/GTS/</options>
 	<targetUsers>Advance research projects for both networking and application development</targetUsers>
 	<userValue>GTS can support multiple projects simult​​​aneously and isolates them from each other and from the production GÉANT network to provide security and safety.​</userValue>
-	<providers>GÉANT</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Research Projects</category>
 	<request>https://partner.geant.net/Public/home.aspx</request>

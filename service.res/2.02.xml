@@ -8,7 +8,7 @@
 	<options>Standard</options>
 	<targetUsers>Individual researchers; community data manager</targetUsers>
 	<userValue>For the individuals researchers who do not have adequate facilities for storing, preserving and sharing data, B2SHARE Service is a customer-facing service which provides a safe repository for scientific data and a easy way to share it in the research community.</userValue>
-	<providers>CSC</providers>
+	<providers><provider>eudat</provider></providers>
 	<version>2.0.1</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Data storage</category>

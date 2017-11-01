@@ -8,7 +8,7 @@
 	<targetUsers>Project Coordinators, Funders, Research Administrators, Researchers, Repository managers for literature,Repository managers for data, Open Access Publishers, National Aggregators, policy makers, learned societies, research infrastructures</targetUsers>
 	<userValue>Open Science enabler. Direct and round the clock support for wide ranging issues on Open Science across European Research Institutions, Projects and Individuals</userValue>
 	<userBase>Daily tickets and NOADs contact by all stakeholder types </userBase>
-	<providers>OpenAIRE consortium, National Open Access Desks (NOADs)</providers>
+	<providers><provider>openaire</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Training</category>
 	<relatedServices>All OpenAIRE services</relatedServices>

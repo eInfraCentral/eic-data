@@ -7,7 +7,7 @@
 	<description>Proposals must deal with complex, demanding, innovative simulations that would not be possible without Tier-1 access. Proposals from academia and industry are eligible, as long as the project leader is undertaking non-proprietary research in a European country (European Union, candidates, associated countries and PRACE member countries). Project leaders will typically be employed in research organisations (academic or industrial). Individual HPC centres may have further restrictions on who is eligible to use the machines, e.g. due to US export rules.</description>
 	<targetUsers>Scientists and researchers</targetUsers>
 	<userValue>Access to Tier-1 resources</userValue>
-	<providers>Optional Programme PRACE aisbl</providers>
+	<providers><provider>prace</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
 	<category>Compute</category>

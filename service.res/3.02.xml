@@ -7,7 +7,7 @@
 	<description>The GÉANT Plus serv​​ice allows national research and education networking (NREN) organisations to request point-to-point Ethernet circuits between end-points at GÉANT PoPs (p​oints of presence). Circuits can be established​ to any European NREN.​​​</description>
 	<targetUsers>NRENs</targetUsers>
 	<userValue>Ideally suited to major international projects, Point-to-Point services offer a high performance networking solution.</userValue>
-	<providers>GÉANT</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Connectivity</category>
 	<relatedServices>GÉANT Lambda</relatedServices>

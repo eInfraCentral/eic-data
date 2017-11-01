@@ -8,7 +8,7 @@
 	<options>10-100Gibt/s, Peering, GÉANT World Service</options>
 	<targetUsers>NRENs</targetUsers>
 	<userValue>Dedicated, uncontended IP connectivity.</userValue>
-	<providers>GÉANT</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Connectivity</category>
 	<relatedServices>GÉANT Peering and GÉANT World Service as service options</relatedServices>

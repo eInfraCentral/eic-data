@@ -8,7 +8,7 @@
 	<targetUsers>Research communities, research infrastructures, VO Managers</targetUsers>
 	<userValue>Easy and trusted way to manage Virtual Organization membership.</userValue>
 	<userBase>All users registered in EGI Virtual Organisations, All VO managers</userBase>
-	<providers>EGI Foundation (via EGI resource providers)</providers>
+	<providers><provider>egi</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>8</trl>
 	<category>Security</category>

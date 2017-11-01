@@ -8,7 +8,7 @@
 	<targetUsers>EGI service providers, Research and Technology Organisations (RTOs) and universities, Research communities, SME/Industry, Researchers, especially those doing computer-aided studies.</targetUsers>
 	<userValue>Easily discover expertise that can be tapped into based on usage of resources available, increase competitiveness by providing a low cost of entry to expensive technologies for small academic institutions and businesses, facilitate inter-disciplinary research by providing access to technologies typically considered outside of a particular field.</userValue>
 	<userBase>Closed set of researchers and service providers for testing </userBase>
-	<providers>EGI Foundation (via EGI resource providers)</providers>
+	<providers><provider>egi</provider></providers>
 	<lifeCycleStatus>Alpha</lifeCycleStatus>
 	<trl>7</trl>
 	<category>Operations</category>

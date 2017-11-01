@@ -8,7 +8,7 @@
 	<targetUsers>policy makers, learned societies, funders, publishers, repository mangers, research administrators (institutions), libraries, academic community, research community</targetUsers>
 	<userValue>Improved research analytics. Evidence based decision making.</userValue>
 	<userBase>Used by commercial policy advisors to the EC.</userBase>
-	<providers>OpenAIRE consortium, Athena Research and Innovation Center</providers>
+	<providers><provider>openaire</provider></providers>
 	<version>v0.8</version>
 	<lifeCycleStatus>Beta</lifeCycleStatus>
 	<trl>6</trl>

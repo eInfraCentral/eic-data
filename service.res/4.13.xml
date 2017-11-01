@@ -8,7 +8,7 @@
 	<targetUsers>Data providers, Publishers, Institutions, Research Infrastructures, Funders, Researchers</targetUsers>
 	<userValue>Enhancing Linked Open Science. Intelligent and contextualized research</userValue>
 	<userBase>The beta version includes 3.100.000 contributed research objects and 17.000.000 contributed links from 17 organizations.</userBase>
-	<providers>OpenAIRE consortium</providers>
+	<providers><provider>openaire</provider></providers>
 	<version>v1.0</version>
 	<lifeCycleStatus>Beta</lifeCycleStatus>
 	<trl>8</trl>

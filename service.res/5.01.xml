@@ -6,7 +6,7 @@
 	<description>Project Access is the access to PRACE Tier-0 world class high performance computing (HPC) resources for projects, which use codes that have been previously tested and have demonstrated high scalability and optimisation. Preparatory Access is strongly recommended to collect technical data to support the request of resources. Proposals for Project Access must be based on computer codes and data ready to run on the Tier-0 systems. </description>
 	<targetUsers>Scientists and researchers</targetUsers>
 	<userValue>Access to Tier-0 resources</userValue>
-	<providers>PRACE aisbl</providers>
+	<providers><provider>prace</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
 	<category>Compute</category>

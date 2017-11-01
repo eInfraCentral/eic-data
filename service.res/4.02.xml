@@ -8,7 +8,7 @@
 	<targetUsers>Data providers, Publishers, Funders, Institutions, Research Infrastructures, Policy makers, Industry</targetUsers>
 	<userValue>A gateway to open research.Enable intelligent visibilty, access and reusability of resesarch content. Enable third-party service developers to realize services for scholarly communicattion and research analytics.</userValue>
 	<userBase>APIs are accessed on the average 6,000 times every month. The OpenAIRE Scholarly Communication Graph is indexed by two major Library services (EBSCO and ExLibris) and it by the US Dept. of Energy worldwidesience.org site. The standalone version of the Aggregation Service has been deployed in the following national settings: Spain, Poland, Turkey, Argentina.</userBase>
-	<providers>OpenAIRE consortium</providers>
+	<providers><provider>openaire</provider></providers>
 	<version>v2</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>

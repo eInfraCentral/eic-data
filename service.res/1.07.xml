@@ -9,7 +9,7 @@
 	<targetUsers>Any organisation that delivers IT services</targetUsers>
 	<userValue>Increase your expertise in managing IT services, Increase professional profile by a recognized certification.</userValue>
 	<userBase>13 total courses run commercially by EGI, for a total of over 100 certificates released.Following istitutions having received the service: CSC - IT Center for Science, EGI Foundation, EMBL-EBI, German Climate Computing Centre (DKRZ), i2CAT Foundation, INFN (Bologna, LNF, MIB, Pisa, Rome1, Rome2, Torino), Jisc, Karlsruhe Institute of Technology, Karolinska Institutet, KTH - Royal Institute of Technology, NSC, Pure Purpose, LLC, STFC, SURFnet, SURFsara, Terradue (IT Srl, UK Ltd)</userBase>
-	<providers>EGI Foundation</providers>
+	<providers><provider>egi</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
 	<category>Training</category>

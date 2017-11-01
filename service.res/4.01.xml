@@ -8,7 +8,7 @@
 	<targetUsers>Academic community, Research Community, policy makers, funders, research libraries, educators, industry, citizen scientists/public.</targetUsers>
 	<userValue>Enable intelligent and contextualized research discovery.Connect public to open access research in Europe and beyond.</userValue>
 	<userBase>9,200 registered users. 50,000 users use the service on the average every month. </userBase>
-	<providers>OpenAIRE consortium</providers>
+	<providers><provider>openaire</provider></providers>
 	<version>v3</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>

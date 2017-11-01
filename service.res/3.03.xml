@@ -8,7 +8,7 @@
 	<options>Unprotected or restored using GMPLS (Generalised Multiprotocol Label Switching) signalling. </options>
 	<targetUsers>NRENs</targetUsers>
 	<userValue>Ideally suited to major international projects, Point-to-Point services offer a high performance networking solution.</userValue>
-	<providers>GÉANT</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Connectivity</category>
 	<relatedServices>GÉANT Plus</relatedServices>

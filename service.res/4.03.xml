@@ -8,7 +8,7 @@
 	<targetUsers>As an OpenAIRE installed service: Data/content providers (OA publishers, research libraries, institution CRIS managers, National data services/aggregators, Thematic aggregators). As a standalone deployment at national and regional aggregators, Research Infrastructures</targetUsers>
 	<userValue>Increased interoperability. Better visibility.National, regional aggregators: compliance to local guidelines. OpenAIRE Data providers: Compliance to OpenAIRE guidelines. More visibility of their content. Better linking to other communities.</userValue>
 	<userBase>OpenAIRE deployment: 890 data providers have used the service before they register to OpenAIRE. They use it for continuous validations or updates to new versions of the guidelines. An average of 400 monthly visitors/validations.The Validation service has been deployed also for National and Regional Aggregators like La Referencia (Latin America, 11 countries), Fecyt (Spain), Mincyt (Argentina).</userBase>
-	<providers>OpenAIRE consortium</providers>
+	<providers><provider>openaire</provider></providers>
 	<version>v2.1</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>

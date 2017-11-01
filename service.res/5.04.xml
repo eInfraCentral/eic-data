@@ -6,7 +6,7 @@
 	<description>Enable applications for project access, users in porting, scaling and optimising their applications to fully exploit the capabilities of PRACE systems.</description>
 	<targetUsers>Scientists and researchers</targetUsers>
 	<userValue>Application Enabling</userValue>
-	<providers>Hosting Sites (HLST) and PRACE-IP projects</providers>
+	<providers><provider>prace</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
 	<category>Consulting</category>

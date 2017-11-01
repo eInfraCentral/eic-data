@@ -8,7 +8,7 @@
 	<options>Standard</options>
 	<targetUsers>Individual researchers; community data manager</targetUsers>
 	<userValue>For the individuals researchers who need to synchronise and exchange data with one or multiple users, B2DROP Service is a customer-facing solution to store and exchange data with colleagues and team members.</userValue>
-	<providers>JSC</providers>
+	<providers><provider>eudat</provider></providers>
 	<version>11</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Data storage</category>

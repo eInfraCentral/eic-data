@@ -6,7 +6,7 @@
 	<tagline>High-quality training for computer security teams.</tagline>
 	<description>TRANSITS provides affordable, high-quality training to both new and experienced computer security incident response team (CSIRT) personnel, as well as individuals with a bona-fide interest in establishing a CSIRT. There are two types of training course: TRANSITS-I for new recruits, and TRANSITS-II for more experienced personnel. GÉANT runs regular training courses within Europe on a cost recovery basis, with financial support from ENISA, the European Union agency for network and information security. The TRANSITS-I course materials may also be licensed to those wishing to organise their own courses.</description>
 	<targetUsers>NRENs, Identity Federations, Campus Security Teams, Third Parties</targetUsers>
-	<providers>GÉANT</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Security</category>
 	<subcategory>Security, Trust and Identity</subcategory>

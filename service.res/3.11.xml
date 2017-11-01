@@ -7,7 +7,7 @@
 	<description>GÉANT's Trusted Certificate Service is provided by DigiCert, is one of the largest worldwide Certification Authorities (CA). TCS takes advantage of a bulk purchasing arrangement whereby participating national research and education networking organisations (NRENs) may issue close to unlimited numbers of certificates provided by a commercial organisation at a significantly reduced price.</description>
 	<targetUsers>NRENs</targetUsers>
 	<userValue>The five main types of certificates available are: ​SSL certificates – for authenticating servers and establishing secure sessions with end clients. Grid certificates – for authenticating Grid hosts and services (IGTF compliant). Client certificates – for identifying individual users and securing email communications. Code signing certificates – for authenticating software distributed over the internet. Document signing certificates – for authenticating d​ocuments from Adobe PDF, Microsoft Office, OpenOffice, and LibreOffice.</userValue>
-	<providers>GÉANT</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Security</category>
 	<subcategory>Security, Trust and Identity</subcategory>

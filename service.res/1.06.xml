@@ -8,7 +8,7 @@
 	<targetUsers>Research organisations, SME/Industry, Researchers, Innovators</targetUsers>
 	<userValue>Easily move your research data</userValue>
 	<userBase>Virtual organisations: CMS, ATLAS, LHCb, ALICE</userBase>
-	<providers>EGI Foundation (via EGI resource providers)</providers>
+	<providers><provider>egi</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
 	<category>Storage and Data</category>

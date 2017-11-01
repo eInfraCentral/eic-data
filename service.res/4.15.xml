@@ -8,7 +8,7 @@
 	<targetUsers>funders, policy makers</targetUsers>
 	<userValue>Improved, seamless funding monitoring and impact assessment.Funders have access to free, advanced monitoring tools to track their research outputs, produce publications reports, track projects results, funder stats and claiming of links between projects and scholarly objects.</userValue>
 	<userBase>The EC is using the current mechanism for monitoring the open access policy. Other European national funders are currently using this as well (FCT-PT, NOW-NL).</userBase>
-	<providers>OpenAIRE consortium</providers>
+	<providers><provider>openaire</provider></providers>
 	<version>v3.0</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>6</trl>

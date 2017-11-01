@@ -8,7 +8,7 @@
 	<targetUsers>Researchers, research communities, project coordinators/principal investigators</targetUsers>
 	<userValue>Enables everyone to participate in Open Science.</userValue>
 	<userBase>Used by researchers and communities all over the world.</userBase>
-	<providers>CERN</providers>
+	<providers><provider>openaire</provider></providers>
 	<version>v2.0</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>

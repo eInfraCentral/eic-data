@@ -6,7 +6,7 @@
 	<tagline>PRACE Massive Open Online Courses</tagline>
 	<description>PRACE Massive Open Online Courses. The agreement between PRACE and the Massive Open Online Course (MOOC) platform FutureLearn has been signed. PRACE will be moving forward in the development of the PRACE MOOCs with the assistance of FutureLearn’s representatives.</description>
 	<targetUsers>Scientists and researchers</targetUsers>
-	<providers>PRACE-IP projects and PRACE aisbl</providers>
+	<providers><provider>prace</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
 	<category>Training</category>

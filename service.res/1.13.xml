@@ -8,7 +8,7 @@
 	<targetUsers>Research organisations, SME/Industry, Researchers, Innovators</targetUsers>
 	<userValue>Easy and efficient access to selected large-scale datasets.</userValue>
 	<userBase>Virtual organisations: ICOS, CMS, CTA, EuroBioImaging, Molecular Dynamics Simulations, LBT, eCulture, ELIXIR-ITA, EMSO, Earth Observation pilot: RHEA, SixSq, EOProc, CWA, AWS, CESNET and Cyfronet</userBase>
-	<providers>EGI Foundation (via EGI resource providers)</providers>
+	<providers><provider>egi</provider></providers>
 	<lifeCycleStatus>Alpha</lifeCycleStatus>
 	<trl>7</trl>
 	<category>Storage and Data</category>

@@ -7,7 +7,7 @@
 	<targetUsers>Project Coordinators, Funders, Research Administrators, Managers and Officers, Researchers, Repository managers, Open Access Publishers, CRIS, National Aggregators, Research infrastructures, e-Infrastructures, Citizen scientists</targetUsers>
 	<userValue>Open Science enabler. Open science training provides user groups and customers with the latest information about developments in open access, open data and open science. It communicates basic principles, recent developments and innovations, provides how to guides to different stakeholders and helps them to develop the necessary skills. And supports open science implementation across European research Institutions and individuals. </userValue>
 	<userBase>Large attendance in webinars and training workshops</userBase>
-	<providers>OpenAIRE consortium, National Open Access Desks (NOADs)</providers>
+	<providers><provider>openaire</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Training</category>
 	<relatedServices>All OpenAIRE services</relatedServices>

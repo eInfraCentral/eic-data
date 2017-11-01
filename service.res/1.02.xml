@@ -8,7 +8,7 @@
 	<targetUsers>Research organisations, SME/Industry, Researchers, Innovators</targetUsers>
 	<userValue>Manage your Cloud Compute resources in a flexible way with integrated monitoring and accounting capabilities</userValue>
 	<userBase>Virtual organisations: ATLAS, CMS, biomed, chipster.csc.fi, d4science.org, enmr.eu, extras, peachnote, DARIAH, EMSODEV, NBIS</userBase>
-	<providers>EGI Foundation (via EGI resource providers)</providers>
+	<providers><provider>egi</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
 	<category>Compute</category>

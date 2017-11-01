@@ -8,7 +8,7 @@
 	<targetUsers>all scholarly communication stakeholders</targetUsers>
 	<userValue>Improved linked open science.Improved research analytics.Improved research monitoring and impact assessmentCustomers get structured metadata related to the publications. Funders have access to a list of publications that acknowledge their projects. Research may link their research results. Data providers (Repository managers/ OA publishers) may enrich their content.</userValue>
 	<userBase>The EC is using the current mechanism for monitoring the open access policy. </userBase>
-	<providers>OpenAIRE consortium</providers>
+	<providers><provider>openaire</provider></providers>
 	<version>v1.0</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>

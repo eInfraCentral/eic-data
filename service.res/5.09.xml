@@ -6,7 +6,7 @@
 	<tagline>PRACE Advanced Training Centres</tagline>
 	<description>Τhe PRACE Advanced Training Centres (PATCs) provide top-class education and training opportunities for computational scientists in Europe and are the primary source for PRACE training portal materials.</description>
 	<targetUsers>Scientists and researchers</targetUsers>
-	<providers>Six PRACE members sites: Barcelona Supercomputing Center (Spain), CINECA – Consorzio Interuniversitario (Italy), CSC – IT Center for Science Ltd (Finland), EPCC at the University of Edinburgh (UK), Gauss Centre for Supercomputing (Germany) and Maison de la Simulation (France) are the first PRACE Advanced Training Centres.</providers>
+	<providers><provider>prace</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
 	<category>Training</category>

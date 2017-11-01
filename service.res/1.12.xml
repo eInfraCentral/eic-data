@@ -8,7 +8,7 @@
 	<targetUsers>Research organisations, SME/Industry, Researchers, Innovators</targetUsers>
 	<userValue>Retain communities and attract new communities into the dirac.egi.eu  service, provide more flexible VRE simplifying access to EGI resources and accelerate the ability of researches to undertake excellent science with DIRAC technical innovations, transfer DCI skills and know-how to other medium and big communities and resource providers in the context of EGI.</userValue>
 	<userBase>Virtual organisations: ENWR, VLMED, EISCAT, compchem</userBase>
-	<providers>EGI Foundation (via EGI resource providers)</providers>
+	<providers><provider>egi</provider></providers>
 	<lifeCycleStatus>Alpha </lifeCycleStatus>
 	<trl>7</trl>
 	<category>Platform</category>

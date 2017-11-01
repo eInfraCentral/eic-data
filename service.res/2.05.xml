@@ -8,7 +8,7 @@
 	<options>Standard</options>
 	<targetUsers>Individual researchers; community data manager</targetUsers>
 	<userValue>For Communities who need to transfer large data collection from EUDAT CDI to HPC. B2STAGE Service is a customer-facing service that allow high performance transfers in a reliable, fast, easy to use environment.</userValue>
-	<providers>EUDAT CDI consortium</providers>
+	<providers><provider>eudat</provider></providers>
 	<version>1.81</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Data movement</category>

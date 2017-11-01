@@ -7,7 +7,7 @@
 	<description>Many research and education networking organisations, commercial internet service providers, telecommunications operators and governments have established computer security incident response teams (CSIRTs) to deal with network security incidents. Collaboration between trusted teams is very important because incidents often originate from outside the network that is affected. The Trusted Introducer (TI) service forms the backbone of infrastructure services and acts as a clearinghouse for all computer security incident response teams (CSIRTs), building a ‘web of trust’ between CSIRTs by listing known teams, and accrediting and certifying teams according to their demonstrated and checked level of maturity.</description>
 	<targetUsers>NRENs, Identity Federations, Campus Security Teams, Third Parties</targetUsers>
 	<userValue>Accredited and certified CSIRTs can participate in closed meetings where they hear sensitive and confidential information about incidents and threats. TI also provides them with vital members-only services that enable the teams to interact more efficiently and effectively.</userValue>
-	<providers>PRESECURE GmbH under contract with GÉANT</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Security</category>
 	<subcategory>Security, Trust and Identity</subcategory>

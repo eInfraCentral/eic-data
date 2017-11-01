@@ -7,7 +7,7 @@
 	<description>eduGAIN is a fast-growing initiative that interconnects research and education identity federations around the world. It enables the trustworthy exchange of information between service providers and research and education institutions or other identity providers. This means simpler access to a wider range of online content, services and other resources that benefit collaboration in the research and education community.</description>
 	<targetUsers>NRENs, Identity Federations</targetUsers>
 	<userValue>eduGAIN: provides access to all the online services that students, researchers and educators need while minimising the number of accounts users and service providers have to manage - reducing costs, complexity and security risks; gives service providers access to a larger pool of users internationally, and allows users to access resources of peer institutions or commercial or cloud services using their one trusted identity. With eduGAIN participants from more than 1,500 identity providers accessing services from 1,000 service providers, eduGAIN has fast become the primary mechanism to interfederate for research and education collaboration around the world.</userValue>
-	<providers>GÉANT</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Security</category>
 	<subcategory>Security, Trust and Identity</subcategory>

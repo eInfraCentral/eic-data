@@ -7,7 +7,7 @@
 	<description>L3-VPNs are ideal for many-to-many (peer-to-peer) or one-to-many (central-site-to-satellite) environments, where each site can be allocated bandwidth according to its own requirements. Each site can support bandwidths from 155Mbps to 100Gbps (subject to availability).​ This service allocates unique VLAN (virtual local area network) identifiers to each L3-VPN to ensure data isolation across the GÉANT network, giving assured performance and secur​​ity. The GÉANT L3-VPN service provides NRENs with the backbone infrastructure to enable custom VPN services for their users across the GÉANT backbone.</description>
 	<targetUsers>NRENs </targetUsers>
 	<userValue>VPNs are ideal for many-to-many (pee​r-to-peer) or one-to-many (central-site-to-satellite) environments, where each site can be allocated bandwidth according to its own requirements. Each site can support bandwidths from 155Mbps to 100Gbps (subject to availability).</userValue>
-	<providers>GÉANT</providers>
+	<providers><provider>geant</provider></providers>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Connectivity</category>
 	<relatedServices>GÉANT MDVPN</relatedServices>

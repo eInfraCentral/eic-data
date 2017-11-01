@@ -8,7 +8,7 @@
 	<options>Standard</options>
 	<targetUsers>Service provider; community data manager</targetUsers>
 	<userValue>For EUDAT service users and EUDAT service providers who need a single login for EUDAT. B2ACCESS service is a customer facing services provides a federates access to the B2 services in a trusted way.</userValue>
-	<providers>JSC</providers>
+	<providers><provider>eudat</provider></providers>
 	<version>1</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Authentication and Authorization Infrastructure</category>

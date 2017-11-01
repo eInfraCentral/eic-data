@@ -8,7 +8,7 @@
 	<options>Standard; with-DPM</options>
 	<targetUsers>Community data manager; service provider</targetUsers>
 	<userValue>For the communities who need to guard against data loss, B2SAFE is a customer facing service that allow data replication and safe storage between geographically distributed centres in the EUDAT CDI.</userValue>
-	<providers>EUDAT CDI consortium</providers>
+	<providers><provider>eudat</provider></providers>
 	<version>3.1.2</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Data storage</category>

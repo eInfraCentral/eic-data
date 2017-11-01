@@ -8,7 +8,7 @@
 	<targetUsers>institutional and thematic repositories, data repositories, data archives, CRIS, journal platforms</targetUsers>
 	<userValue>Enhanced interoperability.Provide content (metadata and fulltext) in a consistent, complete and interoperable way</userValue>
 	<userBase>Followed in Europe by 900+ data providers (different compatibility levels). Adoption in Latin America (LaReferencia), Mexico, Japan for regional/national infrastructures.</userBase>
-	<providers>OpenAIRE consortium</providers>
+	<providers><provider>openaire</provider></providers>
 	<version>v3.0</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<category>Interoperability</category>
