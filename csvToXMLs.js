@@ -10,7 +10,6 @@ let fields = ["id", "url", "name", "tagline", "description", "options", "targetU
     "trainingInformation", "feedback", "price", "serviceLevelAgreement", "termsOfUse", "funding", "serviceAddenda"];
 let services = [];
 let field = 0;
-
 function toXML(obj) {
     let ret = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<service xmlns=\"http://einfracentral.eu\">\n";
     for (let i in obj) {
@@ -34,5 +33,4 @@ function writeOut() {
         fs.writeFileSync(util.format("%s/%s.xml", subdir, services[s].id), toXML(services[s]), "utf8");
     }
 }
-
 require("readline").createInterface({input: fs.createReadStream("services.csv")}).on("line", insert).on("close", writeOut);
