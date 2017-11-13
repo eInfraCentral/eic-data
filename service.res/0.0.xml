@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ns0:service xmlns:ns0="http://einfracentral.eu">
-    <ns0:id>00.00</ns0:id>
-    <ns0:url>http://beta.einfracentral.eu/</ns0:url>
-    <ns0:name>e Infra Central</ns0:name>
-    <ns0:tagline>Your Gateway for European E-Infrastructures</ns0:tagline>
-    <ns0:description>A service catalogue for the modern hipster</ns0:description>
-    <ns0:options>??? just click on things</ns0:options>
-    <ns0:targetUsers>Researchers</ns0:targetUsers>
-    <ns0:userValue>Fast access to service information</ns0:userValue>
-    <ns0:userBase>Researchers</ns0:userBase>
-    <ns0:symbol>http://beta.einfracentral.eu/imgs/einfracentral_logo_vertical.png</ns0:symbol>
-    <ns0:multimediaURL>http://einfracentral.eu/basic-page/mock-ups</ns0:multimediaURL>
-    <ns0:providers>
-        <ns0:provider>eic</ns0:provider>
-    </ns0:providers>
-    <ns0:version>1</ns0:version>
-    <ns0:lastUpdate>2017-12-25</ns0:lastUpdate>
-    <ns0:changeLog>Check it out at https://github.com/eInfraCentral/</ns0:changeLog>
-    <ns0:validFor>2020-01-01</ns0:validFor>
-    <ns0:lifeCycleStatus>Alpha</ns0:lifeCycleStatus>
-    <ns0:trl>7</ns0:trl>
-    <ns0:category>Category_Repository</ns0:category>
-    <ns0:subcategory>Subcategory_enabling_platform</ns0:subcategory>
-    <ns0:places>
-        <ns0:place>Country_GR</ns0:place>
-    </ns0:places>
-    <ns0:languages>
-        <ns0:language>Language_el</ns0:language>
-    </ns0:languages>
-    <ns0:tags>
-        <ns0:tag>meta</ns0:tag>
-    </ns0:tags>
-    <ns0:relatedServices>
-        <ns0:relatedService>1.2</ns0:relatedService>
-    </ns0:relatedServices>
-    <ns0:request>http://beta.einfracentral.eu/signUp</ns0:request>
-    <ns0:helpdesk>http://einfracentral.eu/contact</ns0:helpdesk>
-    <ns0:userManual>http://beta.einfracentral.eu/support/faqs</ns0:userManual>
-    <ns0:trainingInformation>http://beta.einfracentral.eu/</ns0:trainingInformation>
-    <ns0:feedback>http://einfracentral.eu/contact</ns0:feedback>
-    <ns0:price>http://einfracentral.eu/</ns0:price>
-    <ns0:serviceLevelAgreement>http://einfracentral.eu/</ns0:serviceLevelAgreement>
-    <ns0:termsOfUse>
-        <ns0:termOfUse>http://einfracentral.eu/sites/default/files/Privacy%20Policy_Website_eInfraCentral_V0.pdf
-        </ns0:termOfUse>
-    </ns0:termsOfUse>
-    <ns0:funding>Horizon 2020</ns0:funding>
-</ns0:service>
+<service xmlns="http://einfracentral.eu">
+    <id>00.00</id>
+    <url>http://beta.einfracentral.eu/</url>
+    <name>e Infra Central</name>
+    <tagline>Your Gateway for European E-Infrastructures</tagline>
+    <description>A service catalogue for the modern hipster</description>
+    <options>??? just click on things</options>
+    <targetUsers>Researchers</targetUsers>
+    <userValue>Fast access to service information</userValue>
+    <userBase>Researchers</userBase>
+    <symbol>http://beta.einfracentral.eu/imgs/einfracentral_logo_vertical.png</symbol>
+    <multimediaURL>http://einfracentral.eu/basic-page/mock-ups</multimediaURL>
+    <providers>
+        <provider>eic</provider>
+    </providers>
+    <version>1</version>
+    <lastUpdate>2017-12-25</lastUpdate>
+    <changeLog>Check it out at https://github.com/eInfraCentral/</changeLog>
+    <validFor>2020-01-01</validFor>
+    <lifeCycleStatus>Alpha</lifeCycleStatus>
+    <trl>7</trl>
+    <category>Category_Repository</category>
+    <subcategory>Subcategory_enabling_platform</subcategory>
+    <places>
+        <place>Country_GR</place>
+    </places>
+    <languages>
+        <language>Language_el</language>
+    </languages>
+    <tags>
+        <tag>meta</tag>
+    </tags>
+    <relatedServices>
+        <relatedService>1.2</relatedService>
+    </relatedServices>
+    <request>http://beta.einfracentral.eu/signUp</request>
+    <helpdesk>http://einfracentral.eu/contact</helpdesk>
+    <userManual>http://beta.einfracentral.eu/support/faqs</userManual>
+    <trainingInformation>http://beta.einfracentral.eu/</trainingInformation>
+    <feedback>http://einfracentral.eu/contact</feedback>
+    <price>http://einfracentral.eu/</price>
+    <serviceLevelAgreement>http://einfracentral.eu/</serviceLevelAgreement>
+    <termsOfUse>
+        <termOfUse>http://einfracentral.eu/sites/default/files/Privacy%20Policy_Website_eInfraCentral_V0.pdf
+        </termOfUse>
+    </termsOfUse>
+    <funding>Horizon 2020</funding>
+</service>
