@@ -1,8 +1,9 @@
 /**
  * Created by pgl on 31/10/17.
  */
+let infile = "../raw/services.csv";
+let outdir = "../transformed/service.res";
 let fs = require("fs");
-let subdir = "./service.res";
 let util = require("util");
 let fields = ["id", "url", "name", "tagline", "description", "options", "targetUsers", "userValue", "userBase", "symbol",
     "multimediaURL", "providers", "version", "lastUpdate", "changeLog", "validFor", "lifeCycleStatus", "trl", "category",
@@ -30,7 +31,7 @@ function insert(line) {
 }
 function writeOut() {
     for (let s in services) {
-        fs.writeFileSync(util.format("%s/%s.xml", subdir, services[s].id), toXML(services[s]), "utf8");
+        fs.writeFileSync(util.format("%s/%s.xml", outdir, services[s].id), toXML(services[s]), "utf8");
     }
 }
-require("readline").createInterface({input: fs.createReadStream("services.csv")}).on("line", insert).on("close", writeOut);
+require("readline").createInterface({input: fs.createReadStream(infile)}).on("line", insert).on("close", writeOut);
