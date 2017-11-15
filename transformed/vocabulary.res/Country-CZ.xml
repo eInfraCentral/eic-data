@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Country_CZ</id>
+	<id>CZ</id>
 	<name>Czech Republic</name>
 	<type>Country</type>
 </vocabulary>

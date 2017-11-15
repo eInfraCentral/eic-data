@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Language_km</id>
+	<id>km</id>
 	<name>Khmer</name>
 	<type>Language</type>
 </vocabulary>

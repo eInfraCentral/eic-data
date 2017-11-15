@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Subcategory_workload_and_data_manager</id>
+	<id>workload_and_data_manager</id>
 	<name>workload and data manager</name>
 	<type>Subcategory</type>
 </vocabulary>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Category_Data_registration</id>
+	<id>Data_registration</id>
 	<name>Data registration</name>
 	<type>Category</type>
 </vocabulary>

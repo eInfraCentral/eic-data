@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Country_BV</id>
+	<id>BV</id>
 	<name>Bouvet Island</name>
 	<type>Country</type>
 </vocabulary>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Language_ts</id>
+	<id>ts</id>
 	<name>Tsonga</name>
 	<type>Language</type>
 </vocabulary>

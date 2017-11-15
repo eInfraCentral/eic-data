@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>TechnologyReadinessLevel_7</id>
+	<id>7</id>
 	<name>Operational prototype demonstration</name>
 	<type>TechnologyReadinessLevel</type>
 </vocabulary>

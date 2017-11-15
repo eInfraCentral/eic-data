@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Country_BE</id>
+	<id>BE</id>
 	<name>Belgium</name>
 	<type>Country</type>
 </vocabulary>

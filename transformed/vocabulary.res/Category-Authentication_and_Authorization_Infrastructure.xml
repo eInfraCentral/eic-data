@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Category_Authentication_and_Authorization_Infrastructure</id>
+	<id>Authentication_and_Authorization_Infrastructure</id>
 	<name>Authentication and Authorization Infrastructure</name>
 	<type>Category</type>
 </vocabulary>

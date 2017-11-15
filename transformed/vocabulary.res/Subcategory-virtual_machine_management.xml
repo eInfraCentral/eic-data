@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Subcategory_virtual_machine_management</id>
+	<id>virtual_machine_management</id>
 	<name>virtual machine management</name>
 	<type>Subcategory</type>
 </vocabulary>

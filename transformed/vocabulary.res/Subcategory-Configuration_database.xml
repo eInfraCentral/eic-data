@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Subcategory_Configuration_database</id>
+	<id>Configuration_database</id>
 	<name>Configuration database</name>
 	<type>Subcategory</type>
 </vocabulary>

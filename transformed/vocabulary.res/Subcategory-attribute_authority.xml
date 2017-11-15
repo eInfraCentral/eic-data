@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Subcategory_attribute_authority</id>
+	<id>attribute_authority</id>
 	<name>attribute authority</name>
 	<type>Subcategory</type>
 </vocabulary>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Subcategory_data_linking</id>
+	<id>data_linking</id>
 	<name>data linking</name>
 	<type>Subcategory</type>
 </vocabulary>

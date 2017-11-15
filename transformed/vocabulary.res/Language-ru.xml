@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Language_ru</id>
+	<id>ru</id>
 	<name>Russian</name>
 	<type>Language</type>
 </vocabulary>
