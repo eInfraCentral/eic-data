@@ -245,6 +245,10 @@
   ],
   "Country": [
     {
+      "id": "EU",
+      "name": "Europe"
+    },
+    {
       "id": "AF",
       "name": "Afghanistan"
     },
