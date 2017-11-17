@@ -232,15 +232,15 @@
   "TechnologyReadinessLevel": [
     {
       "id": "7",
-      "name": "Operational prototype demonstration"
+      "name": "TRL7 - Operational prototype demonstration"
     },
     {
       "id": "8",
-      "name": "Qualified through test and demonstration"
+      "name": "TRL8 - Qualified through test and demonstration"
     },
     {
       "id": "9",
-      "name": "Proven through successful operations"
+      "name": "TRL9 - Proven through successful operations"
     }
   ],
   "Country": [
