@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Language_mh</id>
+	<id>mh</id>
 	<name>Marshallese</name>
 	<type>Language</type>
 </vocabulary>

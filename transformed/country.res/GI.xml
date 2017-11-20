@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Country_GI</id>
+	<id>GI</id>
 	<name>Gibraltar</name>
 	<type>Country</type>
 </vocabulary>

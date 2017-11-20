@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Country_OM</id>
+	<id>OM</id>
 	<name>Oman</name>
 	<type>Country</type>
 </vocabulary>

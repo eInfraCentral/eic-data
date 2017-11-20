@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Country_TG</id>
+	<id>TG</id>
 	<name>Togo</name>
 	<type>Country</type>
 </vocabulary>

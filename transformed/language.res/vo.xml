@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Language_vo</id>
+	<id>vo</id>
 	<name>Volapük</name>
 	<type>Language</type>
 </vocabulary>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Country_ZA</id>
+	<id>ZA</id>
 	<name>South Africa</name>
 	<type>Country</type>
 </vocabulary>

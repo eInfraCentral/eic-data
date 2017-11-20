@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>TechnologyReadinessLevel_8</id>
+	<id>8</id>
 	<name>TRL8 - Qualified through test and demonstration</name>
 	<type>TechnologyReadinessLevel</type>
 </vocabulary>

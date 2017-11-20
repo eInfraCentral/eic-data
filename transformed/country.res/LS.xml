@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Country_LS</id>
+	<id>LS</id>
 	<name>Lesotho</name>
 	<type>Country</type>
 </vocabulary>
