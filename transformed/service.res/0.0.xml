@@ -20,13 +20,13 @@
     <validFor>2020-01-01</validFor>
     <lifeCycleStatus>Alpha</lifeCycleStatus>
     <trl>7</trl>
-    <category>Category_Repository</category>
-    <subcategory>Subcategory_enabling_platform</subcategory>
+    <category>Repository</category>
+    <subcategory>enabling platform</subcategory>
     <places>
-        <place>Country_GR</place>
+        <place>GR</place>
     </places>
     <languages>
-        <language>Language_el</language>
+        <language>el</language>
     </languages>
     <tags>
         <tag>meta</tag>
