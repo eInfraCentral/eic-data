@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Data Management</id>
-	<name>Data Management</name>
+	<id>Applications repository</id>
+	<name>Applications repository</name>
 	<type>Subcategory</type>
 </vocabulary>

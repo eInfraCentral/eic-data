@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>data transfer</id>
-	<name>data transfer</name>
+	<id>Virtual machine management</id>
+	<name>Virtual machine management</name>
 	<type>Subcategory</type>
 </vocabulary>

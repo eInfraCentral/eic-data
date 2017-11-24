@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>object storage</id>
-	<name>object storage</name>
+	<id>Workload and data manager</id>
+	<name>Workload and data manager</name>
 	<type>Subcategory</type>
 </vocabulary>

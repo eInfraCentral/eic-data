@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>virtual machine management</id>
-	<name>virtual machine management</name>
+	<id>Object storage</id>
+	<name>Object storage</name>
 	<type>Subcategory</type>
 </vocabulary>
