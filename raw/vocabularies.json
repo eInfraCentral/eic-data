@@ -19,6 +19,10 @@
       "name": "Accounting"
     },
     {
+      "id": "Applications",
+      "name": "Applications"
+    },
+    {
       "id": "Applications repository",
       "name": "Applications repository"
     },
@@ -29,6 +33,10 @@
     {
       "id": "Authentication proxy",
       "name": "Authentication proxy"
+    },
+    {
+      "id": "Catalogue",
+      "name": "Catalogue"
     },
     {
       "id": "Cold storage",
