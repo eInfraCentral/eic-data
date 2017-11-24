@@ -201,6 +201,10 @@
       "name": "Europe"
     },
     {
+      "id": "WW",
+      "name": "World"
+    },
+    {
       "id": "AF",
       "name": "Afghanistan"
     },
