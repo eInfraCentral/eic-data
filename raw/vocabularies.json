@@ -15,190 +15,90 @@
   ],
   "Subcategory": [
     {
-      "id": "Αccounting",
-      "name": "Αccounting"
+      "id": "Accounting",
+      "name": "Accounting"
     },
     {
-      "id": "Αpplications repository",
-      "name": "Αpplications repository"
+      "id": "Applications repository",
+      "name": "Applications repository"
     },
     {
-      "id": "Cold storage",
-      "name": "Cold storage"
-    },
-    {
-      "id": "attribute authority",
-      "name": "attribute authority"
+      "id": "Attribute authority",
+      "name": "Attribute authority"
     },
     {
       "id": "Authentication proxy",
       "name": "Authentication proxy"
     },
     {
-      "id": "virtual machine management",
-      "name": "virtual machine management"
-    },
-    {
-      "id": "Container management",
-      "name": "Container management"
+      "id": "Cold storage",
+      "name": "Cold storage"
     },
     {
       "id": "Configuration database",
       "name": "Configuration database"
     },
     {
-      "id": "data transfer",
-      "name": "data transfer"
+      "id": "Container management",
+      "name": "Container management"
     },
     {
-      "id": "Data Management",
-      "name": "Data Management"
+      "id": "Data linking",
+      "name": "Data linking"
     },
     {
-      "id": "workload and data manager",
-      "name": "workload and data manager"
+      "id": "Data management",
+      "name": "Data management"
+    },
+    {
+      "id": "Data transfer",
+      "name": "Data transfer"
+    },
+    {
+      "id": "Enabling platform",
+      "name": "Enabling platform"
     },
     {
       "id": "Face-to-face training",
       "name": "Face-to-face training"
     },
     {
-      "id": "Ηelpdesk",
-      "name": "Ηelpdesk"
+      "id": "Helpdesk",
+      "name": "Helpdesk"
     },
     {
-      "id": "job execution",
-      "name": "job execution"
+      "id": "Job execution",
+      "name": "Job execution"
     },
     {
-      "id": "object storage",
-      "name": "object storage"
+      "id": "Monitoring",
+      "name": "Monitoring"
     },
     {
-      "id": "monitoring",
-      "name": "monitoring"
+      "id": "Object storage",
+      "name": "Object storage"
     },
     {
-      "id": "enabling platform",
-      "name": "enabling platform"
+      "id": "Security, trust and identity",
+      "name": "Security, trust and identity"
     },
     {
       "id": "Software repository",
       "name": "Software repository"
     },
     {
-      "id": "Security, Trust and Identity",
-      "name": "Security, Trust and Identity"
+      "id": "Virtual machine management",
+      "name": "Virtual machine management"
     },
     {
-      "id": "Security, Trust and Identity",
-      "name": "Security, Trust and Identity"
-    },
-    {
-      "id": "Security, Trust and Identity",
-      "name": "Security, Trust and Identity"
-    },
-    {
-      "id": "Security, Trust and Identity",
-      "name": "Security, Trust and Identity"
-    },
-    {
-      "id": "Security, Trust and Identity",
-      "name": "Security, Trust and Identity"
-    },
-    {
-      "id": "Security, Trust and Identity",
-      "name": "Security, Trust and Identity"
-    },
-    {
-      "id": "Publishing",
-      "name": "Publishing"
-    },
-    {
-      "id": "data linking",
-      "name": "data linking"
-    },
-    {
-      "id": "Monitor and analysis",
-      "name": "Monitor and analysis"
-    },
-    {
-      "id": "Monitor and analysis",
-      "name": "Monitor and analysis"
-    },
-    {
-      "id": "Connectivity",
-      "name": "Connectivity"
-    },
-    {
-      "id": "Content delivery",
-      "name": "Content delivery"
-    },
-    {
-      "id": "Monitor and analysis",
-      "name": "Monitor and analysis"
+      "id": "Workload and data manager",
+      "name": "Workload and data manager"
     }
   ],
   "Category": [
     {
-      "id": "Text Mining, Data Mining, Information Extraction",
-      "name": "Text Mining, Data Mining, Information Extraction"
-    },
-    {
-      "id": "Storage and Data",
-      "name": "Storage and Data"
-    },
-    {
-      "id": "Platform",
-      "name": "Platform"
-    },
-    {
-      "id": "Monitor and analysis",
-      "name": "Monitor and analysis"
-    },
-    {
-      "id": "Data storage",
-      "name": "Data storage"
-    },
-    {
-      "id": "Security",
-      "name": "Security"
-    },
-    {
-      "id": "Interoperability",
-      "name": "Interoperability"
-    },
-    {
-      "id": "Research Projects",
-      "name": "Research Projects"
-    },
-    {
-      "id": "Training",
-      "name": "Training"
-    },
-    {
-      "id": "Data connectivity",
-      "name": "Data connectivity"
-    },
-    {
-      "id": "Data discovery",
-      "name": "Data discovery"
-    },
-    {
-      "id": "Data registration",
-      "name": "Data registration"
-    },
-    {
-      "id": "Repository",
-      "name": "Repository"
-    },
-    {
-      "id": "Publishing",
-      "name": "Publishing"
-    },
-    {
-      "id": "Network Performance",
-      "name": "Network Performance"
+      "id": "Authentication and authorization infrastructure",
+      "name": "Authentication and authorization infrastructure"
     },
     {
       "id": "Compute",
@@ -209,24 +109,76 @@
       "name": "Consulting"
     },
     {
+      "id": "Content delivery",
+      "name": "Content delivery"
+    },
+    {
+      "id": "Data connectivity",
+      "name": "Data connectivity"
+    },
+    {
+      "id": "Data discovery",
+      "name": "Data discovery"
+    },
+    {
       "id": "Data movement",
       "name": "Data movement"
     },
     {
-      "id": "Connectivity",
-      "name": "Connectivity"
+      "id": "Data registration",
+      "name": "Data registration"
     },
     {
-      "id": "Content delivery",
-      "name": "Content delivery"
+      "id": "Data storage",
+      "name": "Data storage"
+    },
+    {
+      "id": "Interoperability",
+      "name": "Interoperability"
+    },
+    {
+      "id": "Monitor and analysis",
+      "name": "Monitor and analysis"
+    },
+    {
+      "id": "Network performance",
+      "name": "Network performance"
     },
     {
       "id": "Operations",
       "name": "Operations"
     },
     {
-      "id": "Authentication and Authorization Infrastructure",
-      "name": "Authentication and Authorization Infrastructure"
+      "id": "Platform",
+      "name": "Platform"
+    },
+    {
+      "id": "Publishing",
+      "name": "Publishing"
+    },
+    {
+      "id": "Repository",
+      "name": "Repository"
+    },
+    {
+      "id": "Research projects",
+      "name": "Research projects"
+    },
+    {
+      "id": "Security",
+      "name": "Security"
+    },
+    {
+      "id": "Storage and data",
+      "name": "Storage and data"
+    },
+    {
+      "id": "Text mining, data mining, information extraction",
+      "name": "Text mining, data mining, information extraction"
+    },
+    {
+      "id": "Training",
+      "name": "Training"
     }
   ],
   "TechnologyReadinessLevel": [
