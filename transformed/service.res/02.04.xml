@@ -9,22 +9,19 @@
 	<targetUsers>Individual researchers; community data manager</targetUsers>
 	<userValue>For Communities and other providers of research data who need to publish and give visibility to their metadata and individual researchers who need to search data from everywhere, and see data in the context with an across community approach.</userValue>
 	<userBase>Inappropriate</userBase>
-	<version>DKRZ</version>
-	<lastUpdate>2.2</lastUpdate>
-	<trl>Production</trl>
-	<category>9</category>
-	<subcategory>Data discovery</subcategory>
-	<places>Metadata</places>
-	<languages>?</languages>
-	<tags>English</tags>
-	<requiredServices>Data catalogue</requiredServices>
+	<providers>eudat</providers>
+	<version>2.2</version>
+	<lifeCycleStatus>Production</lifeCycleStatus>
+	<trl>9</trl>
+	<category>Data discovery</category>
+	<subcategory>Metadata</subcategory>
+	<languages>EN</languages>
+	<tags>Data catalogue</tags>
+	<request>http://eudat.eu/support-request?Service=B2FIND</request>
 	<helpdesk>http://eudat.eu/support-request?Service=B2FIND</helpdesk>
-	<userManual>http://eudat.eu/support-request?Service=B2FIND</userManual>
-	<trainingInformation>https://eudat.eu/services/userdoc/b2find</trainingInformation>
-	<feedback>https://eudat.eu/b2find-training-suite</feedback>
-	<price>http://eudat.eu/support-request?Service=B2FIND</price>
-	<serviceLevelAgreement>Free</serviceLevelAgreement>
-	<termsOfUse>Non</termsOfUse>
-	<funding>http://b2find.eudat.eu/legal</funding>
-	<undefined>EU</undefined>
+	<userManual>https://eudat.eu/services/userdoc/b2find</userManual>
+	<trainingInformation>https://eudat.eu/b2find-training-suite</trainingInformation>
+	<feedback>http://eudat.eu/support-request?Service=B2FIND</feedback>
+	<termsOfUse>http://b2find.eudat.eu/legal</termsOfUse>
+	<funding>EU</funding>
 </service>

@@ -9,22 +9,18 @@
 	<targetUsers>Service provider; community data manager</targetUsers>
 	<userValue>B2HANDLE can be used by middleware applications, end-user tools and other service to reliably identify data objects over longer timespans and through changes in object location or ownership. The B2HANDLE service encompasses management of identifier namespaces (Handle prefixes), establishment of policies and business workflows, operation of Handle servers and technical services, and a user-friendly Python library for general interaction with Handle servers and EUDAT-specific extensions. B2HANDLE is mostly transparent to end-users, shielding them from the complexity of infrastructure details. In the background, B2HANDLE operates as a federation and based on policies that aim to ensure high availability of Handle resolution by cross-site mirroring of Handles. B2HANDLE supports a dedicated Handle record structure (a PID profile) for the safe data management within an infrastructure with a given topology. By relying on features of the PID profile, end-users can, for instance, ensure authenticity of objects with checksums and timestamps and account for replicated objects across multiple locations.</userValue>
 	<userBase>Inappropriate</userBase>
-	<version>EUDAT CDI consortium</version>
-	<lastUpdate>1.1</lastUpdate>
-	<trl>Production</trl>
-	<category>9</category>
-	<subcategory>Data registration</subcategory>
-	<places>Persistent identifiers</places>
-	<languages>?</languages>
-	<tags>English</tags>
-	<requiredServices>Handle service</requiredServices>
-	<request>B2SAFE; B2SHARE; B2FIND; B2STAGE</request>
+	<providers>eudat</providers>
+	<version>1.1</version>
+	<lifeCycleStatus>Production</lifeCycleStatus>
+	<trl>9</trl>
+	<category>Data registration</category>
+	<subcategory>Persistent identifiers</subcategory>
+	<languages>EN</languages>
+	<tags>Handle service</tags>
+	<request>http://eudat.eu/support-request?Service=B2HANDLE</request>
 	<helpdesk>http://eudat.eu/support-request?Service=B2HANDLE</helpdesk>
-	<userManual>http://eudat.eu/support-request?Service=B2HANDLE</userManual>
-	<trainingInformation>https://eudat.eu/services/userdoc/b2handle</trainingInformation>
-	<feedback>https://eudat.eu/how-to-manage-persistent-identifiers-b2handle</feedback>
-	<price>http://eudat.eu/support-request?Service=B2HANDLE</price>
-	<serviceLevelAgreement>Free</serviceLevelAgreement>
-	<termsOfUse>In preparation</termsOfUse>
-	<undefined>EU</undefined>
+	<userManual>https://eudat.eu/services/userdoc/b2handle</userManual>
+	<trainingInformation>https://eudat.eu/how-to-manage-persistent-identifiers-b2handle</trainingInformation>
+	<feedback>http://eudat.eu/support-request?Service=B2HANDLE</feedback>
+	<funding>EU</funding>
 </service>

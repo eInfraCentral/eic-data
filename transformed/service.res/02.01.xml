@@ -9,24 +9,19 @@
 	<targetUsers>Community data manager; service provider</targetUsers>
 	<userValue>For the communities who need to guard against data loss, B2SAFE is a customer facing service that allow data replication and safe storage between geographically distributed centres in the EUDAT CDI.</userValue>
 	<userBase>Inappropriate</userBase>
-	<version>EUDAT CDI consortium</version>
-	<lastUpdate>3.1.2</lastUpdate>
-	<trl>Production</trl>
-	<category>9</category>
-	<subcategory>Data storage</subcategory>
-	<places>Replicated storage</places>
-	<languages>?</languages>
-	<tags>English</tags>
-	<requiredServices>Policy-based data management; data replication</requiredServices>
-	<request>B2ACCESS; B2HANDLE</request>
+	<providers>eudat</providers>
+	<version>3.1.2</version>
+	<lifeCycleStatus>Production</lifeCycleStatus>
+	<trl>9</trl>
+	<category>Data storage</category>
+	<subcategory>Replicated storage</subcategory>
+	<languages>EN</languages>
+	<tags>Policy-based data management; data replication</tags>
+	<request>http://eudat.eu/support-request?Service=B2SAFE</request>
 	<helpdesk>http://eudat.eu/support-request?Service=B2SAFE</helpdesk>
-	<userManual>http://eudat.eu/support-request?Service=B2SAFE</userManual>
-	<trainingInformation>https://eudat.eu/services/userdoc/b2safe</trainingInformation>
-	<feedback>https://eudat.eu/b2safe-training-suite</feedback>
-	<price>http://eudat.eu/support-request?Service=B2SAFE</price>
-	<serviceLevelAgreement>Indirect funding</serviceLevelAgreement>
-	<termsOfUse>In preparation</termsOfUse>
-	<funding>http://hdl.handle.net/11304/e43b2e3f-83c5-4e3f-b8b7-18d38d37a6cd</funding>
-	<serviceAddenda>https://b2access.eudat.eu/unitygw/VAADIN/files/data-privacy-statement.html</serviceAddenda>
-	<undefined>EU</undefined>
+	<userManual>https://eudat.eu/services/userdoc/b2safe</userManual>
+	<trainingInformation>https://eudat.eu/b2safe-training-suite</trainingInformation>
+	<feedback>http://eudat.eu/support-request?Service=B2SAFE</feedback>
+	<termsOfUse>http://hdl.handle.net/11304/e43b2e3f-83c5-4e3f-b8b7-18d38d37a6cd</termsOfUse>
+	<funding>EU</funding>
 </service>

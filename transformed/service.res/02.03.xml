@@ -9,22 +9,19 @@
 	<targetUsers>Individual researchers; community data manager</targetUsers>
 	<userValue>For the individuals researchers who need to synchronise and exchange data with one or multiple users, B2DROP Service is a customer-facing solution to store and exchange data with colleagues and team members.</userValue>
 	<userBase>Inappropriate</userBase>
-	<version>JSC</version>
-	<lastUpdate>11</lastUpdate>
-	<trl>Production</trl>
-	<category>9</category>
-	<subcategory>Data storage</subcategory>
-	<places>Synchronised storage</places>
-	<languages>?</languages>
-	<tags>English</tags>
-	<requiredServices>Synchronised storage</requiredServices>
+	<providers>eudat</providers>
+	<version>11</version>
+	<lifeCycleStatus>Production</lifeCycleStatus>
+	<trl>9</trl>
+	<category>Data storage</category>
+	<subcategory>Synchronised storage</subcategory>
+	<languages>EN</languages>
+	<tags>Synchronised storage</tags>
+	<request>http://eudat.eu/support-request?Service=B2DROP</request>
 	<helpdesk>http://eudat.eu/support-request?Service=B2DROP</helpdesk>
-	<userManual>http://eudat.eu/support-request?Service=B2DROP</userManual>
-	<trainingInformation>https://eudat.eu/services/userdoc/b2drop</trainingInformation>
-	<feedback>https://eudat.eu/b2drop-training-suite</feedback>
-	<price>http://eudat.eu/support-request?Service=B2DROP</price>
-	<serviceLevelAgreement>Free</serviceLevelAgreement>
-	<termsOfUse>Non</termsOfUse>
-	<funding>https://b2drop.eudat.eu/themes/b2drop/terms-of-use.html</funding>
-	<undefined>EU</undefined>
+	<userManual>https://eudat.eu/services/userdoc/b2drop</userManual>
+	<trainingInformation>https://eudat.eu/b2drop-training-suite</trainingInformation>
+	<feedback>http://eudat.eu/support-request?Service=B2DROP</feedback>
+	<termsOfUse>https://b2drop.eudat.eu/themes/b2drop/terms-of-use.html</termsOfUse>
+	<funding>EU</funding>
 </service>

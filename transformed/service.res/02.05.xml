@@ -9,22 +9,18 @@
 	<targetUsers>Individual researchers; community data manager</targetUsers>
 	<userValue>For Communities who need to transfer large data collection from EUDAT CDI to HPC. B2STAGE Service is a customer-facing service that allow high performance transfers in a reliable, fast, easy to use environment.</userValue>
 	<userBase>Inappropriate</userBase>
-	<version>EUDAT CDI consortium</version>
-	<lastUpdate>1.81</lastUpdate>
-	<trl>Production</trl>
-	<category>9</category>
+	<providers>eudat</providers>
+	<version>1.81</version>
+	<lifeCycleStatus>Production</lifeCycleStatus>
+	<trl>9</trl>
+	<category>Data movement</category>
 	<subcategory>Data movement</subcategory>
-	<places>Data movement</places>
-	<languages>?</languages>
-	<tags>English</tags>
-	<requiredServices>GridFTP; http</requiredServices>
-	<request>B2SAFE; B2HANDLE</request>
+	<languages>EN</languages>
+	<tags>GridFTP; http</tags>
+	<request>http://eudat.eu/support-request?Service=B2STAGE</request>
 	<helpdesk>http://eudat.eu/support-request?Service=B2STAGE</helpdesk>
-	<userManual>http://eudat.eu/support-request?Service=B2STAGE</userManual>
-	<trainingInformation>https://eudat.eu/services/userdoc/b2stage</trainingInformation>
-	<feedback>https://eudat.eu/b2stage-training-suite</feedback>
-	<price>http://eudat.eu/support-request?Service=B2STAGE</price>
-	<serviceLevelAgreement>Free</serviceLevelAgreement>
-	<termsOfUse>Non</termsOfUse>
-	<undefined>EU</undefined>
+	<userManual>https://eudat.eu/services/userdoc/b2stage</userManual>
+	<trainingInformation>https://eudat.eu/b2stage-training-suite</trainingInformation>
+	<feedback>http://eudat.eu/support-request?Service=B2STAGE</feedback>
+	<funding>EU</funding>
 </service>

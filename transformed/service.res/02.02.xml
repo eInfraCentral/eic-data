@@ -9,23 +9,19 @@
 	<targetUsers>Individual researchers; community data manager</targetUsers>
 	<userValue>For the individuals researchers who do not have adequate facilities for storing, preserving and sharing data, B2SHARE Service is a customer-facing service which provides a safe repository for scientific data and a easy way to share it in the research community.</userValue>
 	<userBase>Inappropriate</userBase>
-	<version>CSC</version>
-	<lastUpdate>2.0.1</lastUpdate>
-	<trl>Production</trl>
-	<category>9</category>
-	<subcategory>Data storage</subcategory>
-	<places>Data hosting</places>
-	<languages>?</languages>
-	<tags>English</tags>
-	<requiredServices>Simple repository</requiredServices>
-	<request>B2ACCESS; B2HANDLE</request>
+	<providers>eudat</providers>
+	<version>2.0.1</version>
+	<lifeCycleStatus>Production</lifeCycleStatus>
+	<trl>9</trl>
+	<category>Data storage</category>
+	<subcategory>Data hosting</subcategory>
+	<languages>EN</languages>
+	<tags>Simple repository</tags>
+	<request>http://eudat.eu/support-request?Service=B2SHARE</request>
 	<helpdesk>http://eudat.eu/support-request?Service=B2SHARE</helpdesk>
-	<userManual>http://eudat.eu/support-request?Service=B2SHARE</userManual>
-	<trainingInformation>https://eudat.eu/services/userdoc/b2share</trainingInformation>
-	<feedback>https://eudat.eu/b2share-training-suite</feedback>
-	<price>http://eudat.eu/support-request?Service=B2SHARE</price>
-	<serviceLevelAgreement>Free</serviceLevelAgreement>
-	<termsOfUse>In preparation</termsOfUse>
-	<funding>https://b2share.eudat.eu/help/terms-of-use</funding>
-	<undefined>EU</undefined>
+	<userManual>https://eudat.eu/services/userdoc/b2share</userManual>
+	<trainingInformation>https://eudat.eu/b2share-training-suite</trainingInformation>
+	<feedback>http://eudat.eu/support-request?Service=B2SHARE</feedback>
+	<termsOfUse>https://b2share.eudat.eu/help/terms-of-use</termsOfUse>
+	<funding>EU</funding>
 </service>
