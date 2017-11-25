@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service xmlns="http://einfracentral.eu">
+	<id>02.05</id>
+	<url>https://www.eudat.eu/services/b2stage</url>
+	<name>B2STAGE</name>
+	<tagline>Get data to computation</tagline>
+	<description>B2STAGE is a reliable, efficient, light-weight and easy-to-use service to transfer research data sets between EUDAT storage resources and high-performance computing (HPC) workspaces.</description>
+	<options>Standard</options>
+	<targetUsers>Individual researchers; community data manager</targetUsers>
+	<userValue>For Communities who need to transfer large data collection from EUDAT CDI to HPC. B2STAGE Service is a customer-facing service that allow high performance transfers in a reliable, fast, easy to use environment.</userValue>
+	<userBase>Inappropriate</userBase>
+	<version>EUDAT CDI consortium</version>
+	<lastUpdate>1.81</lastUpdate>
+	<trl>Production</trl>
+	<category>9</category>
+	<subcategory>Data movement</subcategory>
+	<places>Data movement</places>
+	<languages>?</languages>
+	<tags>English</tags>
+	<requiredServices>GridFTP; http</requiredServices>
+	<request>B2SAFE; B2HANDLE</request>
+	<helpdesk>http://eudat.eu/support-request?Service=B2STAGE</helpdesk>
+	<userManual>http://eudat.eu/support-request?Service=B2STAGE</userManual>
+	<trainingInformation>https://eudat.eu/services/userdoc/b2stage</trainingInformation>
+	<feedback>https://eudat.eu/b2stage-training-suite</feedback>
+	<price>http://eudat.eu/support-request?Service=B2STAGE</price>
+	<serviceLevelAgreement>Free</serviceLevelAgreement>
+	<termsOfUse>Non</termsOfUse>
+	<undefined>EU</undefined>
+</service>
