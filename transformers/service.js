@@ -1,7 +1,9 @@
 /**
  * Created by pgl on 31/10/17.
  */
-let infile = "../raw/services.csv";
+let infile = process.argv[2];
+let separator = process.argv[3] || "$";
+console.log({infile, separator});
 let outdir = "../transformed/service.res";
 let fs = require("fs");
 let util = require("util");
@@ -20,7 +22,7 @@ function toXML(obj) {
     return ret;
 }
 function insert(line) {
-    let tokens = line.split("$");
+    let tokens = line.split(separator);
     for (let i = 0; i < tokens.length; i++) {
         services[i] = services[i] || {};
         if (tokens[i] !== "") {
