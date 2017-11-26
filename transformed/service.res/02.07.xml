@@ -14,7 +14,7 @@
         is a customer facing services provides a federates access to the B2 services in a trusted way.
     </userValue>
     <userBase>Inappropriate</userBase>
-    <providers>eudat</providers>
+    <providers><provider>eudat</provider></providers>
     <version>1.0</version>
     <lifeCycleStatus>Production</lifeCycleStatus>
     <trl>9</trl>

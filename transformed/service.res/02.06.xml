@@ -9,7 +9,7 @@
 	<targetUsers>Service provider; community data manager</targetUsers>
 	<userValue>B2HANDLE can be used by middleware applications, end-user tools and other service to reliably identify data objects over longer timespans and through changes in object location or ownership. The B2HANDLE service encompasses management of identifier namespaces (Handle prefixes), establishment of policies and business workflows, operation of Handle servers and technical services, and a user-friendly Python library for general interaction with Handle servers and EUDAT-specific extensions. B2HANDLE is mostly transparent to end-users, shielding them from the complexity of infrastructure details. In the background, B2HANDLE operates as a federation and based on policies that aim to ensure high availability of Handle resolution by cross-site mirroring of Handles. B2HANDLE supports a dedicated Handle record structure (a PID profile) for the safe data management within an infrastructure with a given topology. By relying on features of the PID profile, end-users can, for instance, ensure authenticity of objects with checksums and timestamps and account for replicated objects across multiple locations.</userValue>
 	<userBase>Inappropriate</userBase>
-	<providers>eudat</providers>
+	<providers><provider>eudat</provider></providers>
 	<version>1.1</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>

@@ -9,7 +9,7 @@
 	<targetUsers>Individual researchers; community data manager</targetUsers>
 	<userValue>For Communities and other providers of research data who need to publish and give visibility to their metadata and individual researchers who need to search data from everywhere, and see data in the context with an across community approach.</userValue>
 	<userBase>Inappropriate</userBase>
-	<providers>eudat</providers>
+	<providers><provider>eudat</provider></providers>
 	<version>2.2</version>
 	<lifeCycleStatus>Production</lifeCycleStatus>
 	<trl>9</trl>
