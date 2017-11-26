@@ -3,7 +3,7 @@
     <id>02.07</id>
     <url>https://www.eudat.eu/services/b2access</url>
     <name>B2ACCESS</name>
-    <tagline>Identity & authorisation</tagline>
+    <tagline>Identity &amp; authorisation</tagline>
     <description>B2ACCESS is the EUDAT federated cross-infrastructure authorisation and authentication framework for
         user identification and community-defined access control enforcement. B2ACCESS allows EUDAT users to
         authenticate themselves using a variety of credentials.
