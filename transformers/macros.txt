@@ -1,0 +1,32 @@
+REM  *****  BASIC  *****
+
+Sub convertSheetsToCSVs
+Dim fileProps(1) as new com.sun.star.beans.PropertyValue
+sheets = ThisComponent.Sheets
+
+fileProps(0).Name = "FilterName"
+fileProps(0).Value = "Text - txt - csv (StarCalc)"
+fileProps(1).Name = "FilterOptions"
+fileProps(1).Value = ",34,76,1,,0,true,false,true"
+
+i = 3
+
+Do While sheets.Count > i
+  sheet = sheets.getByIndex(i)
+  controller = ThisComponent.CurrentController
+  controller.setActiveSheet(sheet)
+  sURL = "file:///home/pgl/Documents/services/" & sheets.ElementNames(i) & ".csv"
+  columns = sheet.getColumns()
+  columns.removeByIndex(0,1)
+  columns.removeByIndex(1,1)
+  columns.removeByIndex(2,1)
+  columns.removeByIndex(4,1)
+  rows = sheet.getRows()
+  rows.removeByIndex(0,4)
+  rows.removeByIndex(10,1)
+  rows.removeByIndex(14,1)
+  rows.removeByIndex(19,1)
+  ThisComponent.storeToURL(sURL, fileProps())
+  i = i + 10
+Loop
+End Sub
