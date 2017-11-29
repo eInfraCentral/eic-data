@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://einfracentral.eu"
+           elementFormDefault="qualified" targetNamespace="http://einfracentral.eu" version="1.0">
+
+    <xs:element name="access" type="tns:access"/>
+
+    <xs:element name="dimension" type="tns:dimension"/>
+
+    <xs:element name="grant" type="tns:grant"/>
+
+    <xs:element name="indicator" type="tns:indicator"/>
+
+    <xs:element name="measurement" type="tns:measurement"/>
+
+    <xs:element name="membership" type="tns:membership"/>
+
+    <xs:element name="provider" type="tns:provider"/>
+
+    <xs:element name="service" type="tns:service"/>
+
+    <xs:element name="serviceAddenda" type="tns:serviceAddenda"/>
+
+    <xs:element name="unit" type="tns:unit"/>
+
+    <xs:element name="user" type="tns:user"/>
+
+    <xs:element name="vocabulary" type="tns:vocabulary"/>
+
+    <xs:complexType name="access">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 04/08/17.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:string"/>
+            <xs:element name="instant" type="xs:int"/>
+            <xs:element name="serviceID" type="xs:string"/>
+            <xs:element name="type" type="xs:string"/>
+            <xs:element minOccurs="0" name="userID" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="dimension">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 06/11/17.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence/>
+    </xs:complexType>
+
+    <xs:complexType name="grant">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 30/6/2017.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="id" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="indicator">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 30/6/2017.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element maxOccurs="unbounded" name="dimensions" type="tns:dimension"/>
+            <xs:element name="id" type="xs:string"/>
+            <xs:element ref="tns:unit"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="unit">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 06/11/17.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence/>
+    </xs:complexType>
+
+    <xs:complexType name="measurement">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 30/6/2017.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:string"/>
+            <xs:element ref="tns:indicator"/>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="location" type="xs:string"/>
+            <xs:element minOccurs="0" name="time" type="xs:anySimpleType"/>
+            <xs:element name="value" type="xs:anyType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="membership">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 13/11/17.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element minOccurs="0" ref="tns:grant"/>
+            <xs:element minOccurs="0" name="id" type="xs:string"/>
+            <xs:element minOccurs="0" ref="tns:provider"/>
+            <xs:element minOccurs="0" ref="tns:user"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="provider">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 30/6/2017.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element minOccurs="0" name="contactInformation" type="xs:string"/>
+            <xs:element minOccurs="0" name="id" type="xs:string"/>
+            <xs:element minOccurs="0" name="name" type="xs:string"/>
+            <xs:element minOccurs="0" name="services">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="service" type="tns:user"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="users">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" ref="tns:user"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="user">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 30/6/2017.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element minOccurs="0" name="email" type="xs:string"/>
+            <xs:element minOccurs="0" name="favourites">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="favourite" type="tns:service"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="id" type="xs:string"/>
+            <xs:element name="iterationCount" type="xs:int"/>
+            <xs:element minOccurs="0" name="joinDate" type="xs:string"/>
+            <xs:element minOccurs="0" name="memberships">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" ref="tns:membership"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="name" type="xs:string"/>
+            <xs:element minOccurs="0" name="password" type="xs:string"/>
+            <xs:element minOccurs="0" name="resetToken" type="xs:string"/>
+            <xs:element minOccurs="0" name="salt" type="xs:base64Binary"/>
+            <xs:element minOccurs="0" name="surname" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="service">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 29/6/2017.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element minOccurs="0" name="category" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[A named group of services that offer access to the same type of resource. These are external ones that are of interest to a customer.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="changeLog" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[A list of the service features added in the latest version]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="description" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[High-level description of what the service does in terms of functionality it provides and the resources it enables access to. Should be similar to the name described above, and should cover the value provided by the service, in fairly non-technical terms. These descriptions may seem obvious but help everyone within the organization understand the service, and also will be needed for the Service Catalogue, which will be shown to users and customers. It may provide also information related to the offered capacity, number of installations, underlying data that is offered.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="feedback" type="xs:anyURI">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Link to page where customers can provide feedback on the service]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="funding" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Sources of funding for the development and operation of the service.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="helpdesk" type="xs:anyURI">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Link with contact to ask more information from the service provider about this service. A contact person or helpdesk within the organization must be assigned for communications, questions and issues relating to the service.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="id" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Global unique and persistent identifier of a specific service. Work in progress.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="languages">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="language" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="lastUpdate" type="xs:anySimpleType">
+                <xs:annotation>
+                    <xs:documentation><![CDATA[The date of the latest update.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="lifeCycleStatus" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Is used to tag the service to the full service cycle: e.g., discovery, planned, alpha (prototype available for closed set of users), beta (service being developed while available for testing publicly), production, retired (not anymore offered).]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="multimediaURL" type="xs:anyURI">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Link to a page containing multimedia regarding the service]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="name" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Brief brand/marketing name of service as assigned by the service provider. Should be descriptive from a customer point of view, and should be quite simple, such that someone non-technical is able to understand what the service is about.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="options" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[A choice of utility and warranty that the customer can/should specify when commissioning the service]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="places">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="place" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="price" type="xs:anyURI">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Supported payment models that apply. List of sentences each of them stating the type of payment model and the restriction that applies to it.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="providers">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="provider" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="relatedServices">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="relatedService" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="request" type="xs:anyURI">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Link to request the service from the service provider]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="requiredServices">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="requiredService" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" ref="tns:serviceAddenda"/>
+            <xs:element minOccurs="0" name="serviceLevelAgreement" type="xs:anyURI">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Document containing information about the levels of performance that a service provider is expected to achieve. Current service agreements (SLAs) available for the service or basis for a new SLA. These should be agreements with users (not providers).]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="subcategory" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation><![CDATA[Type of service within a category]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="symbol" type="xs:anyURI">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Link to a visual representation for the service. If none exists, providers are urged to use the organization's symbol]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="tagline" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Catchline or slogan of service for marketing/advertising  purposes.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="tags">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="tag" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="targetUsers" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Type of users or end-users allowed to commission/benefit from the service.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="termsOfUse">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="termOfUse" type="xs:anyURI"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element minOccurs="0" name="trainingInformation" type="xs:anyURI">
+                <xs:annotation>
+                    <xs:documentation><![CDATA[Link to training information]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="trl" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Is used to tag the service to the Technology Readiness Level.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="url" type="xs:anyURI">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Link to a webpage providing information about the service. This webpage is usually hosted and maintained by the service provider. It contains fresh and additional information, such as what APIs are supported or links to the userManual.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="userBase" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[List of customers, communities, etc using the service.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="userManual" type="xs:anyURI">
+                <xs:annotation>
+                    <xs:documentation><![CDATA[Link to user manual and userManual]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="userValue" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[The benefit to a customer and their users delivered by the service. Benefits are usually related to alleviating pains (e.g., eliminate undesired outcomes, obstacles or risks) or producing gains (e.g. increased performance, social gains, positive emotions or cost saving).]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="validFor" type="xs:anySimpleType">
+                <xs:annotation>
+                    <xs:documentation><![CDATA[No userManual given]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+            <xs:element minOccurs="0" name="version" type="xs:string">
+                <xs:annotation>
+                    <xs:documentation>
+                        <![CDATA[Informs about the implementation of the service that is in force as well as about its previous implementations, if any.]]></xs:documentation>
+                </xs:annotation>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="serviceAddenda">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 24/10/17.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="averageRating" type="xs:float"/>
+            <xs:element name="externalHits" type="xs:int"/>
+            <xs:element name="favouriteCount" type="xs:int"/>
+            <xs:element minOccurs="0" name="id" type="xs:string"/>
+            <xs:element name="internalHits" type="xs:int"/>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="perfomanceData" type="tns:measurement"/>
+            <xs:element default="false" name="published" type="xs:boolean"/>
+            <xs:element name="ratings" type="xs:float"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="vocabulary">
+        <xs:annotation>
+            <xs:documentation><![CDATA[Created by pgl on 3/7/2017.]]></xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="id" type="xs:string"/>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element minOccurs="0" name="parent" type="xs:string"/>
+            <xs:element name="type" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>
