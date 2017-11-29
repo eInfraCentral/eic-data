@@ -4,8 +4,8 @@
     <url>http://beta.einfracentral.eu/</url>
     <name>e Infra Central</name>
     <tagline>Your Gateway for European E-Infrastructures</tagline>
-    <description>A service catalogue for the modern hipster</description>
-    <options>??? just click on things</options>
+    <description>A service catalogue</description>
+    <options>None</options>
     <targetUsers>Researchers</targetUsers>
     <userValue>Fast access to service information</userValue>
     <userBase>Researchers</userBase>
