@@ -1,0 +1,6 @@
+access
+manager
+provider
+service
+user
+vocabulary
