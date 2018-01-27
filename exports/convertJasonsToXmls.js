@@ -8,6 +8,15 @@ let toXML = (obj, type) => {
     let ret = util.format("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<%s xmlns=\"http://einfracentral.eu\">\n", type);
     for (let i in obj) {
         if (obj[i] != null) {
+            if (obj[i] instanceof Array) {
+                if (obj[i].length > 0) {
+                    let arrS = "";
+                    for (let j = 0; j < obj[i].length; j++) {
+                        arrS += util.format("<%s>%s</%s>", singles[i], obj[i][j], singles[i]);
+                    }
+                    obj[i] = arrS;
+                }
+            }
             ret += util.format("\t<%s>%s</%s>\n", i, obj[i], i);
         }
     }
