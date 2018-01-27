@@ -1,15 +1,16 @@
 #!/usr/bin/env bash
 
-#machine=dl105.madgik.di.uoa.gr
+#machine="localhost"
 #machine="vereniki.athenarc.gr"
+#machine="dl105.madgik.di.uoa.gr"
 machine="beta.einfracentral.eu"
+
 base="http://${machine}:8080/eic-registry/"
 query="/by/id"
+target="jsons"
 
 while read resourceType
 do
     url="${base}${resourceType}${query}"
-    echo ${url}
-    response=$(curl ${url} -o jsons/${resourceType}.json)
-    echo ${response}
+    response=$(curl ${url} -o ${target}/${resourceType}.json)
 done < resourceTypes.txt
