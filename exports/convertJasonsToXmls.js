@@ -12,7 +12,7 @@ let toXML = (obj, type) => {
         }
     }
     ret += util.format("</%s>", type);
-    return ret;
+    return ret.replace("&", "&amp;");
 };
 
 let count = 0;
