@@ -4,6 +4,12 @@ let listS = "resourceTypes.txt";
 let fs = require("fs");
 let util = require("util");
 let resourceTypes = fs.readFileSync(listS, 'utf8').split("\n");
+
+let singles = {
+    "providers": "provider", "places": "place", "languages": "language", "tags": "tag",
+    "requiredServices": "requiredService", "relatedServices": "relatedService", "termsOfUse": "termOfUse"
+};
+
 let toXML = (obj, type) => {
     let ret = util.format("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<%s xmlns=\"http://einfracentral.eu\">\n", type);
     for (let i in obj) {
