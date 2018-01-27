@@ -7,7 +7,9 @@ let resourceTypes = fs.readFileSync(listS, 'utf8').split("\n");
 let toXML = (obj, type) => {
     let ret = util.format("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<%s xmlns=\"http://einfracentral.eu\">\n", type);
     for (let i in obj) {
-        ret += util.format("\t<%s>%s</%s>\n", i, obj[i].replace("&", "&amp;"), i);
+        if (obj[i] != null) {
+            ret += util.format("\t<%s>%s</%s>\n", i, obj[i], i);
+        }
     }
     ret += util.format("</%s>", type);
     return ret;
