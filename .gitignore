@@ -1,3 +1,6 @@
 *.iml
 .idea/
 transformed/user.res/
+/exports/curl_trace.txt
+/exports/jsons/*
+/exports/xmls/*
