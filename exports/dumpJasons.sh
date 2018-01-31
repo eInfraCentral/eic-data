@@ -9,6 +9,7 @@ base="http://${machine}:8080/eic-registry/"
 query="/by/id"
 target="jsons"
 
+mkdir -p ${target}
 while read resourceType
 do
     url="${base}${resourceType}${query}"
