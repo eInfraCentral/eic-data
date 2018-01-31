@@ -3,7 +3,7 @@
 #machine="localhost"
 #machine="vereniki.athenarc.gr"
 #machine="dl105.madgik.di.uoa.gr"
-machine="beta.einfracentral.eu"
+#machine="beta.einfracentral.eu"
 
 base="http://${machine}:8080/eic-registry/"
 query="/by/id"
@@ -15,3 +15,4 @@ do
     url="${base}${resourceType}${query}"
     response=$(curl ${url} -o ${target}/${resourceType}.json)
 done < resourceTypes.txt
+
