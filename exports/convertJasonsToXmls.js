@@ -30,6 +30,8 @@ let toXML = (obj, type) => {
     return ret.replace("&", "&amp;");
 };
 
+
+fs.mkdirSync(util.format("%s/%s/", __dirname, outd));
 let count = 0;
 for (let i = 0; i < resourceTypes.length - 1; i++) {
     let type = resourceTypes[i];
