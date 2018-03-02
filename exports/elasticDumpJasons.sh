@@ -11,7 +11,7 @@ mkdir -p ${target}
 while read resourceType
 do
     resourceTypeName=${resourceType}
-    if [ "$resourceTypeName" == "user" ]; then
+    if [[ "$resourceTypeName" == "user" ]]; then
         resourceTypeName=einfrauser
     fi
     url="${base}${resourceTypeName}${query}"

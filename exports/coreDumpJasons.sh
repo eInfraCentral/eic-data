@@ -10,7 +10,7 @@ mkdir -p ${target}
 
 while read resourceType
 do
-    if [ "$resourceType" == "vocabulary" ]; then
+    if [[ "$resourceType" == "vocabulary" ]]; then
         echo "Skipping vocabulary"
     else
         url="${base}${resourceType}${query}"

@@ -24,7 +24,7 @@ postResource() {
 }
 postAllResources() {
     for resourceType in $(ls ./${source}); do
-        if [ "$resourceType" == "vocabulary" ]; then
+        if [[ "$resourceType" == "vocabulary" ]]; then
             echo "Skipping vocabulary"
         else
             postAllResourcesForType ${resourceType}
