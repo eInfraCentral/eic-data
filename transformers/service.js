@@ -14,7 +14,7 @@ let outdir = "../transformed/service.res";
 let fields = ["id", "url", "name", "tagline", "description", "options", "targetUsers", "userValue", "userBase", "symbol",
     "multimediaURL", "providers", "version", "lastUpdate", "changeLog", "validFor", "lifeCycleStatus", "trl", "category",
     "subcategory", "places", "languages", "tags", "requiredServices", "relatedServices", "request", "helpdesk", "userManual",
-    "trainingInformation", "feedback", "price", "serviceLevelAgreement", "termsOfUse", "funding", "serviceAddenda"];
+    "trainingInformation", "feedback", "price", "serviceLevelAgreement", "termsOfUse", "funding", "addenda"];
 let services = [];
 let field = 0;
 
