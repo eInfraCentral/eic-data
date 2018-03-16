@@ -1,4 +1,5 @@
-access
+addenda
+event
 manager
 provider
 service
