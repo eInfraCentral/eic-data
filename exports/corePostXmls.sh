@@ -2,6 +2,7 @@
 
 source="xmls"
 target=$1
+nv=$2
 base="http://${target}:8080/eic-registry/"
 
 postAllResourcesForType() {
@@ -24,7 +25,7 @@ postResource() {
 }
 postAllResources() {
     for resourceType in $(ls ./${source}); do
-        if [[ "$resourceType" == "vocabulary" ]]; then
+        if [[ "$resourceType" == "vocabulary" && "$nv" == "nv" ]]; then
             echo "Skipping vocabulary"
         else
             postAllResourcesForType ${resourceType}
