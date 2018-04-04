@@ -3,7 +3,7 @@
 source=$1
 target="elasticJasons"
 
-base="http://${source}:9200/"
+base="http://${source}:9222/"
 query="/_search?size=1000"
 
 mkdir -p ${target}
