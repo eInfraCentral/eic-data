@@ -1,4 +1,4 @@
-REM  *****  BASIC  *****
+REM ***** BASIC *****
 
 Sub convertSheetsToCSVs
 Dim fileProps(1) as new com.sun.star.beans.PropertyValue

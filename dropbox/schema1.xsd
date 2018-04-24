@@ -300,7 +300,7 @@
             <xs:element minOccurs="0" name="tagline" type="xs:string">
                 <xs:annotation>
                     <xs:documentation>
-                        <![CDATA[Catchline or slogan of service for marketing/advertising  purposes.]]></xs:documentation>
+                        <![CDATA[Catchline or slogan of service for marketing/advertising purposes.]]></xs:documentation>
                 </xs:annotation>
             </xs:element>
             <xs:element minOccurs="0" name="tags">
