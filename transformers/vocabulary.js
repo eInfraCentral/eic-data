@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 
-/**
- * Created by pgl on 24/7/17.
- */
 
 let util = require("util");
 let fs = require("fs");

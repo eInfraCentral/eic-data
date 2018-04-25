@@ -1,6 +1,3 @@
-/**
- * Created by pgl on 31/10/17.
- */
 
 let fs = require("fs");
 let util = require("util");
