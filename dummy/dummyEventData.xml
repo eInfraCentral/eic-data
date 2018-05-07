@@ -11,7 +11,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>2</id>
 		<instant>1524286560000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>40</user>
 		<value>5</value>
@@ -19,7 +19,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>3</id>
 		<instant>1519577288000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>8</user>
 		<value>1</value>
@@ -27,7 +27,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>4</id>
 		<instant>1518101829000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>31</user>
 		<value>4</value>
@@ -35,7 +35,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>5</id>
 		<instant>1522034277000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>26</user>
 		<value>4</value>
@@ -43,7 +43,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>6</id>
 		<instant>1524017451000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>41</user>
 		<value>2</value>
@@ -51,7 +51,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>7</id>
 		<instant>1517584966000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>29</user>
 		<value>2</value>
@@ -59,7 +59,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>8</id>
 		<instant>1521090065000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>10</user>
 		<value>5</value>
@@ -67,7 +67,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>9</id>
 		<instant>1522076674000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>32</user>
 		<value>2</value>
@@ -83,7 +83,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>11</id>
 		<instant>1519916412000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>21</user>
 		<value>5</value>
@@ -91,7 +91,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>12</id>
 		<instant>1523778826000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>9</user>
 		<value>1</value>
@@ -99,7 +99,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>13</id>
 		<instant>1517998526000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>16</user>
 		<value>5</value>
@@ -107,7 +107,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>14</id>
 		<instant>1520965748000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>41</user>
 		<value>4</value>
@@ -115,7 +115,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>15</id>
 		<instant>1519002291000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>23</user>
 		<value>3</value>
@@ -123,7 +123,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>16</id>
 		<instant>1520342947000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>19</user>
 		<value>4</value>
@@ -131,7 +131,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>17</id>
 		<instant>1523984802000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>10</user>
 		<value>4</value>
@@ -139,7 +139,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>18</id>
 		<instant>1522338470000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>45</user>
 		<value>2</value>
@@ -147,7 +147,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>19</id>
 		<instant>1522478934000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>10</user>
 		<value>1</value>
@@ -155,7 +155,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>20</id>
 		<instant>1524758034000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>28</user>
 		<value>0</value>
@@ -171,7 +171,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>22</id>
 		<instant>1521418038000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>36</user>
 		<value>2</value>
@@ -179,7 +179,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>23</id>
 		<instant>1520074517000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>29</user>
 		<value>4</value>
@@ -187,7 +187,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>24</id>
 		<instant>1520333994000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>26</user>
 		<value>0</value>
@@ -203,7 +203,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>26</id>
 		<instant>1520495198000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>39</user>
 		<value>4</value>
@@ -211,7 +211,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>27</id>
 		<instant>1524396367000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>3</user>
 		<value>3</value>
@@ -219,7 +219,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>28</id>
 		<instant>1522996724000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>36</user>
 		<value>3</value>
@@ -227,7 +227,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>29</id>
 		<instant>1519186811000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>31</user>
 		<value>1</value>
@@ -235,7 +235,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>30</id>
 		<instant>1517591499000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>44</user>
 		<value>0</value>
@@ -243,7 +243,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>31</id>
 		<instant>1519383814000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>46</user>
 		<value>4</value>
@@ -251,7 +251,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>32</id>
 		<instant>1520593520000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>25</user>
 		<value>1</value>
@@ -259,7 +259,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>33</id>
 		<instant>1518962250000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>10</user>
 		<value>3</value>
@@ -267,7 +267,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>34</id>
 		<instant>1524609168000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>35</user>
 		<value>0</value>
@@ -275,7 +275,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>35</id>
 		<instant>1520729281000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>21</user>
 		<value>0</value>
@@ -283,7 +283,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>36</id>
 		<instant>1521296464000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>47</user>
 		<value>3</value>
@@ -291,7 +291,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>37</id>
 		<instant>1522516772000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>29</user>
 		<value>4</value>
@@ -299,7 +299,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>38</id>
 		<instant>1519543732000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>44</user>
 		<value>2</value>
@@ -307,7 +307,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>39</id>
 		<instant>1520353900000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>41</user>
 		<value>3</value>
@@ -315,7 +315,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>40</id>
 		<instant>1519950774000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>41</user>
 		<value>2</value>
@@ -323,7 +323,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>41</id>
 		<instant>1521478704000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>32</user>
 		<value>3</value>
@@ -331,7 +331,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>42</id>
 		<instant>1518124501000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>32</user>
 		<value>4</value>
@@ -339,7 +339,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>43</id>
 		<instant>1523557549000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>2</user>
 		<value>3</value>
@@ -347,7 +347,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>44</id>
 		<instant>1522560857000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>41</user>
 		<value>1</value>
@@ -355,7 +355,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>45</id>
 		<instant>1519577602000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>37</user>
 		<value>2</value>
@@ -387,7 +387,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>49</id>
 		<instant>1518404043000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>29</user>
 		<value>2</value>
@@ -395,7 +395,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>50</id>
 		<instant>1523722027000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>31</user>
 		<value>3</value>
@@ -403,7 +403,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>51</id>
 		<instant>1521964597000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>29</user>
 		<value>0</value>
@@ -411,7 +411,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>52</id>
 		<instant>1518039294000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>24</user>
 		<value>3</value>
@@ -419,7 +419,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>53</id>
 		<instant>1522398570000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>22</user>
 		<value>1</value>
@@ -435,7 +435,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>55</id>
 		<instant>1522437029000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>46</user>
 		<value>0</value>
@@ -451,7 +451,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>57</id>
 		<instant>1517653632000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>34</user>
 		<value>5</value>
@@ -459,7 +459,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>58</id>
 		<instant>1523333765000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>16</user>
 		<value>0</value>
@@ -467,7 +467,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>59</id>
 		<instant>1518351371000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>4</user>
 		<value>4</value>
@@ -475,7 +475,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>60</id>
 		<instant>1521454380000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>38</user>
 		<value>3</value>
@@ -483,7 +483,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>61</id>
 		<instant>1519812955000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>1</user>
 		<value>3</value>
@@ -491,7 +491,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>62</id>
 		<instant>1523444483000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>38</user>
 		<value>3</value>
@@ -499,7 +499,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>63</id>
 		<instant>1519557471000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>14</user>
 		<value>2</value>
@@ -515,7 +515,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>65</id>
 		<instant>1519796766000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>14</user>
 		<value>4</value>
@@ -539,7 +539,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>68</id>
 		<instant>1518284274000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>20</user>
 		<value>2</value>
@@ -547,7 +547,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>69</id>
 		<instant>1521540513000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>12</user>
 		<value>3</value>
@@ -563,7 +563,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>71</id>
 		<instant>1524553881000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>24</user>
 		<value>4</value>
@@ -571,7 +571,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>72</id>
 		<instant>1520753498000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>31</user>
 		<value>3</value>
@@ -579,7 +579,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>73</id>
 		<instant>1524446614000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>3</user>
 		<value>5</value>
@@ -587,7 +587,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>74</id>
 		<instant>1522600779000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>36</user>
 		<value>3</value>
@@ -595,7 +595,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>75</id>
 		<instant>1518755810000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>36</user>
 		<value>5</value>
@@ -603,7 +603,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>76</id>
 		<instant>1520636512000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>20</user>
 		<value>3</value>
@@ -611,7 +611,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>77</id>
 		<instant>1517991403000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>17</user>
 		<value>4</value>
@@ -619,7 +619,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>78</id>
 		<instant>1523239269000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>8</user>
 		<value>2</value>
@@ -627,7 +627,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>79</id>
 		<instant>1522601124000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>10</user>
 		<value>4</value>
@@ -635,7 +635,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>80</id>
 		<instant>1524181901000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>13</user>
 		<value>1</value>
@@ -643,7 +643,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>81</id>
 		<instant>1522927861000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>7</user>
 		<value>3</value>
@@ -651,7 +651,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>82</id>
 		<instant>1520681776000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>2</user>
 		<value>0</value>
@@ -659,7 +659,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>83</id>
 		<instant>1518975028000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>5</user>
 		<value>4</value>
@@ -667,7 +667,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>84</id>
 		<instant>1518952666000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>22</user>
 		<value>4</value>
@@ -675,7 +675,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>85</id>
 		<instant>1522820437000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>15</user>
 		<value>3</value>
@@ -683,7 +683,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>86</id>
 		<instant>1519430383000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>4</user>
 		<value>1</value>
@@ -691,7 +691,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>87</id>
 		<instant>1518748946000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>26</user>
 		<value>3</value>
@@ -699,7 +699,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>88</id>
 		<instant>1524361560000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>12</user>
 		<value>2</value>
@@ -707,7 +707,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>89</id>
 		<instant>1517735434000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>34</user>
 		<value>4</value>
@@ -715,7 +715,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>90</id>
 		<instant>1524733732000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>20</user>
 		<value>0</value>
@@ -723,7 +723,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>91</id>
 		<instant>1524289949000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>16</user>
 		<value>2</value>
@@ -731,7 +731,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>92</id>
 		<instant>1517781053000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>14</user>
 		<value>3</value>
@@ -739,7 +739,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>93</id>
 		<instant>1523604557000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>38</user>
 		<value>0</value>
@@ -747,7 +747,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>94</id>
 		<instant>1519144972000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>19</user>
 		<value>3</value>
@@ -771,7 +771,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>97</id>
 		<instant>1524233312000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>48</user>
 		<value>4</value>
@@ -779,7 +779,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>98</id>
 		<instant>1519058193000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>24</user>
 		<value>5</value>
@@ -787,7 +787,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>99</id>
 		<instant>1517598094000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>RATING</type>
 		<user>19</user>
 		<value>5</value>
@@ -803,7 +803,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>1</id>
 		<instant>1520027684000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>4</user>
 		<value>1</value>
@@ -811,7 +811,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>2</id>
 		<instant>1523076189000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>39</user>
 		<value>0</value>
@@ -819,7 +819,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>3</id>
 		<instant>1518281965000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>18</user>
 		<value>0</value>
@@ -827,7 +827,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>4</id>
 		<instant>1520760486000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>50</user>
 		<value>0</value>
@@ -835,7 +835,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>5</id>
 		<instant>1520116547000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>8</user>
 		<value>1</value>
@@ -843,7 +843,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>6</id>
 		<instant>1521607809000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>22</user>
 		<value>0</value>
@@ -859,7 +859,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>8</id>
 		<instant>1520572674000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>41</user>
 		<value>1</value>
@@ -867,7 +867,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>9</id>
 		<instant>1519547026000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>5</user>
 		<value>0</value>
@@ -875,7 +875,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>10</id>
 		<instant>1518421235000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>42</user>
 		<value>0</value>
@@ -883,7 +883,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>11</id>
 		<instant>1520676792000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>15</user>
 		<value>0</value>
@@ -891,7 +891,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>12</id>
 		<instant>1518128039000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>17</user>
 		<value>0</value>
@@ -899,7 +899,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>13</id>
 		<instant>1517680398000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>2</user>
 		<value>1</value>
@@ -907,7 +907,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>14</id>
 		<instant>1522746237000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>46</user>
 		<value>0</value>
@@ -915,7 +915,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>15</id>
 		<instant>1520744015000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>44</user>
 		<value>0</value>
@@ -923,7 +923,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>16</id>
 		<instant>1522392224000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>42</user>
 		<value>1</value>
@@ -931,7 +931,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>17</id>
 		<instant>1522489705000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>34</user>
 		<value>1</value>
@@ -939,7 +939,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>18</id>
 		<instant>1520782888000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>14</user>
 		<value>0</value>
@@ -947,7 +947,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>19</id>
 		<instant>1517857224000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>38</user>
 		<value>1</value>
@@ -963,7 +963,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>21</id>
 		<instant>1523860765000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>50</user>
 		<value>1</value>
@@ -971,7 +971,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>22</id>
 		<instant>1519912672000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>44</user>
 		<value>1</value>
@@ -979,7 +979,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>23</id>
 		<instant>1519930595000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>1</user>
 		<value>0</value>
@@ -987,7 +987,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>24</id>
 		<instant>1521562807000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>2</user>
 		<value>0</value>
@@ -995,7 +995,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>25</id>
 		<instant>1519745712000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>12</user>
 		<value>0</value>
@@ -1003,7 +1003,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>26</id>
 		<instant>1522531251000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>24</user>
 		<value>0</value>
@@ -1011,7 +1011,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>27</id>
 		<instant>1523331998000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>32</user>
 		<value>1</value>
@@ -1027,7 +1027,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>29</id>
 		<instant>1521366005000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>33</user>
 		<value>0</value>
@@ -1035,7 +1035,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>30</id>
 		<instant>1523190067000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>48</user>
 		<value>0</value>
@@ -1043,7 +1043,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>31</id>
 		<instant>1524779541000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>50</user>
 		<value>0</value>
@@ -1051,7 +1051,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>32</id>
 		<instant>1523172663000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>50</user>
 		<value>1</value>
@@ -1059,7 +1059,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>33</id>
 		<instant>1519451624000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>39</user>
 		<value>1</value>
@@ -1067,7 +1067,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>34</id>
 		<instant>1522847343000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>7</user>
 		<value>0</value>
@@ -1075,7 +1075,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>35</id>
 		<instant>1523333987000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>19</user>
 		<value>1</value>
@@ -1083,7 +1083,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>36</id>
 		<instant>1520736712000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>41</user>
 		<value>1</value>
@@ -1091,7 +1091,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>37</id>
 		<instant>1522656259000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>40</user>
 		<value>0</value>
@@ -1099,7 +1099,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>38</id>
 		<instant>1520010178000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>37</user>
 		<value>0</value>
@@ -1107,7 +1107,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>39</id>
 		<instant>1524058413000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>42</user>
 		<value>0</value>
@@ -1123,7 +1123,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>41</id>
 		<instant>1518012909000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>12</user>
 		<value>1</value>
@@ -1147,7 +1147,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>44</id>
 		<instant>1522326940000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>22</user>
 		<value>1</value>
@@ -1155,7 +1155,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>45</id>
 		<instant>1519537814000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>18</user>
 		<value>1</value>
@@ -1163,7 +1163,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>46</id>
 		<instant>1522008875000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>46</user>
 		<value>0</value>
@@ -1171,7 +1171,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>47</id>
 		<instant>1522373779000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>11</user>
 		<value>0</value>
@@ -1179,7 +1179,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>48</id>
 		<instant>1518214175000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>32</user>
 		<value>1</value>
@@ -1187,7 +1187,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>49</id>
 		<instant>1520671119000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>32</user>
 		<value>1</value>
@@ -1195,7 +1195,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>50</id>
 		<instant>1521783663000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>22</user>
 		<value>0</value>
@@ -1203,7 +1203,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>51</id>
 		<instant>1519963921000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>22</user>
 		<value>0</value>
@@ -1211,7 +1211,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>52</id>
 		<instant>1519541590000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>6</user>
 		<value>1</value>
@@ -1219,7 +1219,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>53</id>
 		<instant>1522427499000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>4</user>
 		<value>1</value>
@@ -1227,7 +1227,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>54</id>
 		<instant>1521633180000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>21</user>
 		<value>1</value>
@@ -1235,7 +1235,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>55</id>
 		<instant>1521540133000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>16</user>
 		<value>1</value>
@@ -1243,7 +1243,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>56</id>
 		<instant>1523761474000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>35</user>
 		<value>0</value>
@@ -1251,7 +1251,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>57</id>
 		<instant>1522099804000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>31</user>
 		<value>1</value>
@@ -1259,7 +1259,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>58</id>
 		<instant>1517793437000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>21</user>
 		<value>0</value>
@@ -1267,7 +1267,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>59</id>
 		<instant>1519052395000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>19</user>
 		<value>0</value>
@@ -1275,7 +1275,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>60</id>
 		<instant>1522662299000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>49</user>
 		<value>1</value>
@@ -1283,7 +1283,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>61</id>
 		<instant>1517595588000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>3</user>
 		<value>1</value>
@@ -1291,7 +1291,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>62</id>
 		<instant>1517569360000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>26</user>
 		<value>1</value>
@@ -1299,7 +1299,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>63</id>
 		<instant>1519799569000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>48</user>
 		<value>0</value>
@@ -1307,7 +1307,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>64</id>
 		<instant>1519204511000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>30</user>
 		<value>0</value>
@@ -1315,7 +1315,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>65</id>
 		<instant>1523776237000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>25</user>
 		<value>1</value>
@@ -1323,7 +1323,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>66</id>
 		<instant>1519282425000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>5</user>
 		<value>1</value>
@@ -1331,7 +1331,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>67</id>
 		<instant>1521497145000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>26</user>
 		<value>1</value>
@@ -1339,7 +1339,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>68</id>
 		<instant>1524489016000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>13</user>
 		<value>0</value>
@@ -1347,7 +1347,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>69</id>
 		<instant>1521883009000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>6</user>
 		<value>1</value>
@@ -1355,7 +1355,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>70</id>
 		<instant>1520989167000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>1</user>
 		<value>1</value>
@@ -1371,7 +1371,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>72</id>
 		<instant>1518341562000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>42</user>
 		<value>1</value>
@@ -1379,7 +1379,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>73</id>
 		<instant>1523543918000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>15</user>
 		<value>0</value>
@@ -1387,7 +1387,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>74</id>
 		<instant>1521075164000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>14</user>
 		<value>0</value>
@@ -1395,7 +1395,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>75</id>
 		<instant>1518660434000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>11</user>
 		<value>0</value>
@@ -1403,7 +1403,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>76</id>
 		<instant>1521220237000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>46</user>
 		<value>1</value>
@@ -1411,7 +1411,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>77</id>
 		<instant>1523851514000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>6</user>
 		<value>0</value>
@@ -1419,7 +1419,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>78</id>
 		<instant>1523283232000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>29</user>
 		<value>0</value>
@@ -1427,7 +1427,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>79</id>
 		<instant>1524446214000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>35</user>
 		<value>0</value>
@@ -1435,7 +1435,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>80</id>
 		<instant>1520238324000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>39</user>
 		<value>1</value>
@@ -1443,7 +1443,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>81</id>
 		<instant>1523976803000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>47</user>
 		<value>0</value>
@@ -1451,7 +1451,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>82</id>
 		<instant>1523672658000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>34</user>
 		<value>1</value>
@@ -1459,7 +1459,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>83</id>
 		<instant>1519159881000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>47</user>
 		<value>1</value>
@@ -1467,7 +1467,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>84</id>
 		<instant>1519219527000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>13</user>
 		<value>0</value>
@@ -1475,7 +1475,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>85</id>
 		<instant>1521909979000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>42</user>
 		<value>1</value>
@@ -1483,7 +1483,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>86</id>
 		<instant>1521208155000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>23</user>
 		<value>1</value>
@@ -1491,7 +1491,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>87</id>
 		<instant>1522332335000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>16</user>
 		<value>0</value>
@@ -1499,7 +1499,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>88</id>
 		<instant>1523467935000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>12</user>
 		<value>1</value>
@@ -1507,7 +1507,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>89</id>
 		<instant>1522832777000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>21</user>
 		<value>1</value>
@@ -1515,7 +1515,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>90</id>
 		<instant>1521225409000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>17</user>
 		<value>1</value>
@@ -1523,7 +1523,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>91</id>
 		<instant>1520782730000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>4</user>
 		<value>1</value>
@@ -1531,7 +1531,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>92</id>
 		<instant>1522030111000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>12</user>
 		<value>1</value>
@@ -1539,7 +1539,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>93</id>
 		<instant>1522166616000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>44</user>
 		<value>0</value>
@@ -1555,7 +1555,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>95</id>
 		<instant>1519998249000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>33</user>
 		<value>0</value>
@@ -1563,7 +1563,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>96</id>
 		<instant>1523249984000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>17</user>
 		<value>0</value>
@@ -1571,7 +1571,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>97</id>
 		<instant>1522511316000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>1</user>
 		<value>1</value>
@@ -1579,7 +1579,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>98</id>
 		<instant>1521357588000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>4</user>
 		<value>1</value>
@@ -1587,7 +1587,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>99</id>
 		<instant>1521593294000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>10</user>
 		<value>0</value>
@@ -1595,7 +1595,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>100</id>
 		<instant>1519416203000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>6</user>
 		<value>0</value>
@@ -1603,7 +1603,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>1</id>
 		<instant>1521636047000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>14</user>
 		<value>0</value>
@@ -1611,7 +1611,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>2</id>
 		<instant>1518014449000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>16</user>
 		<value>1</value>
@@ -1619,7 +1619,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>3</id>
 		<instant>1523157163000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>36</user>
 		<value>0</value>
@@ -1627,7 +1627,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>4</id>
 		<instant>1522003694000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>36</user>
 		<value>0</value>
@@ -1635,7 +1635,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>5</id>
 		<instant>1519281350000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>24</user>
 		<value>1</value>
@@ -1643,7 +1643,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>6</id>
 		<instant>1522004478000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>33</user>
 		<value>1</value>
@@ -1651,7 +1651,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>7</id>
 		<instant>1519356806000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>29</user>
 		<value>0</value>
@@ -1659,7 +1659,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>8</id>
 		<instant>1518945461000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>15</user>
 		<value>1</value>
@@ -1667,7 +1667,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>9</id>
 		<instant>1523193219000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>29</user>
 		<value>1</value>
@@ -1675,7 +1675,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>10</id>
 		<instant>1522648150000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>41</user>
 		<value>0</value>
@@ -1683,7 +1683,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>11</id>
 		<instant>1520695614000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>27</user>
 		<value>0</value>
@@ -1691,7 +1691,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>12</id>
 		<instant>1523880441000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>32</user>
 		<value>1</value>
@@ -1699,7 +1699,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>13</id>
 		<instant>1517770302000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>33</user>
 		<value>0</value>
@@ -1707,7 +1707,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>14</id>
 		<instant>1518191773000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>21</user>
 		<value>1</value>
@@ -1723,7 +1723,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>16</id>
 		<instant>1523177150000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>36</user>
 		<value>1</value>
@@ -1739,7 +1739,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>18</id>
 		<instant>1521124083000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>44</user>
 		<value>0</value>
@@ -1747,7 +1747,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>19</id>
 		<instant>1518311065000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>39</user>
 		<value>0</value>
@@ -1755,7 +1755,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>20</id>
 		<instant>1523559338000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>21</user>
 		<value>1</value>
@@ -1763,7 +1763,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>21</id>
 		<instant>1520709206000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>27</user>
 		<value>1</value>
@@ -1771,7 +1771,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>22</id>
 		<instant>1519818734000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>15</user>
 		<value>1</value>
@@ -1779,7 +1779,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>23</id>
 		<instant>1518915207000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>5</user>
 		<value>0</value>
@@ -1787,7 +1787,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>24</id>
 		<instant>1521241397000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>36</user>
 		<value>0</value>
@@ -1795,7 +1795,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>25</id>
 		<instant>1517873271000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>6</user>
 		<value>1</value>
@@ -1803,7 +1803,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>26</id>
 		<instant>1519819325000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>42</user>
 		<value>1</value>
@@ -1811,7 +1811,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>27</id>
 		<instant>1519371533000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>5</user>
 		<value>0</value>
@@ -1819,7 +1819,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>28</id>
 		<instant>1519854521000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>24</user>
 		<value>1</value>
@@ -1827,7 +1827,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>29</id>
 		<instant>1523263736000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>31</user>
 		<value>0</value>
@@ -1835,7 +1835,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>30</id>
 		<instant>1520708572000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>13</user>
 		<value>0</value>
@@ -1843,7 +1843,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>31</id>
 		<instant>1524436677000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>30</user>
 		<value>1</value>
@@ -1851,7 +1851,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>32</id>
 		<instant>1521703656000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>24</user>
 		<value>1</value>
@@ -1859,7 +1859,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>33</id>
 		<instant>1520739848000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>37</user>
 		<value>0</value>
@@ -1867,7 +1867,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>34</id>
 		<instant>1522108339000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>39</user>
 		<value>1</value>
@@ -1875,7 +1875,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>35</id>
 		<instant>1522347138000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>25</user>
 		<value>1</value>
@@ -1883,7 +1883,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>36</id>
 		<instant>1523358996000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>32</user>
 		<value>0</value>
@@ -1891,7 +1891,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>37</id>
 		<instant>1518958752000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>43</user>
 		<value>0</value>
@@ -1907,7 +1907,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>39</id>
 		<instant>1521495472000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>22</user>
 		<value>1</value>
@@ -1915,7 +1915,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>40</id>
 		<instant>1520765873000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>34</user>
 		<value>1</value>
@@ -1923,7 +1923,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>41</id>
 		<instant>1520428562000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>37</user>
 		<value>0</value>
@@ -1931,7 +1931,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>42</id>
 		<instant>1521878401000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>11</user>
 		<value>0</value>
@@ -1939,7 +1939,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>43</id>
 		<instant>1517730203000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>32</user>
 		<value>0</value>
@@ -1947,7 +1947,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>44</id>
 		<instant>1521348919000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>10</user>
 		<value>1</value>
@@ -1955,7 +1955,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>45</id>
 		<instant>1523275173000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>45</user>
 		<value>1</value>
@@ -1963,7 +1963,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>46</id>
 		<instant>1523450202000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>27</user>
 		<value>0</value>
@@ -1971,7 +1971,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>47</id>
 		<instant>1518980217000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>43</user>
 		<value>0</value>
@@ -1979,7 +1979,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>48</id>
 		<instant>1522553868000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>8</user>
 		<value>1</value>
@@ -1987,7 +1987,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>49</id>
 		<instant>1519457023000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>50</user>
 		<value>0</value>
@@ -1995,7 +1995,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>50</id>
 		<instant>1523799959000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>15</user>
 		<value>1</value>
@@ -2003,7 +2003,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>51</id>
 		<instant>1523431507000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>23</user>
 		<value>1</value>
@@ -2011,7 +2011,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>52</id>
 		<instant>1521881508000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>12</user>
 		<value>0</value>
@@ -2019,7 +2019,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>53</id>
 		<instant>1520475397000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>37</user>
 		<value>0</value>
@@ -2027,7 +2027,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>54</id>
 		<instant>1519072995000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>22</user>
 		<value>0</value>
@@ -2035,7 +2035,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>55</id>
 		<instant>1522995774000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>15</user>
 		<value>0</value>
@@ -2043,7 +2043,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>56</id>
 		<instant>1517626156000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>39</user>
 		<value>1</value>
@@ -2051,7 +2051,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>57</id>
 		<instant>1519687857000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>18</user>
 		<value>0</value>
@@ -2067,7 +2067,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>59</id>
 		<instant>1520461119000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>26</user>
 		<value>1</value>
@@ -2075,7 +2075,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>60</id>
 		<instant>1523636113000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>28</user>
 		<value>0</value>
@@ -2083,7 +2083,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>61</id>
 		<instant>1517605147000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>35</user>
 		<value>1</value>
@@ -2091,7 +2091,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>62</id>
 		<instant>1521456003000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>18</user>
 		<value>0</value>
@@ -2099,7 +2099,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>63</id>
 		<instant>1524716180000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>4</user>
 		<value>0</value>
@@ -2107,7 +2107,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>64</id>
 		<instant>1521119966000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>17</user>
 		<value>0</value>
@@ -2115,7 +2115,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>65</id>
 		<instant>1518029072000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>40</user>
 		<value>1</value>
@@ -2123,7 +2123,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>66</id>
 		<instant>1523583839000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>8</user>
 		<value>1</value>
@@ -2131,7 +2131,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>67</id>
 		<instant>1520877823000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>2</user>
 		<value>1</value>
@@ -2139,7 +2139,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>68</id>
 		<instant>1518401479000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>10</user>
 		<value>0</value>
@@ -2147,7 +2147,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>69</id>
 		<instant>1518121560000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>48</user>
 		<value>0</value>
@@ -2155,7 +2155,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>70</id>
 		<instant>1519726430000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>4</user>
 		<value>1</value>
@@ -2163,7 +2163,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>71</id>
 		<instant>1520267951000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>22</user>
 		<value>1</value>
@@ -2171,7 +2171,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>72</id>
 		<instant>1519927381000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>40</user>
 		<value>0</value>
@@ -2179,7 +2179,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>73</id>
 		<instant>1523814420000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>24</user>
 		<value>0</value>
@@ -2187,7 +2187,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>74</id>
 		<instant>1522108147000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>9</user>
 		<value>1</value>
@@ -2195,7 +2195,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>75</id>
 		<instant>1523436292000</instant>
-		<service>5</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>18</user>
 		<value>0</value>
@@ -2203,7 +2203,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>76</id>
 		<instant>1519853522000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>34</user>
 		<value>1</value>
@@ -2211,7 +2211,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>77</id>
 		<instant>1518304712000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>1</user>
 		<value>1</value>
@@ -2219,7 +2219,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>78</id>
 		<instant>1522856725000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>5</user>
 		<value>1</value>
@@ -2227,7 +2227,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>79</id>
 		<instant>1521508368000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>43</user>
 		<value>0</value>
@@ -2235,7 +2235,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>80</id>
 		<instant>1520152553000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>49</user>
 		<value>0</value>
@@ -2243,7 +2243,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>81</id>
 		<instant>1521843524000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>15</user>
 		<value>1</value>
@@ -2251,7 +2251,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>82</id>
 		<instant>1519522981000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>13</user>
 		<value>0</value>
@@ -2259,7 +2259,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>83</id>
 		<instant>1522405828000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>32</user>
 		<value>1</value>
@@ -2267,7 +2267,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>84</id>
 		<instant>1523917433000</instant>
-		<service>3</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>25</user>
 		<value>0</value>
@@ -2275,7 +2275,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>85</id>
 		<instant>1518350233000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>18</user>
 		<value>1</value>
@@ -2283,7 +2283,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>86</id>
 		<instant>1521920810000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>15</user>
 		<value>0</value>
@@ -2291,7 +2291,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>87</id>
 		<instant>1519439610000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>4</user>
 		<value>0</value>
@@ -2299,7 +2299,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>88</id>
 		<instant>1519090245000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>15</user>
 		<value>1</value>
@@ -2307,7 +2307,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>89</id>
 		<instant>1523547067000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>21</user>
 		<value>1</value>
@@ -2315,7 +2315,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>90</id>
 		<instant>1523454882000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>49</user>
 		<value>1</value>
@@ -2323,7 +2323,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>91</id>
 		<instant>1517792390000</instant>
-		<service>4</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>25</user>
 		<value>0</value>
@@ -2331,7 +2331,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>92</id>
 		<instant>1518551787000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>33</user>
 		<value>0</value>
@@ -2339,7 +2339,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>93</id>
 		<instant>1519644626000</instant>
-		<service>2</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>48</user>
 		<value>1</value>
@@ -2347,7 +2347,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>94</id>
 		<instant>1519252664000</instant>
-		<service>9</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>33</user>
 		<value>0</value>
@@ -2355,7 +2355,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>95</id>
 		<instant>1523018555000</instant>
-		<service>8</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>40</user>
 		<value>1</value>
@@ -2363,7 +2363,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>96</id>
 		<instant>1518913558000</instant>
-		<service>1</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>4</user>
 		<value>0</value>
@@ -2371,7 +2371,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>97</id>
 		<instant>1517651281000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>11</user>
 		<value>1</value>
@@ -2379,7 +2379,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>98</id>
 		<instant>1518498339000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>24</user>
 		<value>0</value>
@@ -2387,7 +2387,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>99</id>
 		<instant>1520977054000</instant>
-		<service>6</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>28</user>
 		<value>0</value>
@@ -2395,7 +2395,7 @@
 	<event xmlns="http://einfracentral.eu">
 		<id>100</id>
 		<instant>1518478244000</instant>
-		<service>7</service>
+		<service>1.10</service>
 		<type>FAVOURITE</type>
 		<user>39</user>
 		<value>1</value>
