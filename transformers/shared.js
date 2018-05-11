@@ -28,7 +28,7 @@ exports.toXML = (resource, type, vocType) => {
                 if (attribute === "id") {
                     if (type === "vocabulary") {
                         if (resource[attribute].indexOf(vocType) <= 0) {
-                            resource[attribute] = util.format("%s %s", vocType, resource[attribute]);
+                            resource[attribute] = util.format("%s-%s", vocType, resource[attribute]);
                         }
                     }
                     resource[attribute] = resource[attribute].replace(/\s/g, "_");
