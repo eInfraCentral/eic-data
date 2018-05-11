@@ -15,192 +15,304 @@
   ],
   "Subcategory": [
     {
-      "id": "Accounting",
-      "name": "Accounting"
+      "id": "Direct Connect",
+      "name": "Direct Connect"
     },
     {
-      "id": "Applications",
-      "name": "Applications"
+      "id": "Virtual Network",
+      "name": "Virtual Network"
     },
     {
-      "id": "Applications repository",
-      "name": "Applications repository"
+      "id": "Load Balancer",
+      "name": "Load Balancer"
     },
     {
-      "id": "Attribute authority",
-      "name": "Attribute authority"
+      "id": "Application Gateway",
+      "name": "Application Gateway"
     },
     {
-      "id": "Authentication proxy",
-      "name": "Authentication proxy"
+      "id": "VPN Gateway",
+      "name": "VPN Gateway"
     },
     {
-      "id": "Catalogue",
-      "name": "Catalogue"
+      "id": "Content Delivery Network",
+      "name": "Content Delivery Network"
     },
     {
-      "id": "Cold storage",
-      "name": "Cold storage"
+      "id": "Traffic Manager",
+      "name": "Traffic Manager"
     },
     {
-      "id": "Configuration database",
-      "name": "Configuration database"
+      "id": "API Gateway",
+      "name": "API Gateway"
     },
     {
-      "id": "Container management",
-      "name": "Container management"
+      "id": "Virtual Machine Container Management",
+      "name": "Virtual Machine Container Management"
     },
     {
-      "id": "Data linking",
-      "name": "Data linking"
+      "id": "Batch",
+      "name": "Batch"
     },
     {
-      "id": "Data management",
-      "name": "Data management"
+      "id": "Serverless Applications Repository",
+      "name": "Serverless Applications Repository"
     },
     {
-      "id": "Data transfer",
-      "name": "Data transfer"
+      "id": "Load Balancing",
+      "name": "Load Balancing"
     },
     {
-      "id": "Enabling platform",
-      "name": "Enabling platform"
+      "id": "Blob",
+      "name": "Blob"
     },
     {
-      "id": "Face-to-face training",
-      "name": "Face-to-face training"
+      "id": "File",
+      "name": "File"
     },
     {
-      "id": "Helpdesk",
-      "name": "Helpdesk"
+      "id": "Queue",
+      "name": "Queue"
     },
     {
-      "id": "Job execution",
-      "name": "Job execution"
+      "id": "Disk",
+      "name": "Disk"
     },
     {
-      "id": "Monitoring",
-      "name": "Monitoring"
+      "id": "Archive",
+      "name": "Archive"
     },
     {
-      "id": "Object storage",
-      "name": "Object storage"
+      "id": "Backup",
+      "name": "Backup"
     },
     {
-      "id": "Security, trust and identity",
-      "name": "Security, trust and identity"
+      "id": "Synchronised",
+      "name": "Synchronised"
     },
     {
-      "id": "Software repository",
-      "name": "Software repository"
+      "id": "Replicated",
+      "name": "Replicated"
     },
     {
-      "id": "Virtual machine management",
-      "name": "Virtual machine management"
+      "id": "Recovery",
+      "name": "Recovery"
     },
     {
-      "id": "Workload and data manager",
-      "name": "Workload and data manager"
-    }
-  ],
-  "Category": [
-    {
-      "id": "Authentication and authorization infrastructure",
-      "name": "Authentication and authorization infrastructure"
+      "id": "Mining",
+      "name": "Mining"
     },
     {
-      "id": "Compute",
-      "name": "Compute"
+      "id": "Access",
+      "name": "Access"
     },
     {
-      "id": "Consulting",
-      "name": "Consulting"
+      "id": "Management",
+      "name": "Management"
     },
     {
-      "id": "Content delivery",
-      "name": "Content delivery"
+      "id": "Transfer",
+      "name": "Transfer"
     },
     {
-      "id": "Data connectivity",
-      "name": "Data connectivity"
+      "id": "Registration",
+      "name": "Registration"
     },
     {
-      "id": "Data discovery",
-      "name": "Data discovery"
+      "id": "Persistent Identifier",
+      "name": "Persistent Identifier"
     },
     {
-      "id": "Data movement",
-      "name": "Data movement"
-    },
-    {
-      "id": "Data registration",
-      "name": "Data registration"
-    },
-    {
-      "id": "Data storage",
-      "name": "Data storage"
-    },
-    {
-      "id": "Interoperability",
-      "name": "Interoperability"
-    },
-    {
-      "id": "Monitor and analysis",
-      "name": "Monitor and analysis"
-    },
-    {
-      "id": "Network performance",
-      "name": "Network performance"
-    },
-    {
-      "id": "Operations",
-      "name": "Operations"
-    },
-    {
-      "id": "Platform",
-      "name": "Platform"
+      "id": "Interlinking",
+      "name": "Interlinking"
     },
     {
       "id": "Publishing",
       "name": "Publishing"
     },
     {
-      "id": "Repository",
-      "name": "Repository"
+      "id": "Discovery",
+      "name": "Discovery"
     },
     {
-      "id": "Research projects",
-      "name": "Research projects"
+      "id": "Anonymisation",
+      "name": "Anonymisation"
+    },
+    {
+      "id": "Preservation",
+      "name": "Preservation"
+    },
+    {
+      "id": "Brokering",
+      "name": "Brokering"
+    },
+    {
+      "id": "Annotation",
+      "name": "Annotation"
+    },
+    {
+      "id": "Platform",
+      "name": "Platform"
+    },
+    {
+      "id": "Tool",
+      "name": "Tool"
+    },
+    {
+      "id": "Component",
+      "name": "Component"
+    },
+    {
+      "id": "Developer",
+      "name": "Developer"
+    },
+    {
+      "id": "Porting",
+      "name": "Porting"
+    },
+    {
+      "id": "Scaling",
+      "name": "Scaling"
+    },
+    {
+      "id": "Education",
+      "name": "Education"
+    },
+    {
+      "id": "Productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "Business",
+      "name": "Business"
+    },
+    {
+      "id": "Developer",
+      "name": "Developer"
+    },
+    {
+      "id": "Authentication and Authorisation",
+      "name": "Authentication and Authorisation"
+    },
+    {
+      "id": "Attacks protection",
+      "name": "Attacks protection"
+    },
+    {
+      "id": "Business Analytics",
+      "name": "Business Analytics"
+    },
+    {
+      "id": "Web Analytics",
+      "name": "Web Analytics"
+    },
+    {
+      "id": "Learning Analytics",
+      "name": "Learning Analytics"
+    },
+    {
+      "id": "Predictive Analytics",
+      "name": "Predictive Analytics"
+    },
+    {
+      "id": "Machine Learning",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "Accounting",
+      "name": "Accounting"
+    },
+    {
+      "id": "Helpdesk",
+      "name": "Helpdesk"
+    },
+    {
+      "id": "Monitoring",
+      "name": "Monitoring"
+    },
+    {
+      "id": "Analysis",
+      "name": "Analysis"
+    },
+    {
+      "id": "Configuration",
+      "name": "Configuration"
+    },
+    {
+      "id": "Online",
+      "name": "Online"
+    },
+    {
+      "id": "Face-to-face",
+      "name": "Face-to-face"
+    },
+    {
+      "id": "Platform",
+      "name": "Platform"
+    },
+    {
+      "id": "Other",
+      "name": "Other"
+    }
+  ],
+  "Category": [
+    {
+      "id": "Networking",
+      "name": "Networking"
+    },
+    {
+      "id": "Compute",
+      "name": "Compute"
+    },
+    {
+      "id": "Storage",
+      "name": "Storage"
+    },
+    {
+      "id": "Data",
+      "name": "Data"
+    },
+    {
+      "id": "Software",
+      "name": "Software"
     },
     {
       "id": "Security",
       "name": "Security"
     },
     {
-      "id": "Storage and data",
-      "name": "Storage and data"
+      "id": "Analytics",
+      "name": "Analytics"
     },
     {
-      "id": "Text mining, data mining, information extraction",
-      "name": "Text mining, data mining, information extraction"
+      "id": "Operations",
+      "name": "Operations"
     },
     {
       "id": "Training",
       "name": "Training"
+    },
+    {
+      "id": "Consulting",
+      "name": "Consulting"
+    },
+    {
+      "id": "Other",
+      "name": "Other"
     }
   ],
   "TechnologyReadinessLevel": [
     {
       "id": "7",
-      "name": "TRL7 - Operational prototype demonstration"
+      "name": "7 - Operational prototype demonstration"
     },
     {
       "id": "8",
-      "name": "TRL8 - Qualified through test and demonstration"
+      "name": "8 - Qualified through test and demonstration"
     },
     {
       "id": "9",
-      "name": "TRL9 - Proven through successful operations"
+      "name": "9 - Proven through successful operations"
     }
   ],
   "Country": [
