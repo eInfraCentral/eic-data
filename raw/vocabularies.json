@@ -13,6 +13,66 @@
       "name": "Production"
     }
   ],
+  "TRL": [
+    {
+      "id": "7",
+      "name": "7 - Operational prototype demonstration"
+    },
+    {
+      "id": "8",
+      "name": "8 - Qualified through test and demonstration"
+    },
+    {
+      "id": "9",
+      "name": "9 - Proven through successful operations"
+    }
+  ],
+  "Category": [
+    {
+      "id": "Networking",
+      "name": "Networking"
+    },
+    {
+      "id": "Compute",
+      "name": "Compute"
+    },
+    {
+      "id": "Storage",
+      "name": "Storage"
+    },
+    {
+      "id": "Data",
+      "name": "Data"
+    },
+    {
+      "id": "Software",
+      "name": "Software"
+    },
+    {
+      "id": "Security",
+      "name": "Security"
+    },
+    {
+      "id": "Analytics",
+      "name": "Analytics"
+    },
+    {
+      "id": "Operations",
+      "name": "Operations"
+    },
+    {
+      "id": "Training",
+      "name": "Training"
+    },
+    {
+      "id": "Consulting",
+      "name": "Consulting"
+    },
+    {
+      "id": "Other",
+      "name": "Other"
+    }
+  ],
   "Subcategory": [
     {
       "id": "Direct Connect",
@@ -253,66 +313,6 @@
     {
       "id": "Other",
       "name": "Other"
-    }
-  ],
-  "Category": [
-    {
-      "id": "Networking",
-      "name": "Networking"
-    },
-    {
-      "id": "Compute",
-      "name": "Compute"
-    },
-    {
-      "id": "Storage",
-      "name": "Storage"
-    },
-    {
-      "id": "Data",
-      "name": "Data"
-    },
-    {
-      "id": "Software",
-      "name": "Software"
-    },
-    {
-      "id": "Security",
-      "name": "Security"
-    },
-    {
-      "id": "Analytics",
-      "name": "Analytics"
-    },
-    {
-      "id": "Operations",
-      "name": "Operations"
-    },
-    {
-      "id": "Training",
-      "name": "Training"
-    },
-    {
-      "id": "Consulting",
-      "name": "Consulting"
-    },
-    {
-      "id": "Other",
-      "name": "Other"
-    }
-  ],
-  "TRL": [
-    {
-      "id": "7",
-      "name": "7 - Operational prototype demonstration"
-    },
-    {
-      "id": "8",
-      "name": "8 - Qualified through test and demonstration"
-    },
-    {
-      "id": "9",
-      "name": "9 - Proven through successful operations"
     }
   ],
   "Country": [
