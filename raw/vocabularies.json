@@ -301,7 +301,7 @@
       "name": "Other"
     }
   ],
-  "TechnologyReadinessLevel": [
+  "TRL": [
     {
       "id": "7",
       "name": "7 - Operational prototype demonstration"
