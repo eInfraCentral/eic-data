@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>Accounting</id>
+	<id>Subcategory-Accounting</id>
 	<name>Accounting</name>
 	<type>Subcategory</type>
 </vocabulary>

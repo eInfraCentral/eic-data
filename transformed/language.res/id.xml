@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>id</id>
+	<id>Language-id</id>
 	<name>Indonesian</name>
 	<type>Language</type>
 </vocabulary>

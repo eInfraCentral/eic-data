@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocabulary xmlns="http://einfracentral.eu">
+	<id>LifeCycleStatus-Beta</id>
+	<name>Beta</name>
+	<type>LifeCycleStatus</type>
+</vocabulary>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>io</id>
+	<id>Language-io</id>
 	<name>Ido</name>
 	<type>Language</type>
 </vocabulary>

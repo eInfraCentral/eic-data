@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>BQ</id>
+	<id>Country-BQ</id>
 	<name>Bonaire, Sint Eustatius and Saba</name>
 	<type>Country</type>
 </vocabulary>

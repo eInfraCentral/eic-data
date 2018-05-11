@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>TD</id>
+	<id>Country-TD</id>
 	<name>Chad</name>
 	<type>Country</type>
 </vocabulary>

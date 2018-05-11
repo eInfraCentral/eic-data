@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>DO</id>
+	<id>Country-DO</id>
 	<name>Dominican Republic</name>
 	<type>Country</type>
 </vocabulary>

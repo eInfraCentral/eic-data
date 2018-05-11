@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>VC</id>
+	<id>Country-VC</id>
 	<name>Saint Vincent and the Grenadines</name>
 	<type>Country</type>
 </vocabulary>

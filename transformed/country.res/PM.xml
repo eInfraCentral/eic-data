@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>PM</id>
+	<id>Country-PM</id>
 	<name>Saint Pierre and Miquelon</name>
 	<type>Country</type>
 </vocabulary>

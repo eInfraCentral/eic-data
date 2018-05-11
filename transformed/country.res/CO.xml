@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>CO</id>
+	<id>Country-CO</id>
 	<name>Colombia</name>
 	<type>Country</type>
 </vocabulary>

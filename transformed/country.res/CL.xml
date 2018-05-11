@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>CL</id>
+	<id>Country-CL</id>
 	<name>Chile</name>
 	<type>Country</type>
 </vocabulary>

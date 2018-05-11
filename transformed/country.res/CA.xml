@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vocabulary xmlns="http://einfracentral.eu">
-	<id>CA</id>
+	<id>Country-CA</id>
 	<name>Canada</name>
 	<type>Country</type>
 </vocabulary>
