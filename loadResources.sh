@@ -3,7 +3,7 @@ verbose="--write-out \%\{http\_code\} --silent --output /dev/null"
 function json {
     cat $1 | python -c 'import json,sys; print(json.dumps(sys.stdin.read()))'
 }
-vocabs=(category country language phase subcategory technologyreadinesslevel)
+vocabs=(category place language lifecyclestatus subcategory trl)
 function post_resourceType {
     data=`cat $1`
     response=$(curl -X POST --write-out %{http_code} --silent --output /dev/null --data "$data" --header "Content-Type:application/json" http://$2:8080/eic-registry/resourceType/)
