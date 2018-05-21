@@ -1,0 +1,71 @@
+id	name	category	subcategory
+4.12	AMNESIA	Content delivery	Data Management
+3.04	G&#xC9;ANT Open	Connectivity	enabling platform
+4.09	FP7 Post-Grant Gold Open Access Pilot	Publishing	Enabling platform
+1.21	EGI Applications on Demand	Platform	enabling platform
+3.02	G&#xC9;ANT Plus	Connectivity	data linking
+1.09	EGI Service Monitoring	Operations	monitoring
+1.15	EGI Attribute Management	Security	attribute authority
+1.04	EGI Online Storage	Storage and Data	object storage
+5.05	SHAPE	Consulting	Face-to-face training
+3.12	eduGAIN	Security	Security, Trust and Identity
+1.16	EGI Helpdesk	Operations	&#x397;elpdesk
+4.10	OpenAIRE Usage Statistics	Monitor and analysis	Monitoring
+3.09	perfSONAR	Network Performance	Applications
+5.08	PRACE MOOC	Training	enabling platform
+2.07	B2ACCESS	Authentication and authorization infrastructure	Security, trust and identity
+4.05	Zenodo	Publishing	Data management
+1.07	EGI FitSM Training	Training	Face-to-face training
+3.05	G&#xC9;ANT MDVPN	Connectivity	data linking
+4.15	OpenAIRE Funder Dashboard	Monitor and analysis	Monitoring
+2.05	B2STAGE	Data movement	Data transfer
+4.11	OpenAIRE Broker	Connectivity	Enabling platform
+3.08	eduroam	Connectivity	enabling platform
+1.02	EGI Cloud Compute	Compute	virtual machine management
+3.15	Trusted Introducer	Security	Security, Trust and Identity
+4.06	OpenAIRE Inference	Text Mining, Data Mining, Information Extraction	
+4.13	OpenAIRE ScholeXplorer	Connectivity	data linking
+4.17	Open Science Helpdesk	Training	&#x397;elpdesk
+5.03	PRACE DECI Access	Compute	job execution
+3.13	eduGAIN Federation as a Service	Security	Security, Trust and Identity
+5.01	PRACE Project Access	Compute	job execution
+3.07	G&#xC9;ANT Testbeds Service	Research Projects	Virtual machine management
+3.10	eduPERT	Network Performance	monitoring
+1.19	EGI Operational tools	Operations	monitoring
+2.03	B2DROP	Data storage	Data management
+2.06	B2HANDLE	Data registration	Data management
+5.07	PRACE Training Portal	Training	Catalogue
+5.11	PRACE Seasonal Schools and International Summer School	Training	Face-to-face training
+3.06	G&#xC9;ANT L3VPN	Data movement	Connectivity
+5.02	PRACE Preparatory Access	Compute	Data Management
+2.04	B2FIND	Data discovery	Catalogue
+1.18	EGI Validated Software and Repository	Repository	Software repository
+4.07	OpenAIRE Guidelines	Interoperability	&#x397;elpdesk
+1.05	EGI Archive Storage	Storage and Data	Cold storage
+4.08	Open Science Training	Training	Face-to-face training
+1.14	EGI Check-In	Security	Authentication proxy
+4.04	OpenAIRE Data Provider Dashboard	Connectivity	
+1.01	EGI Cloud Container Compute	Compute	Container management
+3.11	Trusted Certificate Service	Security	Security, Trust and Identity
+1.06	EGI Data Transfer	Storage and Data	data transfer
+1.20	EGI Marketplace	Operations	Catalogue
+3.16	InAcademia	Security	Security, Trust and Identity
+3.14	TRANSITS Training	Security	Security, Trust and Identity
+5.10	PTC	Training	Face-to-face training
+1.03	EGI High-Throughput Compute	Compute	job execution
+2.01	B2SAFE	Data storage	Data management
+2.02	B2SHARE	Data storage	Data management
+4.02	OpenAIRE Graph	Content delivery	Catalogue
+1.08	EGI Training Infrastructure	Training	enabling platform
+4.03	OpenAIRE Validator	Interoperability	Enabling platform
+4.14	OpenAIRE Institution Dashboard	Monitor and analysis	Monitoring
+3.01	G&#xC9;ANT IP	Data movement	Connectivity
+5.06	PRACE Code Vault	Repository	Software repository
+3.03	G&#xC9;ANT Lambda	Connectivity	data transfer
+1.11	EGI Configuration Database	Operations	Configuration database
+5.04	PRACE Application Enabling Support	Consulting	Applications
+1.10	EGI Accounting	Operations	&#x391;ccounting
+5.09	PATC	Training	Face-to-face training
+4.16	OpenAIRE Research Analytics	Monitor and analysis	Monitoring
+3.17	G&#xC9;ANT Clouds Service - Infrastructure as a Service	Compute	Virtual machine management
+4.01	OpenAIRE Discovery Portal	Content delivery	Catalogue

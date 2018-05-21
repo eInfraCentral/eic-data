@@ -1,0 +1,71 @@
+id	name	category	subcategory
+1.19	EGI Operational tools	Category-Operations	Subcategory-Other
+5.06	PRACE Code Vault	Category-Other	Subcategory-Other
+2.03	B2DROP	Category-Other	Subcategory-Other
+3.03	G&#xC9;ANT Lambda	Category-Other	Subcategory-Other
+2.07	B2ACCESS	Category-Other	Subcategory-Other
+1.04	EGI Online Storage	Category-Other	Subcategory-Other
+4.03	OpenAIRE Validator	Category-Other	Subcategory-Other
+3.08	eduroam	Category-Other	Subcategory-Other
+3.05	G&#xC9;ANT MDVPN	Category-Other	Subcategory-Other
+3.15	Trusted Introducer	Category-Security	Subcategory-Other
+5.11	PRACE Seasonal Schools and International Summer School	Category-Training	Subcategory-Other
+5.07	PRACE Training Portal	Category-Training	Subcategory-Other
+4.02	OpenAIRE Graph	Category-Other	Subcategory-Other
+1.14	EGI Check-In	Category-Security	Subcategory-Other
+3.07	G&#xC9;ANT Testbeds Service	Category-Other	Subcategory-Other
+3.10	eduPERT	Category-Other	Subcategory-Other
+4.06	OpenAIRE Inference 	Category-Other	Subcategory-Other
+1.10	EGI Accounting	Category-Operations	Subcategory-Other
+3.17	G&#xC9;ANT Clouds Service - Infrastructure as a Service	Category-Compute	Subcategory-Other
+3.06	G&#xC9;ANT L3VPN	Category-Other	Subcategory-Other
+1.01	EGI Cloud Container Compute	Category-Compute	Subcategory-Other
+4.14	OpenAIRE Institution Dashboard	Category-Other	Subcategory-Monitoring
+4.10	OpenAIRE Usage Statistics	Category-Other	Subcategory-Monitoring
+5.05	SHAPE	Category-Consulting	Subcategory-Other
+1.02	EGI Cloud Compute	Category-Compute	Subcategory-Other
+5.08	PRACE MOOC	Category-Training	Subcategory-Other
+3.09	perfSONAR	Category-Other	Subcategory-Other
+3.11	Trusted Certificate Service	Category-Security	Subcategory-Other
+1.03	EGI High-Throughput Compute	Category-Compute	Subcategory-Other
+4.13	OpenAIRE ScholeXplorer	Category-Other	Subcategory-Other
+5.02	PRACE Preparatory Access	Category-Compute	Subcategory-Other
+5.04	PRACE Application Enabling Support	Category-Consulting	Subcategory-Other
+2.05	B2STAGE	Category-Other	Subcategory-Other
+4.09	FP7 Post-Grant Gold Open Access Pilot	Category-Other	Subcategory-Other
+5.03	PRACE DECI Access	Category-Compute	Subcategory-Other
+1.06	EGI Data Transfer	Category-Other	Subcategory-Other
+5.09	PATC	Category-Training	Subcategory-Other
+1.07	EGI FitSM Training	Category-Training	Subcategory-Other
+1.18	EGI Validated Software and Repository	Category-Other	Subcategory-Other
+4.15	OpenAIRE Funder Dashboard	Category-Other	Subcategory-Monitoring
+1.09	EGI Service Monitoring	Category-Operations	Subcategory-Other
+4.08	Open Science Training	Category-Training	Subcategory-Other
+1.15	EGI Attribute Management	Category-Security	Subcategory-Other
+4.01	OpenAIRE Discovery Portal	Category-Other	Subcategory-Other
+2.04	B2FIND	Category-Other	Subcategory-Other
+3.01	G&#xC9;ANT IP	Category-Other	Subcategory-Other
+3.13	eduGAIN Federation as a Service	Category-Security	Subcategory-Other
+3.12	eduGAIN	Category-Security	Subcategory-Other
+1.08	EGI Training Infrastructure	Category-Training	Subcategory-Other
+2.01	B2SAFE	Category-Other	Subcategory-Other
+4.17	Open Science Helpdesk	Category-Training	Subcategory-Other
+3.14	TRANSITS Training	Category-Security	Subcategory-Other
+1.21	EGI Applications on Demand	Category-Other	Subcategory-Other
+5.01	PRACE Project Access	Category-Compute	Subcategory-Other
+3.16	InAcademia	Category-Security	Subcategory-Other
+4.04	OpenAIRE Data Provider Dashboard	Category-Other	Subcategory-Other
+4.07	OpenAIRE Guidelines	Category-Other	Subcategory-Other
+4.05	Zenodo	Category-Other	Subcategory-Other
+3.04	G&#xC9;ANT Open	Category-Other	Subcategory-Other
+1.05	EGI Archive Storage	Category-Other	Subcategory-Other
+5.10	PTC	Category-Training	Subcategory-Other
+3.02	G&#xC9;ANT Plus	Category-Other	Subcategory-Other
+2.06	B2HANDLE	Category-Other	Subcategory-Other
+1.11	EGI Configuration Database	Category-Operations	Subcategory-Other
+2.02	B2SHARE	Category-Other	Subcategory-Other
+1.20	EGI Marketplace	Category-Operations	Subcategory-Other
+4.16	OpenAIRE Research Analytics 	Category-Other	Subcategory-Monitoring
+1.16	EGI Helpdesk	Category-Operations	Subcategory-Other
+4.12	AMNESIA	Category-Other	Subcategory-Other
+4.11	OpenAIRE Broker	Category-Other	Subcategory-Other

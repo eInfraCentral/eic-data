@@ -1,0 +1,71 @@
+id,name,category_old,subcategory_old,category_new,subcategory_new
+1.01,EGI Cloud Container Compute,Compute,Container management,Category-Compute,Subcategory-Other
+1.02,EGI Cloud Compute,Compute,virtual machine management,Category-Compute,Subcategory-Other
+1.03,EGI High-Throughput Compute,Compute,job execution,Category-Compute,Subcategory-Other
+1.04,EGI Online Storage,Storage and Data,object storage,Category-Other,Subcategory-Other
+1.05,EGI Archive Storage,Storage and Data,Cold storage,Category-Other,Subcategory-Other
+1.06,EGI Data Transfer,Storage and Data,data transfer,Category-Other,Subcategory-Other
+1.07,EGI FitSM Training,Training,Face-to-face training,Category-Training,Subcategory-Other
+1.08,EGI Training Infrastructure,Training,enabling platform,Category-Training,Subcategory-Other
+1.09,EGI Service Monitoring,Operations,monitoring,Category-Operations,Subcategory-Other
+1.10,EGI Accounting,Operations,&#x391;ccounting,Category-Operations,Subcategory-Other
+1.11,EGI Configuration Database,Operations,Configuration database,Category-Operations,Subcategory-Other
+1.14,EGI Check-In,Security,Authentication proxy,Category-Security,Subcategory-Other
+1.15,EGI Attribute Management,Security,attribute authority,Category-Security,Subcategory-Other
+1.16,EGI Helpdesk,Operations,&#x397;elpdesk,Category-Operations,Subcategory-Other
+1.18,EGI Validated Software and Repository,Repository,Software repository,Category-Other,Subcategory-Other
+1.19,EGI Operational tools,Operations,monitoring,Category-Operations,Subcategory-Other
+1.20,EGI Marketplace,Operations,Catalogue,Category-Operations,Subcategory-Other
+1.21,EGI Applications on Demand,Platform,enabling platform,Category-Other,Subcategory-Other
+2.01,B2SAFE,Data storage,Data management,Category-Other,Subcategory-Other
+2.02,B2SHARE,Data storage,Data management,Category-Other,Subcategory-Other
+2.03,B2DROP,Data storage,Data management,Category-Other,Subcategory-Other
+2.04,B2FIND,Data discovery,Catalogue,Category-Other,Subcategory-Other
+2.05,B2STAGE,Data movement,Data transfer,Category-Other,Subcategory-Other
+2.06,B2HANDLE,Data registration,Data management,Category-Other,Subcategory-Other
+2.07,B2ACCESS,Authentication and authorization infrastructure,"Security, trust and identity",Category-Other,Subcategory-Other
+3.01,G&#xC9;ANT IP,Data movement,Connectivity,Category-Other,Subcategory-Other
+3.02,G&#xC9;ANT Plus,Connectivity,data linking,Category-Other,Subcategory-Other
+3.03,G&#xC9;ANT Lambda,Connectivity,data transfer,Category-Other,Subcategory-Other
+3.04,G&#xC9;ANT Open,Connectivity,enabling platform,Category-Other,Subcategory-Other
+3.05,G&#xC9;ANT MDVPN,Connectivity,data linking,Category-Other,Subcategory-Other
+3.06,G&#xC9;ANT L3VPN,Data movement,Connectivity,Category-Other,Subcategory-Other
+3.07,G&#xC9;ANT Testbeds Service,Research Projects,Virtual machine management,Category-Other,Subcategory-Other
+3.08,eduroam,Connectivity,enabling platform,Category-Other,Subcategory-Other
+3.09,perfSONAR,Network Performance,Applications,Category-Other,Subcategory-Other
+3.10,eduPERT,Network Performance,monitoring,Category-Other,Subcategory-Other
+3.11,Trusted Certificate Service,Security,"Security, Trust and Identity",Category-Security,Subcategory-Other
+3.12,eduGAIN,Security,"Security, Trust and Identity",Category-Security,Subcategory-Other
+3.13,eduGAIN Federation as a Service,Security,"Security, Trust and Identity",Category-Security,Subcategory-Other
+3.14,TRANSITS Training,Security,"Security, Trust and Identity",Category-Security,Subcategory-Other
+3.15,Trusted Introducer,Security,"Security, Trust and Identity",Category-Security,Subcategory-Other
+3.16,InAcademia,Security,"Security, Trust and Identity",Category-Security,Subcategory-Other
+3.17,G&#xC9;ANT Clouds Service - Infrastructure as a Service,Compute,Virtual machine management,Category-Compute,Subcategory-Other
+4.01,OpenAIRE Discovery Portal,Content delivery,Catalogue,Category-Other,Subcategory-Other
+4.02,OpenAIRE Graph,Content delivery,Catalogue,Category-Other,Subcategory-Other
+4.03,OpenAIRE Validator,Interoperability,Enabling platform,Category-Other,Subcategory-Other
+4.04,OpenAIRE Data Provider Dashboard,Connectivity,,Category-Other,Subcategory-Other
+4.05,Zenodo,Publishing,Data management,Category-Other,Subcategory-Other
+4.06,OpenAIRE Inference,"Text Mining, Data Mining, Information Extraction",,Category-Other,Subcategory-Other
+4.07,OpenAIRE Guidelines,Interoperability,&#x397;elpdesk,Category-Other,Subcategory-Other
+4.08,Open Science Training,Training,Face-to-face training,Category-Training,Subcategory-Other
+4.09,FP7 Post-Grant Gold Open Access Pilot,Publishing,Enabling platform,Category-Other,Subcategory-Other
+4.10,OpenAIRE Usage Statistics,Monitor and analysis,Monitoring,Category-Other,Subcategory-Monitoring
+4.11,OpenAIRE Broker,Connectivity,Enabling platform,Category-Other,Subcategory-Other
+4.12,AMNESIA,Content delivery,Data Management,Category-Other,Subcategory-Other
+4.13,OpenAIRE ScholeXplorer,Connectivity,data linking,Category-Other,Subcategory-Other
+4.14,OpenAIRE Institution Dashboard,Monitor and analysis,Monitoring,Category-Other,Subcategory-Monitoring
+4.15,OpenAIRE Funder Dashboard,Monitor and analysis,Monitoring,Category-Other,Subcategory-Monitoring
+4.16,OpenAIRE Research Analytics,Monitor and analysis,Monitoring,Category-Other,Subcategory-Monitoring
+4.17,Open Science Helpdesk,Training,&#x397;elpdesk,Category-Training,Subcategory-Other
+5.01,PRACE Project Access,Compute,job execution,Category-Compute,Subcategory-Other
+5.02,PRACE Preparatory Access,Compute,Data Management,Category-Compute,Subcategory-Other
+5.03,PRACE DECI Access,Compute,job execution,Category-Compute,Subcategory-Other
+5.04,PRACE Application Enabling Support,Consulting,Applications,Category-Consulting,Subcategory-Other
+5.05,SHAPE,Consulting,Face-to-face training,Category-Consulting,Subcategory-Other
+5.06,PRACE Code Vault,Repository,Software repository,Category-Other,Subcategory-Other
+5.07,PRACE Training Portal,Training,Catalogue,Category-Training,Subcategory-Other
+5.08,PRACE MOOC,Training,enabling platform,Category-Training,Subcategory-Other
+5.09,PATC,Training,Face-to-face training,Category-Training,Subcategory-Other
+5.10,PTC,Training,Face-to-face training,Category-Training,Subcategory-Other
+5.11,PRACE Seasonal Schools and International Summer School,Training,Face-to-face training,Category-Training,Subcategory-Other
