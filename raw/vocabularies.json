@@ -16,15 +16,15 @@
   "TRL": [
     {
       "id": "7",
-      "name": "7 - Operational prototype demonstration"
+      "name": "7 - system prototype demonstration in operational environment"
     },
     {
       "id": "8",
-      "name": "8 - Qualified through test and demonstration"
+      "name": "8 - system complete and qualified"
     },
     {
       "id": "9",
-      "name": "9 - Proven through successful operations"
+      "name": "9 - actual system proven in operational environment"
     }
   ],
   "Category": [
