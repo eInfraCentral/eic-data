@@ -3,7 +3,8 @@ let util = require("util");
 
 let singulars = {
     "providers": "provider", "places": "place", "languages": "language", "tags": "tag",
-    "requiredServices": "requiredService", "relatedServices": "relatedService", "termsOfUse": "termOfUse"
+    "requiredServices": "requiredService", "relatedServices": "relatedService", "termsOfUse": "termOfUse",
+    "extras": "extra"
 };
 
 exports.read = util.promisify(fs.readFile);
