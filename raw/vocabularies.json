@@ -30,43 +30,84 @@
   "Category": [
     {
       "id": "Networking",
-      "name": "Networking"
+      "name": "Networking",
+      "extras": [
+        "data-connectivity.svg",
+        "data-connectivity_hover.svg"
+      ]
     },
     {
       "id": "Compute",
-      "name": "Compute"
+      "name": "Compute",
+      "extras": [
+        "dashboard_performance.svg",
+        "dashboard_performance_hover.svg"
+      ]
     },
     {
       "id": "Storage",
-      "name": "Storage"
+      "name": "Storage",
+      "extras": [
+        "database.svg",
+        "database_hover.svg"
+      ]
     },
     {
       "id": "Data",
-      "name": "Data"
+      "name": "Data",
+      "extras": [
+        "cloud_server.svg",
+        "cloud_server_hover.svg"
+      ]
     },
     {
       "id": "Software",
-      "name": "Software"
+      "name": "Software",
+      "extras": [
+        "puzzle.svg",
+        "puzzle_hover.svg"
+
+      ]
     },
     {
       "id": "Security",
-      "name": "Security"
+      "name": "Security",
+      "extras": [
+        "unlock.svg",
+        "unlock_hover.svg"
+      ]
     },
     {
       "id": "Analytics",
-      "name": "Analytics"
+      "name": "Analytics",
+      "extras": [
+        "analysis.svg",
+        "analysis_hover.svg"
+      ]
     },
     {
       "id": "Operations",
-      "name": "Operations"
+      "name": "Operations",
+      "extras": [
+        "peopletalk.svg",
+        "peopletalk_hover.svg"
+      ]
     },
     {
       "id": "Training",
-      "name": "Training"
+      "name": "Training",
+      "extras": [
+        "training-presentation-teach-meeting.svg",
+        "training-presentation-teach-meeting_hover.svg"
+      ]
     },
     {
       "id": "Consulting",
-      "name": "Consulting"
+      "name": "Consulting",
+      "extras": [
+        "consulting.svg",
+        "consulting_hover.svg"
+      ]
     },
     {
       "id": "Other",
