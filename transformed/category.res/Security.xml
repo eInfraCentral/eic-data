@@ -2,5 +2,6 @@
 <vocabulary xmlns="http://einfracentral.eu">
 	<id>Category-Security</id>
 	<name>Security</name>
+	<extras><extra>unlock.svg</extra><extra>unlock_hover.svg</extra></extras>
 	<type>Category</type>
 </vocabulary>

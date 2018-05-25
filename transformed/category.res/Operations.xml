@@ -2,5 +2,6 @@
 <vocabulary xmlns="http://einfracentral.eu">
 	<id>Category-Operations</id>
 	<name>Operations</name>
+	<extras><extra>peopletalk.svg</extra><extra>peopletalk_hover.svg</extra></extras>
 	<type>Category</type>
 </vocabulary>

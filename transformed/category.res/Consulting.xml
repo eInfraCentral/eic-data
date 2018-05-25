@@ -2,5 +2,6 @@
 <vocabulary xmlns="http://einfracentral.eu">
 	<id>Category-Consulting</id>
 	<name>Consulting</name>
+	<extras><extra>consulting.svg</extra><extra>consulting_hover.svg</extra></extras>
 	<type>Category</type>
 </vocabulary>

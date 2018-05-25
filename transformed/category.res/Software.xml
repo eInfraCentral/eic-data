@@ -2,5 +2,6 @@
 <vocabulary xmlns="http://einfracentral.eu">
 	<id>Category-Software</id>
 	<name>Software</name>
+	<extras><extra>puzzle.svg</extra><extra>puzzle_hover.svg</extra></extras>
 	<type>Category</type>
 </vocabulary>

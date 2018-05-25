@@ -2,5 +2,6 @@
 <vocabulary xmlns="http://einfracentral.eu">
 	<id>Category-Compute</id>
 	<name>Compute</name>
+	<extras><extra>dashboard_performance.svg</extra><extra>dashboard_performance_hover.svg</extra></extras>
 	<type>Category</type>
 </vocabulary>

@@ -2,5 +2,6 @@
 <vocabulary xmlns="http://einfracentral.eu">
 	<id>Category-Data</id>
 	<name>Data</name>
+	<extras><extra>cloud_server.svg</extra><extra>cloud_server_hover.svg</extra></extras>
 	<type>Category</type>
 </vocabulary>

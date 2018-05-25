@@ -2,5 +2,6 @@
 <vocabulary xmlns="http://einfracentral.eu">
 	<id>Category-Training</id>
 	<name>Training</name>
+	<extras><extra>training-presentation-teach-meeting.svg</extra><extra>training-presentation-teach-meeting_hover.svg</extra></extras>
 	<type>Category</type>
 </vocabulary>
